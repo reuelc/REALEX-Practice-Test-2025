@@ -1,4 +1,4 @@
-// File: C:\Users\user\Desktop\REALEX\REBLEX-practice-test-set1\app\test\[part]\page.tsx
+// File: C:\Users\user\Documents\GitHub\REALEX-Practice-Test-2025\app\test\[part]\page.tsx
 import * as entry from '../../../../../app/test/[part]/page.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 

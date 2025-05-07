@@ -21,12 +21,23 @@ const nextConfig = {
   },
   images: {
     unoptimized: true,
+    domains: ['localhost'],
+    remotePatterns: [
+      {
+        protocol: 'https',
+        hostname: '**',
+      },
+    ],
   },
   experimental: {
     webpackBuildWorker: true,
     parallelServerBuildTraces: true,
     parallelServerCompiles: true,
   },
+  // Ensure Netlify handles Next.js routing properly
+  trailingSlash: false,
+  poweredByHeader: false,
+  reactStrictMode: true,
 }
 
 if (userConfig) {
