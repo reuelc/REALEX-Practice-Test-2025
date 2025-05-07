@@ -1,7 +1,7 @@
 [build]
-  command = "npx pnpm install --no-frozen-lockfile && npx pnpm run build"
+  command = "npm install && npm run build"
   publish = ".next"
 
 [build.environment]
   NODE_VERSION = "22"
-  NPM_FLAGS = "--no-frozen-lockfile"
+  SKIP_INSTALL_DEPS = "true"
