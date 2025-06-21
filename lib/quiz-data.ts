@@ -429,7 +429,7 @@ export const quizParts: QuizPart[] = [
         "question": "Before a successful examinee can practice the real estate service profession, they must:",
         "options": [
           "A. Present a notarized contract of employment.",
-          "B. Post a surety bond of ₱50,000.",
+          "B. Post a surety bond of P50,000.",
           "C. Take an oath before the Board or Commission.",
           "D. Submit tax clearance from the BIR."
         ],
@@ -3684,379 +3684,379 @@ export const quizParts: QuizPart[] = [
           {
             question: "Ruben Dolor and Trisha Dolor, who contracted marriage in 1999, are governed by the regime of absolute community of property. If Ruben intends to donate a parcel of land-classified as community property-to his cousin, which of the following statements accurately reflects the legal requirement under the Family Code?",
             options: [
-              "a) Yes, he may dispose of community property by donation at his sole discretion.",
-              "b) No, such donation requires the prior consent of his spouse to be valid.",
-              "c) No, the donation of community property to a third party is strictly prohibited by law.",
-              "d) None of the above."
+              "A Yes, he may dispose of community property by donation at his sole discretion.",
+              "B No, such donation requires the prior consent of his spouse to be valid.",
+              "C No, the donation of community property to a third party is strictly prohibited by law.",
+              "D None of the above."
             ],
-            correct: "b) No, such donation requires the prior consent of his spouse to be valid."
+            correct: "B No, such donation requires the prior consent of his spouse to be valid."
           },
           {
             question: "In a marital union governed either by the regime of absolute community or conjugal partnership of gains, if one spouse unilaterally assumes exclusive authority over the administration of shared property and proceeds to alienate or sell such property without the consent of the other spouse, how is the validity of such transaction affected under the Family Code of the Philippines?",
             options: [
-              "a) Valid",
-              "b) Void",
-              "c) Unenforceable",
-              "d) Rescissible",
-              "e) None of the above"
+              "A Valid",
+              "B Void",
+              "C Unenforceable",
+              "D Rescissible",
+              "E None of the above"
             ],
-            correct: "b) Void"
+            correct: "B Void"
           },
           {
             question: "Mr. Alexander Reyes has been absent from his marital domicile for over five months, with his current whereabouts remaining unknown. During his absence, his wife has been independently managing their shared properties, and now seeks to sell one of their agricultural parcels. Under the Family Code, is the wife legally authorized to proceed with the sale of the said land?",
             options: [
-              "A) No. A single spouse lacks the unilateral authority to alienate community property; this restriction is absolute.",
-              "B) No. The potential sale, if executed, would be voidable by the absent spouse upon return.",
-              "C) Yes. The wife may sell the property, but only upon securing judicial authorization for such a transaction.",
-              "D) Yes. The wife may proceed with the sale if she has made substantial efforts to compel her husband's consent or has communicated an explicit threat.",
-              "E) None of the above."
+              "A No. A single spouse lacks the unilateral authority to alienate community property; this restriction is absolute.",
+              "B No. The potential sale, if executed, would be voidable by the absent spouse upon return.",
+              "C Yes. The wife may sell the property, but only upon securing judicial authorization for such a transaction.",
+              "D Yes. The wife may proceed with the sale if she has made substantial efforts to compel her husband's consent or has communicated an explicit threat.",
+              "E None of the above."
             ],
-            correct: "C) Yes. The wife may sell the property, but only upon securing judicial authorization for such a transaction."
+            correct: "C Yes. The wife may sell the property, but only upon securing judicial authorization for such a transaction."
           },
           {
             question: "Ms. Isabella Navarro, a widow for seven months, has yet to initiate the formal liquidation of her late husband's estate and their community property. Now, she intends to sell one of the properties that forms part of their shared estate. Does she possess the legal capacity to complete this sale?",
             options: [
-              "A) No. The sale will be voidable, as the liquidation process has not been undertaken.",
-              "B) Yes. The law does not impose any restrictions on her ability to conduct the sale.",
-              "C) No. The sale will be considered void due to the lack of liquidation and settlement of estate.",
-              "D) Yes. As a co-owner of the property, she is entitled to sell the entire asset even without liquidation and settlement of estate."
+              "A No. The sale will be voidable, as the liquidation process has not been undertaken.",
+              "B Yes. The law does not impose any restrictions on her ability to conduct the sale.",
+              "C No. The sale will be considered void due to the lack of liquidation and settlement of estate.",
+              "D Yes. As a co-owner of the property, she is entitled to sell the entire asset even without liquidation and settlement of estate."
             ],
-            correct: "C) No. The sale will be considered void due to the lack of liquidation and settlement of estate."
+            correct: "C No. The sale will be considered void due to the lack of liquidation and settlement of estate."
           },
           {
             question: "It consists of all the property owned by the spouses at the time of the celebration of the marriage or acquired thereafter.",
             options: [
-              "a) Capital property",
-              "b) Paraphernal property",
-              "c) Absolute community of property",
-              "d) Conjugal partnership of gains",
-              "e) None of the above"
+              "A Capital property",
+              "B Paraphernal property",
+              "C Absolute community of property",
+              "D Conjugal partnership of gains",
+              "E None of the above"
             ],
-            correct: "c) Absolute community of property"
+            correct: "C Absolute community of property"
           },
           {
             question: "Under this regime, the husband and wife place in a common fund the proceeds, products fruits and income from their separate properties and those acquired by either or both spouses through their efforts or by chance.",
             options: [
-              "a) Capital property",
-              "b) Paraphernal property",
-              "c) Absolute community of property",
-              "d) Conjugal partnership of gains",
-              "e) None of the above"
+              "A Capital property",
+              "B Paraphernal property",
+              "C Absolute community of property",
+              "D Conjugal partnership of gains",
+              "E None of the above"
             ],
-            correct: "d) Conjugal partnership of gains"
+            correct: "D Conjugal partnership of gains"
           },
           {
             question: "Under the regime of separation of property, is it necessary for one spouse to secure the consent of the other before selling their separate property?",
             options: [
-              "A) Yes, both spouses must agree before either can sell their separate property.",
-              "B) No, each spouse has full autonomy to sell their separate estate without the consent of the other.",
-              "C) Yes, but only if the separate property is being sold for a substantial amount.",
-              "D) No, but the other spouse must be informed about the sale."
+              "A Yes, both spouses must agree before either can sell their separate property.",
+              "B No, each spouse has full autonomy to sell their separate estate without the consent of the other.",
+              "C Yes, but only if the separate property is being sold for a substantial amount.",
+              "D No, but the other spouse must be informed about the sale."
             ],
-            correct: "B) No, each spouse has full autonomy to sell their separate estate without the consent of the other."
+            correct: "B No, each spouse has full autonomy to sell their separate estate without the consent of the other."
           },
           {
             question: "In the case of an unemancipated common child, who shall jointly exercise legal guardianship over the child's property through court appointment?",
             options: [
-              "A) Both the father and the mother, unless otherwise directed by the court.",
-              "B) Only the mother",
-              "C) Only the father, as the primary legal guardian.",
-              "D) Neither parent, as a guardian ad litem will be appointed by the court."
+              "A Both the father and the mother, unless otherwise directed by the court.",
+              "B Only the mother",
+              "C Only the father, as the primary legal guardian.",
+              "D Neither parent, as a guardian ad litem will be appointed by the court."
             ],
-            correct: "A) Both the father and the mother, unless otherwise directed by the court."
+            correct: "A Both the father and the mother, unless otherwise directed by the court."
           },
           {
             question: "Mr. Rafael Santos and Ms. Claudia Reyes were married in 2000. After five years of marriage, Mr. Santos filed a petition for the declaration of nullity, which the court granted. Their properties were divided, and the judgment was duly recorded in the local civil registrar and the register of deeds. Now, Mr. Santos wishes to sell his condominium unit, which he acquired in 2005. Can he legally proceed with the sale of the property without the consent of Ms. Reyes?",
             options: [
-              "A) Yes, since the marriage is declared void, he is free to dispose of the property independently.",
-              "B) No, despite the declaration of nullity, the division of the property is irrelevant, and his wife's consent is still required.",
-              "C) Yes, provided that the property was already part of his separate estate as recognized by the court's decision.",
-              "D) No, because the property was acquired during the marriage, and the court's division has not affected his wife's share."
+              "A Yes, since the marriage is declared void, he is free to dispose of the property independently.",
+              "B No, despite the declaration of nullity, the division of the property is irrelevant, and his wife's consent is still required.",
+              "C Yes, provided that the property was already part of his separate estate as recognized by the court's decision.",
+              "D No, because the property was acquired during the marriage, and the court's division has not affected his wife's share."
             ],
-            correct: "C) Yes, provided that the property was already part of his separate estate as recognized by the court's decision."
+            correct: "C Yes, provided that the property was already part of his separate estate as recognized by the court's decision."
           },
           {
             question: "Mr. Alan Cruz and Ms. Beatrice Reyes married in 2010. They have one child, Emma. In 2012, Mr. Cruz wanted to purchase a condominium unit. Can he proceed with the purchase even without Ms. Reyes's consent and signature?",
             options: [
-              "A) Yes, as this is still a valid sale",
-              "B) No, the consent of both spouses is required for purchase transactions.",
-              "C) This is outside the scope of the board examination",
-              "D) Yes, as long as the property is considered his separate property."
+              "A Yes, as this is still a valid sale",
+              "B No, the consent of both spouses is required for purchase transactions.",
+              "C This is outside the scope of the board examination",
+              "D Yes, as long as the property is considered his separate property."
             ],
-            correct: "A) Yes, as this is still a valid sale"
+            correct: "A Yes, as this is still a valid sale"
           },
           {
             question: "In the scenario above, assuming Mr. Cruz bought the condominium unit without obtaining the consent and signature of Ms. Reyes, to whom does the property belong?",
             options: [
-              "A) Mr. Alan Cruz only",
-              "B) Ms. Beatrice Reyes only",
-              "C) Both Mr. Cruz and Ms. Reyes forming part of the community property",
-              "D) Both Mr. Cruz and Ms. Reyes forming part of the conjugal property",
-              "E) None of the above"
+              "A Mr. Alan Cruz only",
+              "B Ms. Beatrice Reyes only",
+              "C Both Mr. Cruz and Ms. Reyes forming part of the community property",
+              "D Both Mr. Cruz and Ms. Reyes forming part of the conjugal property",
+              "E None of the above"
             ],
-            correct: "C) Both Mr. Cruz and Ms. Reyes forming part of the community property"
+            correct: "C Both Mr. Cruz and Ms. Reyes forming part of the community property"
           },
           {
             question: "Let's assume again that Mr. Cruz stated in the Reservation Agreement, Contract to Sell, and Deed of Sale that he was single, and the condominium title was issued solely in his name. Who owns the condominium unit?",
             options: [
-              "A) Mr. Alan Cruz only",
-              "B) Ms. Beatrice Reyes only",
-              "C) Both Mr. Cruz and Ms. Reyes",
-              "D) Emma Cruz",
-              "E) None of the above"
+              "A Mr. Alan Cruz only",
+              "B Ms. Beatrice Reyes only",
+              "C Both Mr. Cruz and Ms. Reyes",
+              "D Emma Cruz",
+              "E None of the above"
             ],
-            correct: "C) Both Mr. Cruz and Ms. Reyes"
+            correct: "C Both Mr. Cruz and Ms. Reyes"
           },
           {
             question: "Assuming Ms. Reyes acknowledged that the condominium unit belongs exclusively to Mr. Cruz, can Mr. Cruz legally sell the unit to Ms. Reyes?",
             options: [
-              "A) Yes, since they mutually agreed.",
-              "B) No, because the sale would require formalities and specific legal processes.",
-              "C) Yes, but the Deed of Sale would be subject to the approval of the court.",
-              "D) No, the sale is void as they are governed by absolute community property regime"
+              "A Yes, since they mutually agreed.",
+              "B No, because the sale would require formalities and specific legal processes.",
+              "C Yes, but the Deed of Sale would be subject to the approval of the court.",
+              "D No, the sale is void as they are governed by absolute community property regime"
             ],
-            correct: "D) No, the sale is void as they are governed by absolute community property regime"
+            correct: "D No, the sale is void as they are governed by absolute community property regime"
           },
           {
             question: "In continuation of the above problem, five years into their marriage, the parents of Mr. Cruz passed away, and he inherited a 10-hectare farm. Mr. Cruz was able to process the title for the land, and it is named 'Mr. Alan Cruz married to Ms. Beatrice Reyes.' The farm is considered:",
             options: [
-              "A) Part of the absolute community of property",
-              "B) Part of the conjugal partnership of gains",
-              "C) Mr. Cruz's paraphemal property",
-              "D) A capital property under the family code",
-              "E) None of the above"
+              "A Part of the absolute community of property",
+              "B Part of the conjugal partnership of gains",
+              "C Mr. Cruz's paraphemal property",
+              "D A capital property under the family code",
+              "E None of the above"
             ],
-            correct: "D) A capital property under the family code"
+            correct: "D A capital property under the family code"
           },
           {
             question: "In what year did the Subdivision and Condominium Buyers' Protective Decree (PD 957) officially take effect, setting the foundation for real estate buyer protection in the Philippines?",
             options: [
-              "a. 1972",
-              "b. 1976",
-              "c. 1981",
-              "d. 1986"
+              "A 1972",
+              "B 1976",
+              "C 1981",
+              "D 1986"
             ],
-            correct: "b. 1976"
+            correct: "B 1976"
           },
           {
             question: "According to the Implementing Rules and Regulations (IRR) of PD 957, what is the maximum allowable length of a block within a subdivision development?",
             options: [
-              "a. 300 meters",
-              "b. 400 meters",
-              "c. 500 meters",
-              "d. 1,000 meters"
+              "A 300 meters",
+              "B 400 meters",
+              "C 500 meters",
+              "D 1,000 meters"
             ],
-            correct: "b) 400 meters"
+            correct: "B 400 meters"
           },
           {
             question: "Which development plan approval authority has been decentralized from the DHSUD to local government units (LGUs)?",
             options: [
-              "a. Approval of condominium plans",
-              "b. Approval of subdivision plans",
-              "c. Approval of residential condominium projects",
-              "d. Approval of memorial parks"
+              "A Approval of condominium plans",
+              "B Approval of subdivision plans",
+              "C Approval of residential condominium projects",
+              "D Approval of memorial parks"
             ],
-            correct: "b) Approval of subdivision plans"
+            correct: "B Approval of subdivision plans"
           },
           {
             question: "Under PD 957's IRR, what is the minimum lot area requirement for single-detached units in open market housing projects?",
             options: [
-              "a. 80 sq. meters",
-              "b. 120 sq. meters",
-              "c. 60 sq. meters",
-              "d. 50 sq. meters"
+              "A 80 sq. meters",
+              "B 120 sq. meters",
+              "C 60 sq. meters",
+              "D 50 sq. meters"
             ],
-            correct: "b) 120 sq. meters"
+            correct: "B 120 sq. meters"
           },
           {
             question: "What is the mandated minimum frontage for a rowhouse unit under PD 957?",
             options: [
-              "a. 3 meters",
-              "b. 3.5 meters",
-              "c. 4 meters",
-              "d. 5 meters"
+              "A 3 meters",
+              "B 3.5 meters",
+              "C 4 meters",
+              "D 5 meters"
             ],
-            correct: "c) 4 meters"
+            correct: "C 4 meters"
           },
           {
             question: "As prescribed in PD 957's IRR, what is the maximum number of rowhouses allowed in a single cluster or block?",
             options: [
-              "a. 20 units",
-              "b. 30 units",
-              "c. 40 units",
-              "d. 10 units"
+              "A 20 units",
+              "B 30 units",
+              "C 40 units",
+              "D 10 units"
             ],
             correct: "a) 20 units"
           },
           {
             question: "Under PD 957, what is the minimum daily water supply provision required per person in a subdivision?",
             options: [
-              "a. 100 liters",
-              "b. 150 liters",
-              "c. 200 liters",
-              "d. 250 liters"
+              "A 100 liters",
+              "B 150 liters",
+              "C 200 liters",
+              "D 250 liters"
             ],
             correct: "b) 150 liters"
           },
           {
             question: "What term refers to a parcel of land enclosed by streets, paths, or natural/man-made boundaries and is designated for building development?",
             options: [
-              "a. Open space",
-              "b. Block",
-              "c. Alleys",
-              "d. Playground"
+              "A Open space",
+              "B Block",
+              "C Alleys",
+              "D Playground"
             ],
-            correct: "b) Block"
+            correct: "B Block"
           },
           {
             question: "In subdivision developments, how is a structure that serves as a place of residence generally defined?",
             options: [
-              "a. House",
-              "b. Dwelling",
-              "c. Living quarters",
-              "d. Rowhouse"
+              "A House",
+              "B Dwelling",
+              "C Living quarters",
+              "D Rowhouse"
             ],
             correct: "b) Dwelling"
           },
           {
             question: "Under PD 957, what term describes a dwelling unit fully surrounded by open space or yards?",
             options: [
-              "a. Open space",
-              "b. Single-detached",
-              "c. Single-attached",
-              "d. Rowhouse"
+              "A Open space",
+              "B Single-detached",
+              "C Single-attached",
+              "D Rowhouse"
             ],
-            correct: "b) Duplex"
+            correct: "B Duplex"
           },
           {
             question: "What is the appropriate term for a residential structure consisting of two separate living units, divided by a firewall and each having independent access?",
             options: [
-              "a. Single-attached units",
-              "b. Rowhouse",
-              "c. Duplex",
-              "d. Compound"
+              "A Single-attached units",
+              "B Rowhouse",
+              "C Duplex",
+              "D Compound"
             ],
-            correct: "c) Duplex"
+            correct: "C Duplex"
           },
           {
             question: "What type of wall extends from the foundation up to or beyond the roof to prevent fire from spreading between units?",
             options: [
-              "a. Building partition",
-              "b. Firewall",
-              "c. Party wall",
-              "d. Boundary wall"
+              "A Building partition",
+              "B Firewall",
+              "C Party wall",
+              "D Boundary wall"
             ],
-            correct: "b) Firewall"
+            correct: "B Firewall"
           },
           {
             question: "What do you call a lot that is located at the intersection of two or more streets?",
             options: [
-              "a. Corner lot",
-              "b. Through lot",
-              "c. Intersection lot",
-              "d. Crossing lot"
+              "A Corner lot",
+              "B Through lot",
+              "C Intersection lot",
+              "D Crossing lot"
             ],
-            correct: "a) Corner lot"
+            correct: "A Corner lot"
           },
           {
             question: "According to PD 957, how is a lot described if it does not conform to a rectangular or square shape?",
             options: [
-              "a. Irregular lot",
-              "b. Non-conforming lot",
-              "c. Non-regular lot",
-              "d. Corner lot"
+              "A Irregular lot",
+              "B Non-conforming lot",
+              "C Non-regular lot",
+              "D Corner lot"
             ],
-            correct: "a) Irregular lot"
+            correct: "A Irregular lot"
           },
           {
             question: "Under BP 220's IRR, what is the minimum lot area required for a single-detached unit in a socialized housing development?",
             options: [
-              "a. 72 sq. meters",
-              "b. 64 sq. meters",
-              "c. 48 sq. meters",
-              "d. 28 sq. meters"
+              "A 72 sq. meters",
+              "B 64 sq. meters",
+              "C 48 sq. meters",
+              "D 28 sq. meters"
             ],
-            correct: "b) 64 sq. meters"
+            correct: "B 64 sq. meters"
           },
           {
             question: "For rowhouse units under BP 220, what is the required minimum frontage of a lot?",
             options: [
-              "a. 3 meters",
-              "b. 4 meters",
-              "c. 5 meters",
-              "d. 3.5 meters"
+              "A 3 meters",
+              "B 4 meters",
+              "C 5 meters",
+              "D 3.5 meters"
             ],
-            correct: "d) 3.5 meters"
+            correct: "D 3.5 meters"
           },
           {
             question: "What is the term for a public passage at least 2 meters wide, cutting through a block and allowing access for both pedestrians and emergency vehicles?",
             options: [
-              "a. Pedestrian lane",
-              "b. Alley",
-              "c. Walkway",
-              "d. Pathway"
+              "A Pedestrian lane",
+              "B Alley",
+              "C Walkway",
+              "D Pathway"
             ],
             correct: "b) Alley"
           },
           {
             question: "The HSAC's power to adjudicate buyer complaints against developers is considered what type of function?",
             options: [
-              "a. Judicial",
-              "b. Quasi-judicial",
-              "c. Administrative",
-              "d. Regulatory"
+              "A Judicial",
+              "B Quasi-judicial",
+              "C Administrative",
+              "D Regulatory"
             ],
-            correct: "b) Quasi-judicial"
+            correct: "B Quasi-judicial"
           },
           {
             question: "What housing type refers to single-family detached units grouped in compact arrangements containing three or more separate living units?",
             options: [
-              "a. Cluster housing",
-              "b. Compound",
-              "c. Rowhouses",
-              "d. Single-attached units"
+              "A Cluster housing",
+              "B Compound",
+              "C Rowhouses",
+              "D Single-attached units"
             ],
-            correct: "a) Cluster housing"
+            correct: "A Cluster housing"
           },
           {
             question: "What is a residential unit that satisfies core housing standards and includes essential components such as walls, flooring, plumbing, and electrical wiring?",
             options: [
-              "a. Socialized housing",
-              "b. Shell house",
-              "c. Core house",
-              "d. Bare house"
+              "A Socialized housing",
+              "B Shell house",
+              "C Core house",
+              "D Bare house"
             ],
-            correct: "c) Core house"
+            correct: "C Core house"
           },
           {
             question: "Under BP 220's IRR, what is a shell house with added features like windows, doors, and interior partitions called?",
             options: [
-              "a. Livable house",
-              "b. Basic house",
-              "c. Complete house",
-              "d. Minimum basic house"
+              "A Livable house",
+              "B Basic house",
+              "C Complete house",
+              "D Minimum basic house"
             ],
-            correct: "c) Complete house"
+            correct: "C Complete house"
           },
           {
             question: "What is the required minimum width for a public pedestrian access path (also known as a pathwalk)?",
             options: [
-              "a. 3 meters",
-              "b. 3.5 meters",
-              "c. 4 meters",
-              "d. 2 meters"
+              "A 3 meters",
+              "B 3.5 meters",
+              "C 4 meters",
+              "D 2 meters"
             ],
-            correct: "a) 3 meters"
+            correct: "A 3 meters"
           },
           {
             question: "Which of the following best describes the primary purpose of Batas Pambansa Big. 220 (BP 220)?",
             options: [
-              "a. To regulate high-end residential developments in urban areas",
-              "b. To establish planning standards for industrial parks and commercial centers",
-              "c. To provide development and design standards for economic and socialized housing projects",
-              "d. To control the sale of condominium units and subdivisions to foreign nationals"
+              "A To regulate high-end residential developments in urban areas",
+              "B To establish planning standards for industrial parks and commercial centers",
+              "C To provide development and design standards for economic and socialized housing projects",
+              "D To control the sale of condominium units and subdivisions to foreign nationals"
             ],
-            correct: "c) To provide development and design standards for economic and socialized housing projects"
+            correct: "C To provide development and design standards for economic and socialized housing projects"
           },
     ],
   },
