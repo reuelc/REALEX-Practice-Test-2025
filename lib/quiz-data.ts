@@ -3222,12 +3222,12 @@ export const quizParts: QuizPart[] = [
           {
             question: "PD 1216 mandates that developers allocate open spaces (e.g., parks, roads, alleys, sidewalks) equivalent to what percentage of the subdivision's total area?",
             options: [
-              "A. $25%",
-              "B. $30%",
-              "C. $35%",
-              "D. $20%"
+              "A. 25%",
+              "B. 30%",
+              "C. 35%",
+              "D. 20%"
             ],
-            correct: "B. $30%"
+            correct: "B. 30%"
           },
           {
             question: "Who among the following is legally permitted to sell subdivision lots or condominium units, provided they are duly registered or accredited?",
@@ -3262,22 +3262,22 @@ export const quizParts: QuizPart[] = [
           {
             question: "If a developer wants to pursue a socialized housing project consisting of house-and-lot packages, the maximum price ceiling allowed is:",
             options: [
-              "A. $P 600,000.00",
-              "B. $P 650,000.00",
-              "C. $P 850,000.00",
-              "D. $P 2,500,000.00"
+              "A. P 600,000.00",
+              "B. P 650,000.00",
+              "C. P 850,000.00",
+              "D. P 2,500,000.00"
             ],
-            correct: "C. $P 850,000.00"
+            correct: "C. P 850,000.00"
           },
           {
             question: "Section 18 of R.A. 7279, as amended by Republic Act No. 10884, requires developers of open-market housing to allocate at least what percentage of either the project cost or area for socialized housing?",
             options: [
-              "A. $15 \\%",
-              "B. $20 \\%",
-              "C. $30 \\%",
-              "D. $10 \\%"
+              "A. 15 %",
+              "B. 20 %",
+              "C. 30 %",
+              "D. 10 %"
             ],
-            correct: "A. $15%"
+            correct: "A. 15%"
           },
           {
             question: "Which of the following must not be included in advertisements for high-end subdivision developments?",
@@ -3607,7 +3607,7 @@ export const quizParts: QuizPart[] = [
               "A. Until the buyer occupies the house",
               "B. Until the title has been transferred to the buyer",
               "C. Until the property is formally turned over",
-              "D. Until $50\\% of the purchase price is paid"
+              "D. Until 50% of the purchase price is paid"
             ],
             correct: "B. Until the title has been transferred to the buyer"
           },
@@ -3644,22 +3644,22 @@ export const quizParts: QuizPart[] = [
           {
             question: "For administrative violations of PD 957, the DHSUD may impose fines not exceeding:",
             options: [
-              "A. $P 5,000.00$ per lot",
-              "B. $P 10,000.00$ per lot",
-              "C. $P 20,000.00$ per lot",
-              "D. $P 50,000.00$ per lot"
+              "A. P 5,000.00 per lot",
+              "B. P 10,000.00 per lot",
+              "C. P 20,000.00 per lot",
+              "D. P 50,000.00 per lot"
             ],
-            correct: "B. $P 10,000.00$ per lot"
+            correct: "B. P 10,000.00 per lot"
           },
           {
             question: "Any person who violates provisions of PD 957, upon conviction, may be subject to the following penalty:",
             options: [
-              "A. Fine not exceeding $P 50,000.00$",
+              "A. Fine not exceeding P 50,000.00",
               "B. Imprisonment of not more than 5 years",
-              "C. Fine not exceeding $P 20,000.00$",
-              "D. Fine not exceeding $P 10,000.00$"
+              "C. Fine not exceeding P 20,000.00",
+              "D. Fine not exceeding P 10,000.00"
             ],
-            correct: "C. Fine not exceeding $P 20,000.00$"
+            correct: "C. Fine not exceeding P 20,000.00"
           },
           {
             question: "Upon conviction for a violation of PD 957, the penalty of imprisonment may be imposed for a period of:",
