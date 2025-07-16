@@ -3,4061 +3,3299 @@ import type { QuizPart } from "./types"
 export const quizParts: QuizPart[] = [
   {
     "id": "part1",
-    "title": "Fundamentals of Real Estate Principles & Practice",
+    "title": "Appraisal Final Coaching Mock Exam Set 1",
     "questions": [
       {
-        "question": "Which of the following best illustrates the concept of immobility of real estate?",
+        "question": "A plan showing various elevations of the property.",
         "options": [
-          "A. A property developer renovates a house to increase its value.",
-          "B. Land near a city center sells for more than rural land.",
-          "C. A beachfront property cannot be relocated to the mountains.",
-          "D. Two houses on identical lots have different interior layouts."
+          "a. Topography Map",
+          "b. Maps",
+          "c. Approved Plans",
+          "d. Subdivision Plans"
         ],
-        "correct": "C. A beachfront property cannot be relocated to the mountains."
+        "correct": "a. Topography Map"
       },
       {
-        "question": "Why does the indestructibility of land make real estate a relatively secure long-term investment?",
+        "question": "Is the angle from the North or South.",
         "options": [
-          "A. Land can always be rebuilt on, regardless of location.",
-          "B. Structures on land increase its value indefinitely.",
-          "C. Land remains even if structures deteriorate or are destroyed.",
-          "D. The value of land depreciates slower than buildings."
+          "a. Bearing",
+          "b. Tie Line",
+          "c. Tie Point",
+          "d. Tie In"
         ],
-        "correct": "C. Land remains even if structures deteriorate or are destroyed."
+        "correct": "a. Bearing"
       },
       {
-        "question": "What economic characteristic is most directly associated with the statement: 'You can’t create more land in a prime location'?",
+        "question": "Measurement or dimensions in meters refers to:",
         "options": [
-          "A. Situs",
-          "B. Improvements",
-          "C. Permanence of Investment",
-          "D. Scarcity"
+          "a. Distance",
+          "b. Tie Line",
+          "c. Tie Point",
+          "d. Bearing"
         ],
-        "correct": "D. Scarcity"
+        "correct": "a. Distance"
       },
       {
-        "question": "Two identical houses in the same development are priced differently. One is a corner lot with a mountain view. Which characteristic best explains the price difference?",
+        "question": "Imaginary line connecting two points of known location is called a:",
         "options": [
-          "A. Improvements",
-          "B. Situs",
-          "C. Uniqueness",
-          "D. Indestructibility"
+          "a. Tie Point",
+          "b. Tie Line",
+          "c. Tie In",
+          "d. Tie-tied"
         ],
-        "correct": "C. Uniqueness"
+        "correct": "b. Tie Line"
       },
       {
-        "question": "Which of the following does NOT directly result from the physical characteristic of immobility?",
+        "question": "______________ is a fixed location on the ground (like a monument, corner, or landmark) whose position is known or can be referenced from another known point.",
         "options": [
-          "A. Zoning restrictions affecting land use",
-          "B. Neighborhood development influencing property value",
-          "C. The impossibility of moving land to a new location",
-          "D. Increased value due to surrounding infrastructure"
+          "a. Tie Line",
+          "b. Tie Point",
+          "c. Tie Game",
+          "d. Tie Score"
         ],
-        "correct": "D. Increased value due to surrounding infrastructure"
+        "correct": "b. Tie Point"
       },
       {
-        "question": "How can improvements negatively affect surrounding real estate values?",
+        "question": "Surveys with width of 19 km or less are classified as a:",
         "options": [
-          "A. By reducing the amount of available land",
-          "B. By making nearby properties obsolete",
-          "C. By deteriorating quickly over time",
-          "D. By attracting too much buyer competition"
+          "a. Plane Survey",
+          "b. Geodetic Survey",
+          "c. Engineer's Survey",
+          "d. None of the above"
         ],
-        "correct": "B. By making nearby properties obsolete"
+        "correct": "a. Plane Survey"
       },
       {
-        "question": "A developer is evaluating the return on investing in new roads and sewer systems for a site. Which economic characteristic are they most concerned with?",
+        "question": "Study of land and everything attached...",
         "options": [
-          "A. Situs",
-          "B. Permanence of Investment",
-          "C. Scarcity",
-          "D. Uniqueness"
+          "a. Real Estate",
+          "b. Land",
+          "c. Real Property",
+          "d. Real Estate Economics"
         ],
-        "correct": "B. Permanence of Investment"
+        "correct": "a. Real Estate"
       },
       {
-        "question": "Why is the situs of a property considered the most critical economic characteristic in real estate valuation?",
+        "question": "No two lots have same value refers to :",
         "options": [
-          "A. It determines how easily land can be subdivided.",
-          "B. It affects the property’s physical characteristics.",
-          "C. It reflects buyer preferences related to location.",
-          "D. It dictates the uniqueness of property design."
+          "a. Heterogeneous",
+          "b. High Capital Value",
+          "c. Investment",
+          "d. None of the above"
         ],
-        "correct": "C. It reflects buyer preferences related to location."
+        "correct": "a. Heterogeneous"
       },
       {
-        "question": "Which scenario best reflects the economic concept of improvements?",
+        "question": "__________________ is considered to have a fixed location.",
         "options": [
-          "A. A house is built on a previously vacant lot, increasing the area’s property values.",
-          "B. A rural property is subdivided into multiple parcels.",
-          "C. A plot of land is rezoned from residential to commercial.",
-          "D. Two identical properties are listed at different prices."
+          "a. Land",
+          "b. Real Estate",
+          "c. Immovable",
+          "d. Movable"
         ],
-        "correct": "A. A house is built on a previously vacant lot, increasing the area’s property values."
+        "correct": "a. Land"
       },
       {
-        "question": "What characteristic is most closely associated with the statement: 'Real estate decisions must be made carefully due to high upfront costs and long-term impact'?",
+        "question": "What are the characteristics of real estate?",
         "options": [
-          "A. Uniqueness",
-          "B. Scarcity",
-          "C. Permanence of Investment",
-          "D. Indestructibility"
+          "a. Heterogeneous",
+          "b. Immovable, Investment & Space",
+          "c. High Capital Value",
+          "d. All of the above"
         ],
-        "correct": "C. Permanence of Investment"
+        "correct": "d. All of the above"
       },
       {
-        "question": "Which form of ownership allows an individual to retain control of property while keeping their identity off public records?",
+        "question": "Real estate as 'spark plug' of economic activity refers to the",
         "options": [
-          "A. Cooperative Ownership",
-          "B. Real Estate Investment Trust (REIT)",
-          "C. Land Trust",
-          "D. General Partnership"
+          "a. Multiplier Effect",
+          "b. Income Approach",
+          "c. Business Ventures",
+          "d. None of the above"
         ],
-        "correct": "C. Land Trust"
+        "correct": "a. Multiplier Effect"
       },
       {
-        "question": "What is a key legal difference between a REIT and a corporation that also invests in real estate?",
+        "question": "Economic significance of real estate includes",
         "options": [
-          "A. A REIT must operate as a partnership.",
-          "B. A corporation is not allowed to own property.",
-          "C. A REIT must distribute the majority of its taxable income to shareholders.",
-          "D. A corporation cannot issue shares to investors."
+          "a. Multiplier Effect",
+          "b. Universal, Inflation & Shelter",
+          "c. Collateral & Appreciation",
+          "d. All of the above"
         ],
-        "correct": "C. A REIT must distribute the majority of its taxable income to shareholders."
+        "correct": "d. All of the above"
       },
       {
-        "question": "Which of the following best describes ownership in a condominium arrangement?",
+        "question": "Utility or attribute of property that makes it desirable is called:",
         "options": [
-          "A. You lease a unit from the building owner and pay monthly rent.",
-          "B. You own a portion of the entire building through shares.",
-          "C. You own an individual unit and share ownership of common areas.",
-          "D. You receive a license to occupy a unit at specific times of the year."
+          "a. Value",
+          "b. Cost",
+          "c. Price",
+          "d. Market Value"
         ],
-        "correct": "C. You own an individual unit and share ownership of common areas."
+        "correct": "a. Value"
       },
       {
-        "question": "What distinguishes fee simple timeshare ownership from right-to-use timeshare agreements?",
+        "question": "The amount required to produce or replace a property is called",
         "options": [
-          "A. Fee simple gives you a lease, while right-to-use grants full ownership.",
-          "B. Right-to-use offers permanent ownership of the property.",
-          "C. Fee simple involves deeded ownership; right-to-use does not.",
-          "D. Both involve direct title ownership."
+          "a. Cost",
+          "b. Price",
+          "c. Inventory",
+          "d. Value"
         ],
-        "correct": "C. Fee simple involves deeded ownership; right-to-use does not."
+        "correct": "a. Cost"
       },
       {
-        "question": "Which legal structure provides limited liability to its owners and is ideal for larger-scale real estate development?",
+        "question": "Is the money given for realty.",
         "options": [
-          "A. General Partnership",
-          "B. Corporation",
-          "C. Sole Proprietorship",
-          "D. Timeshare Trust"
+          "a. Cost",
+          "b. Value",
+          "c. Real Property",
+          "d. Price"
         ],
-        "correct": "B. Corporation"
+        "correct": "d. Price"
       },
       {
-        "question": "In a cooperative housing arrangement, what do residents legally own?",
+        "question": "Factors of demand include _______________________.",
         "options": [
-          "A. Their individual units with deeded title",
-          "B. Shares in a corporation that owns the building",
-          "C. A fixed lease with full transfer rights",
-          "D. The airspace their unit occupies"
+          "a. Income",
+          "b. Population",
+          "c. Taste and Preference",
+          "d. Price Expectation",
+          "e. All of the above"
         ],
-        "correct": "B. Shares in a corporation that owns the building"
+        "correct": "e. All of the above"
       },
       {
-        "question": "Which of the following ownership structures is most likely to require board approval before a sale can occur?",
+        "question": "Abstract sphere of exchange is called the:",
         "options": [
-          "A. Co-ownership",
-          "B. Corporation",
-          "C. Sole Ownership",
-          "D. General Partnership"
+          "a. Principle of Competition",
+          "b. Principle of Supply and Demand",
+          "c. Real Estate Market",
+          "d. Real Estate Industry"
         ],
-        "correct": "B. Corporation"
+        "correct": "c. Real Estate Market"
       },
       {
-        "question": "Which ownership type is considered most liquid, allowing investors to buy or sell shares on public markets like stocks?",
+        "question": "Value is affected by supply and demand refers to which principle:",
         "options": [
-          "A. Condominium",
-          "B. Land Trust",
-          "C. Real Estate Investment Trust (REIT)",
-          "D. Cooperative"
+          "a. Principle of Supply and Demand",
+          "b. Principle of Progression",
+          "c. Principle of Anticipation",
+          "d. None of the above"
         ],
-        "correct": "C. Real Estate Investment Trust (REIT)"
+        "correct": "a. Principle of Supply and Demand"
       },
       {
-        "question": "Which of the following BEST describes a legal interest in property?",
+        "question": "This refers to a principle wherein property value is limited by its substitutes:",
         "options": [
-          "A. The ability to generate income from a property without owning it",
-          "B. The recognized right to occupy and use land for any purpose",
-          "C. A court-enforceable right held by someone with title or contractual rights",
-          "D. A claim against a property's equity in case of default"
+          "a. Principle of Competition",
+          "b. Principle of Regression",
+          "c. Principle of Contribution",
+          "d. Principle of Substitution"
         ],
-        "correct": "C. A court-enforceable right held by someone with title or contractual rights"
+        "correct": "d. Principle of Substitution"
       },
       {
-        "question": "A homeowner with their name on the title has which type of property interest?",
+        "question": "A principle wherein value is affected by buyer's expectations:",
         "options": [
-          "A. Economic and physical only",
-          "B. Financial only",
-          "C. Legal",
-          "D. Leasehold"
+          "a. Principle of Anticipation",
+          "b. Principle of Balance",
+          "c. Principle of Highest and Best Use",
+          "d. None of the above"
         ],
-        "correct": "C. Legal"
+        "correct": "a. Principle of Anticipation"
       },
       {
-        "question": "An easement gives the holder what type of property interest?",
+        "question": "Principle wherein value changes with environment:",
         "options": [
-          "A. Full legal ownership",
-          "B. Non-possessory legal interest",
-          "C. Physical interest",
-          "D. Leasehold estate"
+          "a. Principle of Anticipation",
+          "b. Principle of Supply and Demand",
+          "c. Principle of Change",
+          "d. Principle of Balance"
         ],
-        "correct": "B. Non-possessory legal interest"
+        "correct": "c. Principle of Change"
       },
       {
-        "question": "What distinguishes a life estate from full ownership?",
+        "question": "Price is controlled by exclusive producer refers to;",
         "options": [
-          "A. The life estate ends upon the tenant's death",
-          "B. Life estate holders cannot use the property",
-          "C. Life estates do not grant inheritance rights",
-          "D. Life estates always involve leasing"
+          "a. Manufacturer",
+          "b. Price",
+          "c. Monopoly Price",
+          "d. Cost"
         ],
-        "correct": "A. The life estate ends upon the tenant's death"
+        "correct": "c. Monopoly Price"
       },
       {
-        "question": "Which interest is most directly concerned with receiving income from property rather than controlling it physically?",
+        "question": "Labor beyond limit yields less return is explained by:",
         "options": [
-          "A. Legal",
-          "B. Physical",
-          "C. Economic",
-          "D. Financial"
+          "a. The Law of Diminishing Return",
+          "b. Principle of Productivity",
+          "c. Principle of Supply and Demand",
+          "d. All of the above"
         ],
-        "correct": "C. Economic"
+        "correct": "a. The Law of Diminishing Return"
       },
       {
-        "question": "A property owner leasing an apartment has which economic interest?",
+        "question": "Amount paid by lessee is called:",
         "options": [
-          "A. Leasehold interest",
-          "B. Lease interest",
-          "C. Subleasehold interest",
-          "D. Surface rights"
+          "a. Rent",
+          "b. Contribution",
+          "c. Share",
+          "d. Application"
         ],
-        "correct": "B. Lease interest"
+        "correct": "a. Rent"
       },
       {
-        "question": "Which of the following defines a leased fee interest?",
+        "question": "Revenue from land/building refers to:",
         "options": [
-          "A. The lessee’s right to occupy the property",
-          "B. The landlord’s ownership interest subject to a lease",
-          "C. A tenant’s financial obligation under a lease",
-          "D. An easement holder’s partial ownership"
+          "a. Contract Rent",
+          "b. Economic Rent",
+          "c. Rental",
+          "d. Contribution"
         ],
-        "correct": "B. The landlord’s ownership interest subject to a lease"
+        "correct": "c. Rental"
       },
       {
-        "question": "What is true of a leasehold interest?",
+        "question": "Survey wherein property is located by a government map is called:",
         "options": [
-          "A. It includes title ownership",
-          "B. It gives the tenant permanent possession",
-          "C. It grants temporary possession without ownership",
-          "D. It gives the right to collect rent"
+          "a. Legal Descriptions",
+          "b. Rectangular Survey",
+          "c. Government Survey",
+          "d. Metes and Bounds Survey"
         ],
-        "correct": "C. It grants temporary possession without ownership"
+        "correct": "c. Government Survey"
       },
       {
-        "question": "A subleasehold interest arises when:",
+        "question": "Value loss from outdated design refers to:",
         "options": [
-          "A. A tenant sells their lease rights to another party",
-          "B. A landlord renews the lease to a new tenant",
-          "C. A tenant leases the property to another without transferring legal obligations",
-          "D. A tenant cancels the lease early"
+          "a. Depreciation",
+          "b. Loss in Value",
+          "c. Depletion",
+          "d. Obsolescence"
         ],
-        "correct": "C. A tenant leases the property to another without transferring legal obligations"
+        "correct": "d. Obsolescence"
       },
       {
-        "question": "Which interest typically involves actual control and occupation of a property without ownership?",
+        "question": "This refers to value approach using comparisons",
         "options": [
-          "A. Financial",
-          "B. Economic",
-          "C. Physical",
-          "D. Leasehold"
+          "a. Cost Approach",
+          "b. Abstract Approach",
+          "c. Market Approach or Sales Comparison Approach",
+          "d. Empirical Assumptions"
         ],
-        "correct": "C. Physical"
+        "correct": "c. Market Approach or Sales Comparison Approach"
       },
       {
-        "question": "Which of the following represents a physical interest in property?",
+        "question": "This valuation approach estimates reproduction/replacement cost:",
         "options": [
-          "A. Mortgage lien",
-          "B. Deed ownership",
-          "C. Living in and maintaining a rented space",
-          "D. Collecting dividends from a REIT"
+          "a. Income Approach",
+          "b. Principle of Contribution",
+          "c. Principle of Substitution",
+          "d. Cost Approach"
         ],
-        "correct": "C. Living in and maintaining a rented space"
+        "correct": "d. Cost Approach"
       },
       {
-        "question": "Transferable Development Rights (TDR) are an example of which type of interest?",
+        "question": "This valuation approach estimates value based on income",
         "options": [
-          "A. Legal",
-          "B. Economic",
-          "C. Physical",
-          "D. Financial"
+          "a. Income Approach",
+          "b. Cost Approach",
+          "c. Market Approach",
+          "d. All of the above"
         ],
-        "correct": "C. Physical"
+        "correct": "a. Income Approach"
       },
       {
-        "question": "What is a primary purpose of TDR programs?",
+        "question": "This refers to cost of exact duplication of a building",
         "options": [
-          "A. Increase property tax revenue",
-          "B. Avoid inheritance disputes",
-          "C. Preserve land by relocating development rights",
-          "D. Allow tenants to sublease freely"
+          "a. Replacement Cost",
+          "b. Reproduction Cost",
+          "c. Depreciation",
+          "d. Recapture Rate"
         ],
-        "correct": "C. Preserve land by relocating development rights"
+        "correct": "b. Reproduction Cost"
       },
       {
-        "question": "Air rights refer to the ability to:",
+        "question": "Law protecting homeowners’ rights",
         "options": [
-          "A. Transfer air access",
-          "B. Develop or lease the vertical space above land",
-          "C. Lease property below the surface",
-          "D. Use neighboring properties’ roofs"
+          "a. RA 9904",
+          "b. RA9905",
+          "c. RA9906",
+          "d. None of the above"
         ],
-        "correct": "B. Develop or lease the vertical space above land"
+        "correct": "a. RA 9904"
       },
       {
-        "question": "Which interest allows a developer to build upward in dense urban areas by purchasing a separate right?",
+        "question": "Law covering REIT",
         "options": [
-          "A. Surface rights",
-          "B. Subleasehold rights",
-          "C. Air rights",
-          "D. Leasehold interest"
+          "a. RA9856",
+          "b. RA1234",
+          "c. RA9646",
+          "d. RA9904"
         ],
-        "correct": "C. Air rights"
+        "correct": "a. RA9856"
       },
       {
-        "question": "Which of the following is true about surface rights?",
+        "question": "The three elements of space are the following:",
         "options": [
-          "A. They automatically include mineral rights",
-          "B. They allow underground development",
-          "C. They can exist without owning the subsurface",
-          "D. They are sold with air rights as a package"
+          "a. Distance, Direction & Elevation",
+          "b. Space, Elevation & Direction",
+          "c. Distance, Space, & Direction",
+          "d. None of the Above"
         ],
-        "correct": "C. They can exist without owning the subsurface"
+        "correct": "a. Distance, Direction & Elevation"
       },
       {
-        "question": "A farmer who only owns the surface rights but not mineral rights can:",
+        "question": "Identifying land by stakes is called:",
         "options": [
-          "A. Drill for oil beneath the land",
-          "B. Prevent others from mining beneath the land",
-          "C. Use the land for crops and construction",
-          "D. Claim ownership of any discovered resources"
+          "a. Relocation Survey",
+          "b. Metes & Bounds",
+          "c. Plat Survey",
+          "d. Monumenting"
         ],
-        "correct": "C. Use the land for crops and construction"
+        "correct": "d. Monumenting"
       },
       {
-        "question": "Which type of interest primarily involves monetary exposure or gain from a property?",
+        "question": "Which of the following is a type of maps?",
         "options": [
-          "A. Legal interest",
-          "B. Financial interest",
-          "C. Leasehold interest",
-          "D. Surface rights"
+          "a. General Purpose Maps",
+          "b. Road and Street and Tourist Maps",
+          "c. Topographic Maps",
+          "d. Engineering & Site Development plans",
+          "e. All of the above"
         ],
-        "correct": "B. Financial interest"
+        "correct": "e. All of the above"
       },
       {
-        "question": "A bank that issued a mortgage on a house holds what kind of interest?",
+        "question": "Reciprocal of a rate is called a?",
         "options": [
-          "A. Economic",
-          "B. Physical",
-          "C. Financial",
-          "D. Leasehold"
+          "a. Factor",
+          "b. Sum",
+          "c. Average",
+          "d. All of the above"
         ],
-        "correct": "C. Financial"
+        "correct": "a. Factor"
       },
       {
-        "question": "A financial interest in property differs from an economic interest in that it:",
+        "question": "Sales price ÷ monthly gross rent",
         "options": [
-          "A. Involves more legal rights than economic interest",
-          "B. Always requires possession of the property",
-          "C. Focuses on monetary exposure, risk, or return",
-          "D. Cannot coexist with a lease"
+          "a. Gross Rent Multiplier (GRM)",
+          "b. Income",
+          "c. Rate",
+          "d. None of the above"
         ],
-        "correct": "C. Focuses on monetary exposure, risk, or return"
+        "correct": "a. Gross Rent Multiplier (GRM)"
       },
       {
-        "question": "Which of the following could simultaneously have a legal and financial interest in the same property?",
+        "question": "Appraisal is _________________________________.",
         "options": [
-          "A. Subtenant",
-          "B. Homeowner with a mortgage",
-          "C. Property manager",
-          "D. HOA representative"
+          "a) The act or process of telling the client the market value of the real estate",
+          "b) The act or process of developing an opinion of value",
+          "c) The report conveyed to the client",
+          "d) A lucrative profession"
         ],
-        "correct": "B. Homeowner with a mortgage"
+        "correct": "b) The act or process of developing an opinion of value"
       },
       {
-        "question": "Which is a shared characteristic between a leasehold and subleasehold interest?",
+        "question": "The supply of land is ____________________.",
         "options": [
-          "A. Both transfer full ownership",
-          "B. Both require lender approval",
-          "C. Both involve the right to occupy without owning",
-          "D. Both are held by the landlord"
+          "a) Increasing all the time",
+          "b) Established by the surveyors",
+          "c) Infinite",
+          "d) Finite"
         ],
-        "correct": "C. Both involve the right to occupy without owning"
+        "correct": "d) Finite"
       },
       {
-        "question": "Which of the following BEST distinguishes a legal interest from a financial interest?",
+        "question": "The concepts of land are",
         "options": [
-          "A. Legal interest includes risk exposure",
-          "B. Financial interest involves title and possession",
-          "C. Legal interest grants enforceable rights, while financial interest relates to monetary stakes",
-          "D. Financial interest always overlaps with physical interest"
+          "a) Land is immobile, durable, finite and useful",
+          "b) Government and legal, economic, social, geographic and environment",
+          "c) Land, labor, capital, and entrepreneurialism",
+          "d) Leasehold, leased fee, and fee simple"
         ],
-        "correct": "C. Legal interest grants enforceable rights, while financial interest relates to monetary stakes"
+        "correct": "a) Land is immobile, durable, finite and useful"
       },
       {
-        "question": "Under Section 24 of RESA, a foreign real estate practitioner may only be granted privileges under the Act if their country:",
+        "question": "Real estate is",
         "options": [
-          "A. Allows all foreigners to invest in real estate.",
-          "B. Grants Filipino real estate professionals reciprocal practice rights.",
-          "C. Signs a bilateral trade agreement with the Philippines.",
-          "D. Has a diplomatic relationship with the Philippines."
+          "a) The rights in realty",
+          "b) The physical land and appurtenances affixed to the land",
+          "c) What transfers on the day of closing",
+          "d) The 'bundle of rights'"
         ],
-        "correct": "B. Grants Filipino real estate professionals reciprocal practice rights."
+        "correct": "b) The physical land and appurtenances affixed to the land"
       },
       {
-        "question": "Before a successful examinee can practice the real estate service profession, they must:",
+        "question": "Real property includes (bonus question)",
         "options": [
-          "A. Present a notarized contract of employment.",
-          "B. Post a surety bond of P50,000.",
-          "C. Take an oath before the Board or Commission.",
-          "D. Submit tax clearance from the BIR."
+          "a) Any and all buildings on the subject site",
+          "b) All interests, benefits, and rights inherent in the ownership of real estate",
+          "c) The physical land and appurtenances affixed to the land",
+          "d) Property that is not artificial"
         ],
-        "correct": "C. Take an oath before the Board or Commission."
+        "correct": "b) All interests, benefits, and rights inherent in the ownership of real estate"
       },
       {
-        "question": "Which of the following constitutes unauthorized practice of real estate service under Section 29 of RESA?",
+        "question": "The manner in which a client employs the information contained in the appraisal report is called",
         "options": [
-          "A. A lawyer selling his own property",
-          "B. A licensed real estate appraiser appraising property for court evidence",
-          "C. An unlicensed person offering brokerage services using professional signage",
-          "D. A real estate investor representing his property in a lease deal"
+          "a) The intended use",
+          "b) The purpose of an appraisal",
+          "c) The base of an appraisal",
+          "d) The appraisal premise"
         ],
-        "correct": "C. An unlicensed person offering brokerage services using professional signage"
+        "correct": "a) The intended use"
       },
       {
-        "question": "Which of the following is not exempt from the requirements of the Real Estate Service Act under Section 28?",
+        "question": "You are asked to help sell a small farm and you are expected to provide a formal opinion of value to assist in the sale.",
         "options": [
-          "A. A private individual leasing out their own property",
-          "B. A trustee in a bankruptcy proceeding",
-          "C. A real estate developer marketing their own projects",
-          "D. An attorney-in-fact selling a property for free"
+          "a) Not competent to perform the assignment",
+          "b) Acting as a consultant, not an appraiser",
+          "c) Acting as an appraiser",
+          "d) Violating the code of ethics for appraisers"
         ],
-        "correct": "C. A real estate developer marketing their own projects"
+        "correct": "d) Violating the code of ethics for appraisers"
       },
       {
-        "question": "Section 31 of RESA requires real estate salespersons to:",
+        "question": "Personal property permanently installed for business use is referred to as: (bonus question)",
         "options": [
-          "A. Have passed the licensure exam for real estate brokers",
-          "B. Work independently under their own accreditation",
-          "C. Secure accreditation and work under a licensed broker’s supervision",
-          "D. Undergo a board interview before accreditation"
+          "a) A fixture",
+          "b) A trade fixture",
+          "c) Personal property",
+          "d) Intangible property"
         ],
-        "correct": "C. Secure accreditation and work under a licensed broker’s supervision"
+        "correct": "b) A trade fixture"
       },
       {
-        "question": "A real estate broker who employs a salesperson without securing proper accreditation from the Board:",
+        "question": "Real property consists of",
         "options": [
-          "A. Will be fined but not criminally liable",
-          "B. Is guilty of violating the Real Estate Service Act",
-          "C. Can retroactively apply for accreditation",
-          "D. Must terminate the salesperson immediately"
+          "a) Rights in realty",
+          "b) Land and all improvements thereon",
+          "c) The rights to use or occupy real estate",
+          "d) Single-family residence"
         ],
-        "correct": "B. Is guilty of violating the Real Estate Service Act"
+        "correct": "b) Land and all improvements thereon"
       },
       {
-        "question": "According to Section 27 of RESA, performing any single act under Section 3(g) is considered:",
+        "question": "Example of a trade fixture is a:",
         "options": [
-          "A. A minor violation unless done repeatedly",
-          "B. A full engagement in the practice of real estate service",
-          "C. Grounds for warning but not prosecution",
-          "D. Valid only when performed for compensation"
+          "a) Gasoline pumps in owner-occupied property",
+          "b) Gasoline pumps in tenant-occupied property",
+          "c) Office window blinds",
+          "d) Kitchen sink in your house"
         ],
-        "correct": "B. A full engagement in the practice of real estate service"
+        "correct": "b) Gasoline pumps in tenant-occupied property"
       },
       {
-        "question": "Incumbent assessors in government service, as per Section 30:",
+        "question": "Appraisals are always used _______________________________",
         "options": [
-          "A. Must reapply for their positions within 5 years",
-          "B. May continue in office without reappointment",
-          "C. Are automatically promoted under the new law",
-          "D. Must resign and requalify under new rules"
+          "a) To make residential mortgages",
+          "b) To settle divorces",
+          "c) To settle lawsuits",
+          "d) To solve problems that involve real estate valuation"
         ],
-        "correct": "B. May continue in office without reappointment"
+        "correct": "d) To solve problems that involve real estate valuation"
       },
       {
-        "question": "For its creation, the nomination of members to the PRBRES is initially made by the:",
+        "question": "Appraisal of real estate only; and there are ovens installed by tenant. What should the appraiser do?",
         "options": [
-          "A. Accredited and Integrated Professional Organization",
-          "B. Professional Regulation Commission",
-          "C. Professional Real Estate Organizations",
-          "D. Accredited Professional Real Estate Organizations"
+          "a) Include ovens as real estate",
+          "b) Do not include because they are trade fixtures",
+          "c) Include due to high value",
+          "d) Do not include due to no market value"
         ],
-        "correct": "A. Accredited and Integrated Professional Organization"
+        "correct": "b) Do not include because they are trade fixtures"
       },
       {
-        "question": "It refers to the land, improvements and all those attached to the land which are tangible and physical:",
+        "question": "Washer and dryer in a residential property. Should this be included by the real estate appraiser in the valuation? (can be a or b)",
         "options": [
-          "A. Real estate",
-          "B. Real property",
-          "C. Real estate improvements",
-          "D. Real property & improvements"
+          "a) Do not include as these are personal properties",
+          "b) Include but identify as personal and estimate value",
+          "c) Cannot include—as these are removable",
+          "d) Include if intended to remain"
         ],
-        "correct": "A. Real estate"
+        "correct": "b) Include but identify as personal and estimate value"
       },
       {
-        "question": "In case of a vacancy in the PRBRES, it shall be filled up for the position vacated, which shall be for the period of:",
+        "question": "Items intended to be permanent refers to:",
         "options": [
-          "A. 3 years",
-          "B. 2 years",
-          "C. Unexpired portion of the term of member who vacated",
-          "D. Not more than 6 years"
+          "a) Trade fixtures",
+          "b) Real estate",
+          "c) Personal property",
+          "d) Chattel fixtures"
         ],
-        "correct": "C. Unexpired portion of the term of member who vacated"
+        "correct": "b) Real estate"
       },
       {
-        "question": "In case of practice involving condominium projects, the following shall not be required to post a bond with DHSUD:",
+        "question": "An appraiser ______________________________.",
         "options": [
-          "A. Real estate salesperson",
-          "B. Real estate broker",
-          "C. Real estate appraiser",
-          "D. Real estate consultant"
+          "a) Determines value",
+          "b) Determines price",
+          "c) Measures and develops an opinion of value",
+          "d) Measures price"
         ],
-        "correct": "A. Real estate salesperson"
+        "correct": "c) Measures and develops an opinion of value"
       },
       {
-        "question": "A roster of registered professional real estate service practitioners will be made but which will not include the following information:",
+        "question": "Demand for real estate is affected by",
         "options": [
-          "A. Name of practitioner",
-          "B. Professional tax receipt number",
-          "C. Email address of practitioner",
-          "D. License number"
+          "a) Increasing population and employment",
+          "b) Mortgage financing",
+          "c) Purchasing power",
+          "d) All of the above"
         ],
-        "correct": "C. Email address of practitioner"
+        "correct": "d) All of the above"
       },
       {
-        "question": "The Professional Regulatory Board of Real Estate Service shall be under the supervision of this government agency:",
+        "question": "Four agents of production are the following:",
         "options": [
-          "A. Professional Regulation Commission",
-          "B. Professional Regulatory Commission",
-          "C. Professional Commission of Professionals",
-          "D. Professional Regulation Board"
+          "a) Land, labor, capital, improvements",
+          "b) Land, labor, capital, entrepreneurship",
+          "c) Land, labor, capital, money",
+          "d) Land, improvements, labor, materials"
         ],
-        "correct": "A. Professional Regulation Commission"
+        "correct": "b) Land, labor, capital, entrepreneurship"
       },
       {
-        "question": "Results of the licensure examination shall be released by the Board from the last day of the examination within:",
+        "question": "The value of residential real estate is influenced by",
         "options": [
-          "A. 5 days",
-          "B. 10 days",
-          "C. 30 days",
-          "D. 60 days"
+          "a) Passage of time",
+          "b) Brokers' opinions",
+          "c) Shopping patterns",
+          "d) Cost of construction"
         ],
-        "correct": "B. 10 days"
+        "correct": "d) Cost of construction"
       },
       {
-        "question": "As she just passed the real estate appraiser's examinations, Agnes will be given a certificate of registration by the Professional Regulation Commission which will be valid:",
+        "question": "Real property has value because",
         "options": [
-          "A. For 1 year",
-          "B. For 3 years",
-          "C. Until revoked",
-          "D. Until renewed"
+          "a) It is nearby",
+          "b) It is popular",
+          "c) It is desirable",
+          "d) It provides future benefits"
         ],
-        "correct": "C. Until revoked"
+        "correct": "d) It provides future benefits"
       },
       {
-        "question": "The PRBRES shall prescribe the essential requirements as to the curricula and facilities of schools, colleges or universities in cooperation with the:",
+        "question": "The supply of single-family homes is affected by",
         "options": [
-          "A. Commission on Higher Education",
-          "B. Department of Education",
-          "C. Private Association of Schools in the Philippines",
-          "D. Philippine Universities Association"
+          "a) Employment increase",
+          "b) Lower mortgage rates",
+          "c) More apartments",
+          "d) More homes built"
         ],
-        "correct": "A. Commission on Higher Education"
+        "correct": "d) More homes built"
       },
       {
-        "question": "It is considered not a ground for the removal of the chairperson of the Professional Regulatory Board of Real Estate Service:",
+        "question": "Two identical homes, different prices. What will be the effect?",
         "options": [
-          "A. Unprofessional conduct",
-          "B. Immoral conduct",
-          "C. Late payment of car loan amortization",
-          "D. Neglect of duty"
+          "a) Lower-priced will sell quickly",
+          "b) Lower-priced attracts more demand",
+          "c) Lower-priced gets more showings",
+          "d) Lower-priced sells at full price"
         ],
-        "correct": "C. Late payment of car loan amortization"
+        "correct": "b) Lower-priced attracts more demand"
       },
       {
-        "question": "A successful examinee must, before engaging in the practice of real estate service, undertake the following:",
+        "question": "Seller reduces price when _______________________.",
         "options": [
-          "A. Take an oath before the Board",
-          "B. Register with DHSUD",
-          "C. Secure an NBI Clearance",
-          "D. Post a bond in the total amount of P 50,000.00"
+          "a) Buyers tell them",
+          "b) Broker tells them",
+          "c) New broker insists",
+          "d) Seller decides to facilitate sale"
         ],
-        "correct": "A. Take an oath before the Board"
+        "correct": "d) Seller decides to facilitate sale"
       },
       {
-        "question": "In case DD Development Corporation will engage in the development of land for a memorial park, the corporation shall be referred to under the RESA and defined as a:",
+        "question": "Building costs rise in high demand until ______________________.",
         "options": [
-          "A. Real Estate Business Corporation",
-          "B. Real Estate Dealer",
-          "C. Real Estate Development & Memorial Company",
-          "D. Real Estate Developer"
+          "a) Prices cannot go higher",
+          "b) More builders enter market",
+          "c) Supplier charges drop",
+          "d) Interest rates increase"
         ],
-        "correct": "D. Real Estate Developer"
+        "correct": "b) More builders enter market"
       },
       {
-        "question": "Upon application and payment of the required fees, subject to the approval of the PRC, special/temporary permits may be issued to real estate service practitioners from foreign countries in case of:",
+        "question": "Unique home design leads to _______________________.",
         "options": [
-          "A. Specific foreign development projects",
-          "B. Unavailability of local practitioners to enhance the practice",
-          "C. Government to government realty projects",
-          "D. Lack of real estate salespersons"
+          "a) More value",
+          "b) Higher sales price",
+          "c) Less buyer interest",
+          "d) Market pays equal value"
         ],
-        "correct": "C. Government to government realty projects"
+        "correct": "c) Less buyer interest"
       },
       {
-        "question": "The bachelor's degree adopted in coordination with the CHED for real estate service and required under the RESA, is called:",
+        "question": "Externalities are ________________.",
         "options": [
-          "A. Bachelor of Science in Real Estate",
-          "B. Bachelor of Science in Real Estate Management",
-          "C. Bachelor of Science in Real Estate Service",
-          "D. Bachelor of Science in Real Estate Service Practice"
+          "a) Outside factors affecting value",
+          "b) Design losses",
+          "c) Land value increases",
+          "d) Buyer preference changes"
         ],
-        "correct": "B. Bachelor of Science in Real Estate Management"
+        "correct": "a) Outside factors affecting value"
       },
       {
-        "question": "In addition to licensing with the PRC, a real estate broker who intends to sell a residential subdivision project must also:",
+        "question": "The Four forces influencing value are the following:",
         "options": [
-          "A. Register with the AIPO",
-          "B. Register with the Department of Trade and Industry",
-          "C. Register with DHSUD",
-          "D. Register with the Condominium Project"
+          "a) Social, economic, government, and environment",
+          "b) Land, labor, capital, green space",
+          "c) Eminent domain, police power, escheat, taxation",
+          "d) Government, social, taxation, economic"
         ],
-        "correct": "C. Register with DHSUD"
+        "correct": "a) Social, economic, government, and environment"
       },
       {
-        "question": "RA 9646, The Real Estate Service Act of the Philippines became effective last:",
+        "question": "When housing demand increases, ______________________________.",
         "options": [
-          "A. June 15, 2009",
-          "B. July 30, 2009",
-          "C. July 30, 2010",
-          "D. June 30, 2010"
+          "a) Supply increases immediately",
+          "b) Supply increases slowly",
+          "c) Supply is unaffected",
+          "d) Supply will diminish"
         ],
-        "correct": "B. July 30, 2009"
+        "correct": "b) Supply increases slowly"
       },
       {
-        "question": "To be a real estate assessor, it is required to be a graduate of:",
+        "question": "Overproduction of homes, ___________________.",
         "options": [
-          "A. A bachelor's degree in real estate brokerage",
-          "B. A bachelor's degree in real estate management",
-          "C. A relevant bachelor's degree",
-          "D. At least two years of college"
+          "a) Causes oversupply and lower prices",
+          "b) Increases demand",
+          "c) Increases prices",
+          "d) Balances market"
         ],
-        "correct": "C. A relevant bachelor's degree"
+        "correct": "a) Causes oversupply and lower prices"
       },
       {
-        "question": "Land is unique because:",
+        "question": "Investor expects PHP25,000/year income. Which principle applies?",
         "options": [
-          "A. No two parcels have the same soil composition",
-          "B. No two parcels have the same owners",
-          "C. No two parcels have the same tax levies",
-          "D. No two parcels can occupy the same space on the face of the earth"
+          "a) Anticipation",
+          "b) Change",
+          "c) Competition",
+          "d) Substitution"
         ],
-        "correct": "D. No two parcels can occupy the same space on the face of the earth"
+        "correct": "a) Anticipation"
       },
       {
-        "question": "It refers to the right to use over the property of another:",
+        "question": "Capital is _______________________.",
         "options": [
-          "A. Easement",
-          "B. Dominant Estate",
-          "C. Servitudes",
-          "D. None of the above"
+          "a) Accumulated wealth for investment",
+          "b) Government center location",
+          "c) Death sentence",
+          "d) Legislature building"
         ],
-        "correct": "A. Easement"
+        "correct": "a) Accumulated wealth for investment"
       },
       {
-        "question": "It is a burden imposed upon another and may be classified as positive and negative servitudes:",
+        "question": "Property values conform to market. Which principle applies?",
         "options": [
-          "A. Easement",
-          "B. Dominant Estate",
-          "C. Servitude",
-          "D. None of the above"
+          "a) Use value",
+          "b) Contribution",
+          "c) Conformity",
+          "d) Supply and demand"
         ],
-        "correct": "C. Servitude"
+        "correct": "c) Conformity"
       },
       {
-        "question": "Requirements for a compulsory easement of right of way:",
+        "question": "Life estates are _________________________.",
         "options": [
-          "A. Property is surrounded by other properties and there is no adequate exit to the public highway",
-          "B. Payment of the proper indemnity",
-          "C. The right of way claimed is at the point least prejudicial to the grantor",
-          "D. All of the above"
+          "a) Not appraised",
+          "b) Full rights limited by a life",
+          "c) Illegal",
+          "d) Not income properties"
         ],
-        "correct": "D. All of the above"
+        "correct": "b) Full rights limited by a life"
       },
       {
-        "question": "In real estate law, what are the principal sources of the law?",
+        "question": "Stepson receives a life estate in a property. What can he legally do with his interest in the property?",
         "options": [
-          "A. Philippine constitution",
-          "B. Laws passed by congress",
-          "C. Treaties",
-          "D. All of the above"
+          "a) Mortgage the interest",
+          "b) Rent the property",
+          "c) Sell the life estate",
+          "d) All of the above"
         ],
-        "correct": "D. All of the above"
+        "correct": "d) All of the above"
       },
       {
-        "question": "A legal system that recognizes full property ownership rights of individual includes the right of possession, control, enjoyment and disposition:",
+        "question": "A lease _____________________________.",
         "options": [
-          "A. Bundle of Rights",
-          "B. Common law",
-          "C. Allodial System",
-          "D. Certificate of Title"
+          "a) Must be one year",
+          "b) Conveys occupancy",
+          "c) Landlord pays taxes",
+          "d) No effect on appraisal"
         ],
-        "correct": "A. Bundle of Rights"
+        "correct": "b) Conveys occupancy"
       },
       {
-        "question": "It is a body of law recognized by the court based on custom and usage:",
+        "question": "Gross lease is wherein ________________________.",
         "options": [
-          "A. Common Law",
-          "B. Tradition",
-          "C. Culture and Tradition",
-          "D. None of the above"
+          "a) Landlord pays most expenses",
+          "b) Landlord pays none",
+          "c) All passed to tenant",
+          "d) Shared expenses"
         ],
-        "correct": "A. Common Law"
+        "correct": "a) Landlord pays most expenses"
       },
       {
-        "question": "Is an article attached by the tenant to the building for use in conducting trade or business:",
+        "question": "Air rights are _____________________________.",
         "options": [
-          "A. Fixture",
-          "B. Trade fixture",
-          "C. Chattel Fixture",
-          "D. B & C"
+          "a) Ventilation rights",
+          "b) Rights above surface",
+          "c) Right to have air",
+          "d) Cooperative-like"
         ],
-        "correct": "B. Trade fixture"
+        "correct": "b) Rights above surface"
       },
       {
-        "question": "Privilege to use the land of another for a specific purpose. It is a personal privilege granted only the person whom it is given:",
+        "question": "Easements give right",
         "options": [
-          "A. License",
-          "B. Bundle of rights",
-          "C. Right to use",
-          "D. Stewardship concept"
+          "a) To cross property",
+          "b) To access for service",
+          "c) To use during lease",
+          "d) To reenter if unpaid"
         ],
-        "correct": "A. License"
+        "correct": "b) To access for service"
       },
       {
-        "question": "Unauthorized physical intrusions of a building or other forms of real property onto an adjoining property:",
+        "question": "What type of ownership involves an attached home where the owner holds a fee simple title and shares in common amenities such as open spaces or recreational facilities?",
         "options": [
-          "A. Encroachments",
-          "B. Informal Settlers",
-          "C. Prescription",
-          "D. None of the above"
+          "a) Attached home with fee",
+          "b) Condominium",
+          "c) Townhouse",
+          "d) Zero lot line"
         ],
-        "correct": "A. Encroachments"
+        "correct": "c) Townhouse"
       },
       {
-        "question": "Are conditions or limitations placed in a deed by the owner when the property is transferred to another party:",
+        "question": "What type of interest does EEA Builders hold under a lease from a tenant, not the landowner?",
         "options": [
-          "A. Easement",
-          "B. Prescription",
-          "C. Liens",
-          "D. Deed of Restriction"
+          "a) Fee simple interest",
+          "b) Leased fee interest",
+          "c) Leasehold interest",
+          "d) Sub-leasehold interest"
         ],
-        "correct": "D. Deed of Restriction"
+        "correct": "c) Leasehold interest"
       },
       {
-        "question": "Refers to the degree, quality, nature and extent of interest a person can have in real estate:",
+        "question": "As the property owner leasing the land to a tenant, what type of interest do you hold?",
         "options": [
-          "A. Estate in land",
-          "B. Feudal ownership",
-          "C. Allodial System",
-          "D. Fee simple Absolute"
+          "a) The leased fee interest",
+          "b) The leasehold interest",
+          "c) A sub-leasehold interest",
+          "d) A sub-leased fee interest"
         ],
-        "correct": "A. Estate in land"
+        "correct": "a) The leased fee interest"
       },
       {
-        "question": "Are Freehold estates based on someone’s life:",
+        "question": "What typically happens to the building at the end of a 99-year lease on your land?",
         "options": [
-          "A. Life estates",
-          "B. Life tenant",
-          "C. Joint Tenancy",
-          "D. None of the above"
+          "a) Any buildings on the land revert to you or your successors",
+          "b) The lessee (e.g., MMDC) can remove the building before the lease ends",
+          "c) The building remains the property of MMDC since they constructed it",
+          "d) You will likely need to sell the property before the 99 years is up, voiding the lease"
         ],
-        "correct": "A. Life estates"
+        "correct": "a) Any buildings on the land revert to you or your successors"
       },
       {
-        "question": "Water rights pertain to land bordering flowing water, such as streams or rivers. The extent of ownership depends on whether the water bordering the land is navigable:",
+        "question": "A project with units that are limited both vertically and horizontally and have percentage ownership in the common elements is a",
         "options": [
-          "A. Riparian rights",
-          "B. Littoral rights",
-          "C. Prior Appropriation",
-          "D. All of the above"
+          "a) Condominium",
+          "b) PUD",
+          "c) Cooperative",
+          "d) Timeshare"
         ],
-        "correct": "A. Riparian rights"
+        "correct": "a) Condominium"
       },
       {
-        "question": "Kitty Dutertey, a Filipina, was married to Pau Gasul, an Iraqi citizen. They resided in the Philippines in a house and lot registered in Kitty’s name. Upon Kitty’s death—without any children and assuming she has no surviving close relatives—can Pau inherit the property and have it registered in his name?",
+        "question": "Book value equals",
         "options": [
-          "A. No. Because he is a foreigner and it is prohibited under the 1987 Constitution",
-          "B. Yes. It is allowed by law as a form of exemption",
-          "C. No. Because the property will revert back to the State",
-          "D. Yes, provided Pau should be naturalized"
+          "a) The sum of the value of inventory for a bookseller",
+          "b) The value of the assets after the scheduled depreciation has been subtracted from the original cost plus any improvements",
+          "c) The current market value of the property",
+          "d) The cost new of the asset less physical and functional depreciation"
         ],
-        "correct": "A. No. Because he is a foreigner and it is prohibited under the 1987 Constitution"
+        "correct": "b) The value of the assets after the scheduled depreciation has been subtracted from the original cost plus any improvements"
       },
       {
-        "question": "Which is a limitation of land ownership?",
+        "question": "A real property interest held by a lessee and conveying the right of use and occupancy for a stated term and under certain conditions is called the",
         "options": [
-          "A. Limitation by grantor",
-          "B. Limitation by state",
-          "C. Limitation by owner",
-          "D. Limitation by law",
-          "E. All of the above"
+          "a) Leasehold estate",
+          "b) Fee simple estate",
+          "c) Leased fee estate",
+          "d) Determinable fee estate"
         ],
-        "correct": "E. All of the above"
+        "correct": "a) Leasehold estate"
       },
       {
-        "question": "Ms Heart Ebangelista donated a property to Ms. Ivana Alavi, including a condition in the deed of donation that prohibits the latter from selling the property within two (2) years from the date of donation. This type of restriction is an example of:",
+        "question": "Which of the following is not a way to hold title to realty?",
         "options": [
-          "A. Police power",
-          "B. Limitation by law",
-          "C. Voluntary limitation",
-          "D. Limitations imposed by the grantor"
+          "a) Joint tenancy",
+          "b) Tenancy at will",
+          "c) Tenancy in common",
+          "d) Tenancy by the entirely"
         ],
-        "correct": "D. Limitations imposed by the grantor"
+        "correct": "b) Tenancy at will"
       },
       {
-        "question": "Which of the following is considered real property?",
+        "question": "The highest and fullest estate in land is the",
         "options": [
-          "A. A leased car",
-          "B. A condominium unit",
-          "C. A bank account",
-          "D. A corporate share"
+          "a) Fee for service",
+          "b) Fee simple",
+          "c) Fee simple determinable",
+          "d) Life estate"
         ],
-        "correct": "B. A condominium unit"
+        "correct": "b) Fee simple"
       },
       {
-        "question": "What is the most complete form of ownership in real property?",
+        "question": "Ownership of real property by two or more parties with an undivided interest is called",
         "options": [
-          "A. Life estate",
-          "B. Leasehold estate",
-          "C. Fee simple absolute",
-          "D. Tenancy in common"
+          "a) Joint tenancy",
+          "b) Tenancy by the entirety",
+          "c) Sole proprietorship",
+          "d) Tenancy in common"
         ],
-        "correct": "C. Fee simple absolute"
+        "correct": "d) Tenancy in common"
       },
       {
-        "question": "The right to possess, use, enjoy, and dispose of a property is called:",
+        "question": "TDRs are",
         "options": [
-          "A. Deed of sale",
-          "B. Bundle of rights",
-          "C. Legal title",
-          "D. Right of way"
+          "a) Topical development restrictions",
+          "b) Transferable development rights",
+          "c) Temporary development rights",
+          "d) Tailored development-residential"
         ],
-        "correct": "B. Bundle of rights"
+        "correct": "b) Transferable development rights"
       },
       {
-        "question": "Ownership rights that are indefinite in duration are called:",
+        "question": "You bought a fee simple interest in a parcel of real estate last year. Six months later you leased the vacant land to Mr. Sy for 50 years, and he built a four-storey office building on it. The salable rights are as follows:",
         "options": [
-          "A. Leasehold",
-          "B. Freehold",
-          "C. Easement",
-          "D. Option contract"
+          "a) You have the fee simple, and Mr. Sy has the leased fee",
+          "b) You have the leased fee, and Mr. Sy has the leasehold",
+          "c) You have the leasehold, and Mr. Sy has the leased fee",
+          "d) You have the leased fee, and Mr. Sy has the fee simple"
         ],
-        "correct": "B. Freehold"
+        "correct": "b) You have the leased fee, and Mr. Sy has the leasehold"
       },
       {
-        "question": "Which of the following is not included in the bundle of rights?",
+        "question": "A leased fee interest is",
         "options": [
-          "A. Right to exclude others",
-          "B. Right to destroy public property",
-          "C. Right to dispose",
-          "D. Right to enjoy"
+          "a) The ownership interest of the tenant when a lease is in effect",
+          "b) The ownership interest of the landlord when a lease is in effect",
+          "c) The ownership interest of the mortgage holder when a lease is in effect",
+          "d) The ownership interest of the sub-lessor when lease is in effect"
         ],
-        "correct": "B. Right to destroy public property"
+        "correct": "b) The ownership interest of the landlord when a lease is in effect"
       },
       {
-        "question": "The system that allows individuals to own land absolutely, free from feudal duties is called:",
+        "question": "You owned a 40-hectare parcel of land for the last 25 years. You paid the taxes on the real estate for the first 20 years but have not paid them for the last five.",
         "options": [
-          "A. Feudal system",
-          "B. Tenancy-at-will",
-          "C. Allodial system",
-          "D. Registry system"
+          "a) The state will get the taxes when the property is sold since the buyer will insist the taxes are paid prior to closing",
+          "b) The state has the right to sell the real estate to pay the back taxes",
+          "c) The state is powerless to collect these taxes",
+          "d) The state will sue you, and the courts will garnish your wages to get paid"
         ],
-        "correct": "C. Allodial system"
+        "correct": "b) The state has the right to sell the real estate to pay the back taxes"
       },
       {
-        "question": "Which type of co-ownership allows each owner to pass their interest to heirs?",
+        "question": "John owned a small farm of 2 hectares in the province. When he died, he had no heirs, no friends and no will",
         "options": [
-          "A. Joint tenancy",
-          "B. Tenancy by the entirety",
-          "C. Leasehold",
-          "D. Tenancy in common"
+          "a) The land will be in John's name forever because he died without heirs",
+          "b) The land will pass to the adjacent owners equally",
+          "c) The land will pass to the first person to occupy the land for seven years (i.e., squatter’s rights)",
+          "d) The state will take the property and sell it"
         ],
-        "correct": "D. Tenancy in common"
+        "correct": "d) The state will take the property and sell it"
       },
       {
-        "question": "In joint tenancy, if one owner dies, their interest automatically:",
+        "question": "You own a house and five hectares just outside Metro Manila. This home is adjacent to Road 3, which has been a small two-lane roadways for many years. Last year, the state decided to widen this road to six lanes to accommodate all the future traffic created by the construction of commercial buildings. To facilitate this expansion, the state will need about 50 meters off the front of your homestead. The state will",
         "options": [
-          "A. Transfers to the state",
-          "B. Transfers to the surviving joint tenant(s)",
-          "C. Is auctioned off",
-          "D. Goes into a trust"
+          "a) Just take the property and use it",
+          "b) Pay whatever you ask to keep you from suing",
+          "c) Pay you a fair and equitable amount based on the estimated property value before the taking and another valuation after the taking",
+          "d) Take this property from you and replace it with some land in another area of the same area"
         ],
-        "correct": "B. Transfers to the surviving joint tenant(s)"
+        "correct": "c) Pay you a fair and equitable amount based on the estimated property value before the taking and another valuation after the taking"
       },
       {
-        "question": "What type of interest gives possession but not ownership?",
+        "question": "A fee simple interest in real property is limited only by",
         "options": [
-          "A. Fee simple",
-          "B. Easement",
-          "C. Leasehold",
-          "D. Freehold"
+          "a) Taxation, eminent domain, police power, and easements",
+          "b) Taxation, eminent domain, police power, and escheat",
+          "c) Eminent domain, police power, leases, and escheat",
+          "d) Eminent domain, police power, zoning, and escheat"
         ],
-        "correct": "C. Leasehold"
+        "correct": "b) Taxation, eminent domain, police power, and escheat"
       },
       {
-        "question": "Which of the following is a limitation on property ownership imposed by the government?",
+        "question": "A deed should be recorded because",
         "options": [
-          "A. Right to lease",
-          "B. Taxation",
-          "C. Easement",
-          "D. Private covenant"
+          "a) Recording gives public notice of the transactions and sets the priority",
+          "b) It is required by laws",
+          "c) Title does not pass until the deed is recorded",
+          "d) Recording makes the deed a legal document"
         ],
-        "correct": "B. Taxation"
+        "correct": "a) Recording gives public notice of the transactions and sets the priority"
       },
       {
-        "question": "What do we call restrictions placed in a deed that limit how a property can be used?",
+        "question": "Zoning and environmental protection regulations are examples of",
         "options": [
-          "A. Zoning",
-          "B. Liens",
-          "C. Deed restrictions",
-          "D. Mortgages"
+          "a) Clouds on title",
+          "b) Public use",
+          "c) Escheat",
+          "d) Police power"
         ],
-        "correct": "C. Deed restrictions"
+        "correct": "d) Police power"
       },
       {
-        "question": "When land is passed down without a will, it is transferred through:",
+        "question": "A neighborhood is",
         "options": [
-          "A. Eminent domain",
-          "B. Adverse possession",
-          "C. Intestate succession",
-          "D. Escheat"
+          "a) A residential subdivision",
+          "b) An area with similar zoning and density",
+          "c) A group of complementary land uses",
+          "d) An area with homes of the same price"
         ],
-        "correct": "C. Intestate succession"
+        "correct": "c) A group of complementary land uses"
       },
       {
-        "question": "The government’s right to take private property for public use with just compensation is called:",
+        "question": "A district is",
         "options": [
-          "A. Taxation",
-          "B. Escheat",
-          "C. Eminent domain",
-          "D. Police power"
+          "a) An area within a neighborhood where all the properties are vacant",
+          "b) A type of neighborhood that is characterized by homogenous land use",
+          "c) Delineation of zoning classifications",
+          "d) An area where city attorneys reside"
         ],
-        "correct": "C. Eminent domain"
+        "correct": "b) A type of neighborhood that is characterized by homogenous land use"
       },
       {
-        "question": "Which of the following is considered a corporeal immovable?",
+        "question": "Market area life cycles include",
         "options": [
-          "A. Franchise",
-          "B. Building",
-          "C. Trademark",
-          "D. Shares of stock"
+          "a) Growth, stability, decline, and revitalization",
+          "b) Growth, stability, decline, and gentrification",
+          "c) Growth, stability, appreciation, and decline",
+          "d) Growth, level off, appreciation, and decline"
         ],
-        "correct": "B. Building"
+        "correct": "a) Growth, stability, decline, and revitalization"
       },
       {
-        "question": "The transfer of property through a will is legally referred to as:",
+        "question": "Neighborhood social influences include all of the following except",
         "options": [
-          "A. Devise",
-          "B. Donation inter vivos",
-          "C. Conveyance",
-          "D. Prescription"
+          "a) Population density",
+          "b) Occupant skill levels",
+          "c) Occupant age levels",
+          "d) Vacancy rates"
         ],
-        "correct": "A. Devise"
+        "correct": "d) Vacancy rates"
       },
       {
-        "question": "Which type of property ownership is exclusively available to legally married couples?",
+        "question": "Economic influences include all of the following except",
         "options": [
-          "A. Tenancy in common",
-          "B. Joint tenancy",
-          "C. Tenancy by the entirety",
-          "D. Leasehold estate"
+          "a) Occupant income levels",
+          "b) Crime levels",
+          "c) Property rent levels",
+          "d) Property value levels"
         ],
-        "correct": "C. Tenancy by the entirety"
+        "correct": "b) Crime levels"
       },
       {
-        "question": "What do we call the process of increase in land area due to deposits from a river or stream?",
+        "question": "Governmental influences include all of the following except",
         "options": [
-          "A. Accretion",
-          "B. Avulsion",
-          "C. Erosion",
-          "D. Encroachment"
+          "a) Tax burdens",
+          "b) Special assessments",
+          "c) Zoning, building, and housing codes",
+          "d) Changes in property use"
         ],
-        "correct": "A. Accretion"
+        "correct": "d) Changes in property use"
       }
     ]
   },
   {
     id: "part2",
-    title: "Theories and Principles of Appraisal",
+    title: "Appraisal Final Coaching Mock Exam Set 2",
     questions: [
-          {
-            question: "Under the Real Estate Service Act, the following is qualified to be a real estate appraiser:",
-            options: [
-              "a. High school graduate",
-              "b. At least 2 years of college",
-              "c. Graduate of a bachelor's degree in real estate management",
-              "d. Graduate of bachelor of science in appraisal"
-            ],
-            correct: "c. Graduate of a bachelor's degree in real estate management"
-          },
-          {
-            question: "It refers to an estimate of value as of a particular point in time expressed in peso amount:",
-            options: [
-              "a. Fair market value",
-              "b. Appraisal",
-              "c. Assessment",
-              "d. Value estimate"
-            ],
-            correct: "b. Appraisal"
-          },
-          {
-            question: "The following appraisal report is no longer allowed under the Real Estate Service Act of the Philippines:",
-            options: [
-              "a. Narrative report",
-              "b. Form report",
-              "c. Oral report",
-              "d. Written letter report"
-            ],
-            correct: "c. Oral report"
-          },
-          {
-            question: "It is not a purpose of real estate appraisal:",
-            options: [
-              "a. Purchase",
-              "b. Insurance",
-              "c. Property Disputes",
-              "d. Capital gains tax"
-            ],
-            correct: "d. Capital gains tax"
-          },
-          {
-            question: "A purpose of appraisal where it is used to determine the fair market values of properties for distribution to heirs",
-            options: [
-              "a. Partitioning of Estate",
-              "b. Property disputes",
-              "c. Mortgage financing",
-              "d. Estate settlement"
-            ],
-            correct: "d. Estate settlement"
-          },
-          {
-            question: "A principle of appraisal that supply is influenced by",
-            options: [
-              "a. Demand",
-              "b. Scarcity",
-              "c. Price",
-              "d. Effective purchasing power"
-            ],
-            correct: "c. Price"
-          },
-          {
-            question: "The following are not required to post a bond with the PRC?",
-            options: [
-              "a. Real estate appraiser",
-              "b. Real estate consultant",
-              "c. Real Estate broker",
-              "d. All are required"
-            ],
-            correct: "b. Real estate consultant"
-          },
-          {
-            question: "Another term used to refer to a private real estate appraiser and is used in the RESA is",
-            options: [
-              "a. Estimator",
-              "b. Assessor",
-              "c. Valuer",
-              "d. Practitioner"
-            ],
-            correct: "c. Valuer"
-          },
-          {
-            question: "The value of replaceable property tends to be indicated by the value of an equally desirable substitute property is called the principle of",
-            options: [
-              "a. Desire",
-              "b. Substitution",
-              "c. Replacement",
-              "d. Competition"
-            ],
-            correct: "b. Substitution"
-          },
-          {
-            question: "When one talks about the use which at the time of appraisal is most likely to produce the greatest net return, it refers to:",
-            options: [
-              "a. Most effective use",
-              "b. Optimum use",
-              "c. Highest and Best Use",
-              "d. Highest rate of return"
-            ],
-            correct: "c. Highest and Best Use"
-          },
-          {
-            question: "The application of larger and larger amounts of the agents in production will produce greater and greater net income (increasing returns) up to a point (surplus productivity) is:",
-            options: [
-              "a. Increasing and decreasing returns",
-              "b. Diminishing returns",
-              "c. Excess point",
-              "d. Optimum increasing returns"
-            ],
-            correct: "a. Increasing and decreasing returns"
-          },
-          {
-            question: "A principle of appraisal that is comprised of reasonable degree of social and economic homogeneity:",
-            options: [
-              "a. Economic value",
-              "b. Highest and best use",
-              "c. Conformity",
-              "d. Adherence"
-            ],
-            correct: "c. Conformity"
-          },
-          {
-            question: "The principle that value is the worth of all present and future benefits arising from ownership and use of real property:",
-            options: [
-              "a. Principle of value",
-              "b. Principle of highest returns",
-              "c. Principle of income return",
-              "d. Principle of anticipation"
-            ],
-            correct: "d. Principle of anticipation"
-          },
-          {
-            question: "In an area in the city, a building valued at P30,000,000.00 was built right beside an old dilapidated establishment which tends to increase the value of such establishment and is a principle called:",
-            options: [
-              "a. Progression",
-              "b. Regression",
-              "c. Depression",
-              "d. Value influence"
-            ],
-            correct: "a. Progression"
-          },
-          {
-            question: "This is considered a factor that influence or create value to real estate:",
-            options: [
-              "a. Competition",
-              "b. Social ideals and standards",
-              "c. Highest and best use",
-              "d. Substitution"
-            ],
-            correct: "a. Competition"
-          },
-          {
-            question: "When a real property's value depreciates in view of the decline in the utility of a feature of the property, this is referred to as",
-            options: [
-              "a. Principle of utility",
-              "b. Functional obsolescence",
-              "c. Functional depreciation",
-              "d. Use depreciation"
-            ],
-            correct: "b. Functional obsolescence"
-          },
-          {
-            question: "A beautiful two-storey house was located in the city, but thereafter a shanty was put up beside the property and its value will be negatively affected. This refers to which principle:",
-            options: [
-              "a. Deterioration",
-              "b. Progression",
-              "c. Regression",
-              "d. Value depreciation"
-            ],
-            correct: "c. Regression"
-          },
-          {
-            question: "It is considered an approach to value in real estate appraisal under the principle of anticipation:",
-            options: [
-              "a. Market data approach",
-              "b. Market survey approach",
-              "c. Income approach",
-              "d. Future value approach"
-            ],
-            correct: "c. Income approach"
-          },
-          {
-            question: "In making a survey of similar properties in the area, the appraiser uses the market data approach which is based on the principle of:",
-            options: [
-              "a. Competition",
-              "b. Substitution",
-              "c. Comparison",
-              "d. Replacement"
-            ],
-            correct: "b. Substitution"
-          },
-          {
-            question: "Under the Real Estate Service Act, a private real estate appraiser must pay the following bond to engage in practice",
-            options: [
-              "a. P10,000.00",
-              "b. P5,000.00",
-              "c. P25,000.00",
-              "d. P20,000.00"
-            ],
-            correct: "d. P20,000.00"
-          },
-          {
-            question: "In order for an assistant city assessor to be promoted to the higher position of chief assessor, it is required that he/she:",
-            options: [
-              "a. Must have 2 years experience as real estate assessor",
-              "b. Must have 10 years experience as real estate assessor",
-              "c. Be a licensed real estate broker",
-              "d. Be a licensed real estate consultant"
-            ],
-            correct: "b. Must have 10 years experience as real estate assessor"
-          },
-          {
-            question: "The real estate appraiser refers to the private real estate appraiser and",
-            options: [
-              "a. Real estate assessor",
-              "b. Public real estate appraiser",
-              "c. Individual real estate appraiser",
-              "d. Staff of the assessor's department"
-            ],
-            correct: "a. Real estate assessor"
-          },
-          {
-            question: "It is the relationship between a thing desired and a potential purchaser",
-            options: [
-              "a. Price",
-              "b. Value",
-              "c. Cost",
-              "d. Counter offer"
-            ],
-            correct: "b. Value"
-          },
-          {
-            question: "An observation in the principles of appraisal is that the desire for property to be effective must be backed by:",
-            options: [
-              "a. Effective demand",
-              "b. Sufficient supply",
-              "c. Purchasing power",
-              "d. Immediate need"
-            ],
-            correct: "c. Purchasing power"
-          },
-          {
-            question: "It is not a value factor in the appraisal of a parcel of land",
-            options: [
-              "a. Sun orientation",
-              "b. Frontage",
-              "c. Depth",
-              "d. Shape"
-            ],
-            correct: "a. Sun orientation"
-          },
-          {
-            question: "A city assessor, under the RESA, after taking the licensure examination and passing the same will be given a license as",
-            options: [
-              "a. Licensed real estate assessor",
-              "b. Licensed government assessor",
-              "c. Licensed real estate appraiser",
-              "d. Licensed public assessor"
-            ],
-            correct: "c. Licensed real estate appraiser"
-          },
-          {
-            question: "The law governing taxation of real property for real estate taxes is",
-            options: [
-              "a. Local Government Tax Code of 1991",
-              "b. Local Government Code of 1991",
-              "c. Local Tax Code",
-              "d. Local Property Tax Code"
-            ],
-            correct: "b. Local Government Code of 1991"
-          },
-          {
-            question: "In local taxation, real property shall be classified for assessment purposes on the basis of its",
-            options: [
-              "a. Zoning classification",
-              "b. Actual use by the owner",
-              "c. Actual use by the person in possession",
-              "d. Land use plan"
-            ],
-            correct: "c. Actual use by the person in possession"
-          },
-          {
-            question: "An assessor in valuing the property of the land owner, must base his value of the property",
-            options: [
-              "a. On the zonal value",
-              "b. On the current and fair market value",
-              "c. On the value of the private appraiser",
-              "d. On the current declared value"
-            ],
-            correct: "b. On the current and fair market value"
-          },
-          {
-            question: "The basic real property tax to be imposed by the sanggunian panlalawigan in a province shall not exceed:",
-            options: [
-              "a. 1% of the assessed value",
-              "b. 1% of the fair market value of the assessor",
-              "c. 2% of the assessed value",
-              "d. 2% of the fair market value of the assessor"
-            ],
-            correct: "a. 1% of the assessed value"
-          },
-          {
-            question: "A special levy is the special education fund tax which shall be at a rate of:",
-            options: [
-              "a. Not exceeding 1% of the assessed value",
-              "b. 1% of the assessed value",
-              "c. 1% of the fair market value",
-              "d. Not exceeding 1% of the fair market value"
-            ],
-            correct: "a. Not exceeding 1% of the assessed value"
-          },
-          {
-            question: "It refers to the purpose for which the property is principally or predominantly utilized by the person in possession thereof",
-            options: [
-              "a. Current use",
-              "b. Assessed Usage",
-              "c. Actual Use",
-              "d. Use classification"
-            ],
-            correct: "c. Actual Use"
-          },
-          {
-            question: "The government may impose a tax on lands not fully utilized or the idle land tax not exceeding",
-            options: [
-              "a. 2% of the assessed value",
-              "b. 3% of the assessed value",
-              "c. 5% of the assessed value",
-              "d. 5% of the fair market value"
-            ],
-            correct: "c. 5% of the assessed value"
-          },
-          {
-            question: "To compute for basic real property tax, the owner will use the formula",
-            options: [
-              "a. Fair market value x tax rate",
-              "b. Assessed value x tax rate",
-              "c. Assessment level x tax rate",
-              "d. Fair market value x assessment level"
-            ],
-            correct: "b. Assessed value x tax rate"
-          },
-          {
-            question: "Mr. Parco failed to pay his real estate tax due on time and he will be subject to a penalty equivalent to:",
-            options: [
-              "a. 1% per month",
-              "b. 2% per month",
-              "c. 5% per month",
-              "d. 20% per annum"
-            ],
-            correct: "b. 2% per month"
-          },
-          {
-            question: "In order for the local government to impose and implement the tax due for real estate taxes for the city, it must be through:",
-            options: [
-              "a. Executive order of the Mayor",
-              "b. Approved local tax ordinance",
-              "c. Memorandum of the city council",
-              "d. Resolution of the sangguniang bayan"
-            ],
-            correct: "b. Approved local tax ordinance"
-          },
-          {
-            question: "The sangguniang panlalawigan may determine the assessment level for agricultural land provided it does not exceed",
-            options: [
-              "a. 10%",
-              "b. 15%",
-              "c. 20%",
-              "d. 40%"
-            ],
-            correct: "d. 40%"
-          },
-          {
-            question: "Agricultural lands, more than one(1)hectare in area, suitable for cultivation, dairying, inland fishery and other agricultural uses may be subject to idle land tax if it remains uncultivated or unimproved by the owner or owners to the extent of",
-            options: [
-              "a. 100%",
-              "b. 1/4 of the land",
-              "c. 1/2 of the land",
-              "d. 60% of the land"
-            ],
-            correct: "c. 1/2 of the land"
-          },
-          {
-            question: "A parcel of land was assessed as commercial at a rate of 45% with a fair market value of PHP2,300,000.00, although the zonal value is P3,000,000.00. What will be the assessed value?",
-            options: [
-              "a. PHP1,150,000.00",
-              "b. PHP1,500,000.00",
-              "c. PHP1,035,000.00",
-              "d. PHP1,350,000.00"
-            ],
-            correct: "c. PHP1,035,000.00"
-          },
-          {
-            question: "The assessment level of the improvements of a property owned by Ms. Berma will be based on the classification and:",
-            options: [
-              "a. Fair market value of the improvement of the assessor",
-              "b. Assessed value of the improvement of the assessor",
-              "c. Zonal value of the improvement",
-              "d. Declared value by the owner x tax rate"
-            ],
-            correct: "a. Fair market value of the improvement of the assessor"
-          },
-          {
-            question: "Mr. de Guzman failed to pay his real property tax due for two years and he will still be subject to a penalty equivalent to a total of:",
-            options: [
-              "a. 20%",
-              "b. 25%",
-              "c. 24%",
-              "d. 48%"
-            ],
-            correct: "d. 48%"
-          },
-          {
-            question: "The City of Baguio may provide a discount for early payment of the annual tax in the discount amount not exceeding:",
-            options: [
-              "a. 5%",
-              "b. 10%",
-              "c. 20%",
-              "d. 24%"
-            ],
-            correct: "c. 20%"
-          },
-          {
-            question: "The real estate tax on the house and lot owned by Ms. Millie may be paid without penalty interest in:",
-            options: [
-              "a. 2 semi-annual payments",
-              "b. 4 payments",
-              "c. 4 equal quarterly payments",
-              "d. Monthly payments"
-            ],
-            correct: "c. 4 equal quarterly payments"
-          },
-          {
-            question: "For real estate taxes, the Local Government Code provides that the tax becomes due and payable:",
-            options: [
-              "a. At the end of each quarter of the year",
-              "b. On the first day of January",
-              "c. Upon receipt of the notice of assessment",
-              "d. At the beginning of each quarter of the year"
-            ],
-            correct: "b. On the first day of January"
-          },
-          {
-            question: "The idle land tax does not apply to the following property",
-            options: [
-              "a. Uncultivated agricultural land of 3 hectares",
-              "b. Rawland of unimproved 5,000 square meters",
-              "c. Land with unfavorable physical factors",
-              "d. 2 hectares of land suitable for farming half of which is unimproved"
-            ],
-            correct: "c. Land with unfavorable physical factors"
-          },
-          {
-            question: "A special levy may be imposed for lands specially benefited by public works projects or improvements funded by the local government unit: provided, the special levy shall not exceed",
-            options: [
-              "a. 5% of the assessed value",
-              "b. 60% of the actual cost of such projects",
-              "c. 50% of the actual cost of projects and improvements",
-              "d. 2% of the assessed value"
-            ],
-            correct: "b. 60% of the actual cost of such projects"
-          },
-          {
-            question: "The Local Board of Assessment Appeals in the city shall be headed by a Chairman who shall be",
-            options: [
-              "a. Provincial Assessor",
-              "b. Registrar of Deeds of the City",
-              "c. City Assessor",
-              "d. City Mayor"
-            ],
-            correct: "b. Registrar of Deeds of the City"
-          },
-          {
-            question: "For late payment of special education fund tax, the lot owner shall be liable to pay a maximum total interest of:",
-            options: [
-              "a. 5 years",
-              "b. 3 years",
-              "c. Until paid",
-              "d. All years unpaid"
-            ],
-            correct: "c. Until paid"
-          },
-          {
-            question: "Roger did not agree with the assessment made by the assessor on his property, Roger may appeal the same to the LBAA within what period?",
-            options: [
-              "a. 30 days from receipt of notice of assessment",
-              "b. 60 days from receipt of notice of assessment",
-              "c. 90 days from receipt of notice",
-              "d. 45 days from receipt of notice"
-            ],
-            correct: "b. 60 days from receipt of notice of assessment"
-          },
-          {
-            question: "In case of an unfavourable decision by the Local Board of Assessment Appeals, the same may be, appealed to the CBAA within",
-            options: [
-              "a. 30 days from receipt of decision",
-              "b. 60 days from receipt of decision",
-              "c. 90 days from receipt of decision",
-              "d. 120 days from receipt of decision"
-            ],
-            correct: "a. 30 days from receipt of decision"
-          },
-          {
-            question: "Persons who transfer ownership of their property to another have to notify the assessor within what period",
-            options: [
-              "a. 30 days from date of transfer",
-              "b. 60 days from date of transfer",
-              "c. 90 days from date of transfer",
-              "d. 6 months from date of transfer"
-            ],
-            correct: "b. 60 days from date of transfer"
-          },
-          {
-            question: "In case of payment of real estate taxes under protest, the first thing the taxpayer must do is to",
-            options: [
-              "a. Pay the real estate tax",
-              "b. File a letter of protest",
-              "c. File an appeal with the Local Board of Assessment Appeals",
-              "d. Request for a reassessment from the assessor"
-            ],
-            correct: "a. Pay the real estate tax"
-          },
-          {
-            question: "The following may condone real estate taxes in whole or in part",
-            options: [
-              "a. Provincial Assessor",
-              "b. City Mayor",
-              "c. City Treasurer",
-              "d. President of the Philippines"
-            ],
-            correct: "d. President of the Philippines"
-          },
-          {
-            question: "The local government shall cause a notice of delinquency and thereafter the property sold at public auction in case of:",
-            options: [
-              "a. Unpaid delinquent real estate taxes for 1 year",
-              "b. Underdeclaration of value",
-              "c. Payment under protest",
-              "d. Unpaid delinquent real estate taxes for at least 5 years"
-            ],
-            correct: "d. Unpaid delinquent real estate taxes for at least 5 years"
-          },
-          {
-            question: "In computing the assessed value of the property, one will use the following formula:",
-            options: [
-              "a. Fair market value x assessment level",
-              "b. Assessed value x assessment level",
-              "c. Assessed value x tax rate",
-              "d. Fair market value x tax rate"
-            ],
-            correct: "a. Fair market value x assessment level"
-          },
-          {
-            question: "Under the Local Government Code, in case of all assessments and reassessments made after January 1 of any year, the same shall take effect:",
-            options: [
-              "a. Upon publication in a newspaper of general circulation",
-              "b. Upon approval",
-              "c. On January 1 of the next year",
-              "d. 90 days after the reassessment"
-            ],
-            correct: "c. On January 1 of the next year"
-          },
-          {
-            question: "Under the Local Government Code, the owner must file a sworn declaration of value of the property once every:",
-            options: [
-              "a. Year",
-              "b. 2 years",
-              "c. 3 years",
-              "d. Upon general revision"
-            ],
-            correct: "c. 3 years"
-          },
-          {
-            question: "What will be the interest monthly in case the owner fails to pay the basic real estate taxes due in the amount of P5,000:",
-            options: [
-              "a. P1,250.00",
-              "b. P100.00",
-              "c. P8.3",
-              "d. P125.00"
-            ],
-            correct: "b. P100.00"
-          },
-          {
-            question: "No action for the collection of the real estate tax, whether administrative or judicial, shall be instituted after the expiration of",
-            options: [
-              "a. 5 years",
-              "b. 10 years",
-              "c. 15 years",
-              "d. 20 years"
-            ],
-            correct: "a. 5 years"
-          },
-          {
-            question: "The special education fund tax collected by the municipality shall be allocated to the",
-            options: [
-              "a. General fund of the province",
-              "b. Local School Boards",
-              "c. National education school fund",
-              "d. Education fund of the city"
-            ],
-            correct: "b. Local School Boards"
-          },
-          {
-            question: "The assessment level of your property may also be found in the:",
-            options: [
-              "a. Tax declaration of the property",
-              "b. Schedule of fair market values of assessor",
-              "c. Local government Code of 1991",
-              "d. Official receipt of payment of transfer tax"
-            ],
-            correct: "a. Tax declaration of the property"
-          },
-          {
-            question: "Cebu City imposed a new tax rate for the basic real property tax for property owners, which however may not exceed",
-            options: [
-              "a. 1% of the assessed value",
-              "b. 2% of the fair market value",
-              "c. 2% of the assessed value",
-              "d. 1% of the fair market value"
-            ],
-            correct: "a. 1% of the assessed value"
-          },
-          {
-            question: "The Local Board of Assessment Appeals is composed of members provided under the Local Gov't Code. Which one is not a member",
-            options: [
-              "a. Registrar of Deeds of the City",
-              "b. City prosecutor",
-              "c. City engineer",
-              "d. City assessor"
-            ],
-            correct: "d. City assessor"
-          },
-          {
-            question: "In case of auction sale of real property due to delinquent real estate taxes, the owner may redeem the real property sold provided there shall be a payment of interest at the rate of:",
-            options: [
-              "a. 1% per month",
-              "b. 2% per month",
-              "c. 20% per annum",
-              "d. 12% per annum"
-            ],
-            correct: "b. 2% per month"
-          },
-          {
-            question: "Mang Benito will declare his real property for the first time and it shall be assessed for taxes for the period during which it would have been liable but in no case for more than:",
-            options: [
-              "a. 2 years",
-              "b. 5 years",
-              "c. 10 years",
-              "d. 20 years"
-            ],
-            correct: "c. 10 years"
-          },
-          {
-            question: "In case of unpaid or delinquent taxes, pursuant to the local government code, the local government shall thereafter sell the property at public auction but with the right of the owner to redeem the property within",
-            options: [
-              "a. 6 months from date of sale",
-              "b. 1 year from date of sale",
-              "c. 2 years from date of sale",
-              "d. 1 year from date of annotation of auction sale"
-            ],
-            correct: "b. 1 year from date of sale"
-          },
-          {
-            question: "The Quezon City local government imposed starting January 2012 a socialized housing tax in the amount of:",
-            options: [
-              "a. 0.5% of assessed value",
-              "b. 1% of assessed value",
-              "c. 2% of assessed value",
-              "d. Not exceeding 1% of assessed value"
-            ],
-            correct: "a. 0.5% of assessed value"
-          },
-          {
-            question: "The real estate taxes for socialized housing of Quezon City shall be imposed on land with an assessed value of more than:",
-            options: [
-              "a. P50,000.00",
-              "b. P100,000.00",
-              "c. P200,000.00",
-              "d. P500,000.00"
-            ],
-            correct: "b. P100,000.00"
-          },
-          {
-            question: "Ruther owned a residential house used for business and assessed as commercial. What will the assessed value of the land if the land's fair market value is P4,500,000.00",
-            options: [
-              "a. P90,000.00",
-              "b. P2,250,000.00",
-              "c. P1,800,000.00",
-              "d. P675,000.00"
-            ],
-            correct: "b. P2,250,000.00"
-          },
-          {
-            question: "How much will be the quarterly tax payment for a residential parcel of land valued at P1,800,000.00 if the tax rate is 2% ?",
-            options: [
-              "a. P7,200.00",
-              "b. P1,800.00",
-              "c. P3,600.00",
-              "d. P4,500.00"
-            ],
-            correct: "b. P1,800.00"
-          },
-          {
-            question: "If land is in a residential area but the building is used for commercial purposes, the assessment level classification shall be based on:",
-            options: [
-              "a. Residential",
-              "b. Commercial",
-              "c. Predominant use",
-              "d. Mixed residential and commercial"
-            ],
-            correct: "b. Commercial"
-          },
-          {
-            question: "The owner failed to pay his basic real estate tax of P10,000 in 2019 and P5,000 SEF. How much will be the total interest to be paid for the unpaid basic real property for the 5 years delinquency:",
-            options: [
-              "a. P12,000.00",
-              "b. P7,200.00",
-              "c. P10,800.00",
-              "d. P18,000.00"
-            ],
-            correct: "b. P7,200.00"
-          },
-          {
-            question: "A change in actual use of the property reported to the assessor shall take effect beginning:",
-            options: [
-              "a. The next month after reassessment",
-              "b. The next quarter after reassessment",
-              "c. Immediately upon reassessment",
-              "d. 90 days after reassessment"
-            ],
-            correct: "b. The next quarter after reassessment"
-          },
-          {
-            question: "Which of the following best characterizes the process of appraisal?",
-            options: [
-              "a. A market-driven estimate of a property's value based on recent sales data and automated valuation models",
-              "b. A financial audit of property ownership records for tax assessment purposes, focusing on historical valuations",
-              "c. A systematic and analytical process of estimating the value of a clearly identified property as of a specific date, grounded in personal inspection and supported by logical analysis of factual data",
-              "d. A legal determination of property value used exclusively in litigation and dispute resolution, relying primarily on witness testimony and expert opinion"
-            ],
-            correct: "c. A systematic and analytical process of estimating the value of a clearly identified property as of a specific date, grounded in personal inspection and supported by logical analysis of factual data"
-          },
-          {
-            question: "Which of the following statements most accurately reflects a fundamental limitation of the appraisal process?",
-            options: [
-              "a. Appraisal methods are outdated and rarely reflect current market trends",
-              "b. An appraisal directly influences and creates the value of the property being assessed",
-              "c. The appraisal process interprets the factors that create value but does not itself generate value",
-              "d. Appraisers are responsible for adjusting market forces to ensure accurate valuations"
-            ],
-            correct: "c. The appraisal process interprets the factors that create value but does not itself generate value"
-          },
-          {
-            question: "Which of the following best represents the complete scope of activities typically included in a professional appraisal process?",
-            options: [
-              "a. Legal analysis, property marketing, and sales negotiation",
-              "b. Research, data collection, reasoning, analysis, and formulation of conclusions for a value estimate",
-              "c. Construction assessment, zoning compliance, and insurance underwriting",
-              "d. Financial reporting, cost estimation, and title verification"
-            ],
-            correct: "b. Research, data collection, reasoning, analysis, and formulation of conclusions for a value estimate"
-          },
-          {
-            question: "In the context of business valuation, which of the following would most likely justify the use of an Asset-Based Approach over a Sales Comparison Approach?",
-            options: [
-              "A. Valuing a highly profitable tech startup with strong market comparables",
-              "B. Valuing a mature, stable business in an active acquisition market",
-              "C. Valuing a business undergoing liquidation or with significant tangible assets",
-              "D. Valuing the minority interest in a closely-held public corporation"
-            ],
-            correct: "C. Valuing a business undergoing liquidation or with significant tangible assets"
-          },
-          {
-            question: "Which of the following scenarios most appropriately reflects the use of business valuation as described under IVS-2 paragraph 3.1?",
-            options: [
-              "A. Appraising the market rent for a leased commercial office space",
-              "B. Estimating the fair value of a subsidiary's obsolete machinery during a financial audit",
-              "C. Determining the salary of executives in a family-run business",
-              "D. Negotiating partnership terms in a trust-managed retail operation"
-            ],
-            correct: "B. Estimating the fair value of a subsidiary's obsolete machinery during a financial audit"
-          },
-          {
-            question: "Which of the following best exemplifies a legal exercise of subsurface rights?",
-            options: [
-              "A. Constructing a high-rise building that extends above neighboring properties",
-              "B. Drilling a well to extract underground minerals owned by the landholder",
-              "C. Installing solar panels on the roof of a residential home",
-              "D. Leasing the land surface to a farmer while retaining the right to build underground parking"
-            ],
-            correct: "B. Drilling a well to extract underground minerals owned by the landholder"
-          },
-          {
-            question: "If a developer acquires air rights above a property in a densely populated city, what is the most likely use of this right?",
-            options: [
-              "A. Establishing easements across the property's surface for pedestrian traffic",
-              "B. Installing utilities below the ground level of the property",
-              "C. Constructing additional stories above an existing building without owning the ground-level property",
-              "D. Planting trees and vegetation on the surface of the property"
-            ],
-            correct: "C. Constructing additional stories above an existing building without owning the ground-level property"
-          },
-          {
-            question: "Which of the following scenarios most accurately demonstrates the severability of property rights in real estate ownership?",
-            options: [
-              "A. A homeowner builds a fence around the property to define the boundary",
-              "B. A corporation sells the subsurface mineral rights of its land to a mining company while retaining the surface rights",
-              "C. A landlord rents an apartment unit to a tenant for residential use",
-              "D. A tenant pays monthly rent to occupy a commercial office space"
-            ],
-            correct: "B. A corporation sells the subsurface mineral rights of its land to a mining company while retaining the surface rights"
-          },
-          {
-            question: "What do surface rights refer to?",
-            options: [
-              "A. Rights to build in the sky",
-              "B. Rights to use the underground minerals",
-              "C. Rights limited to the land's surface",
-              "D. Rights to plant trees on a neighbor's land"
-            ],
-            correct: "C. Rights limited to the land's surface"
-          },
-          {
-            question: "Subsurface rights give the landowner the ability to:",
-            options: [
-              "A. Fly airplanes over the property",
-              "B. Build roads across neighboring land",
-              "C. Access resources like water and minerals below the ground",
-              "D. Use someone else's garage"
-            ],
-            correct: "C. Access resources like water and minerals below the ground"
-          },
-          {
-            question: "Air rights allow someone to:",
-            options: [
-              "A. Dig a tunnel under the property",
-              "B. Use the space above the land or building",
-              "C. Install water pipes underground",
-              "D. Drive across someone else's land"
-            ],
-            correct: "B. Use the space above the land or building"
-          },
-          {
-            question: "A residential house with a total area of 85 sqm was built and occupied in 2012. The structural type falls under 1-A-1-G with a unit cost of construction of P5,340.00/sqm. Compute the Assessor's Market Value of the property if said building has a carport measuring 3m x 5m and 10mm thick pavement with an area of 60 sqm. Market Value of carport is 40% of BUCC as per schedule. Market Value of pavement is P250.00/sqm.",
-            options: [
-              "a. P500,490.00",
-              "b. P453,900.00",
-              "c. P500,940.00",
-              "d. P467,900.00"
-            ],
-            correct: "c. P500,940.00"
-          },
-          {
-            question: "All of the following types of broad forces affect value except:",
-            options: [
-              "a. physical",
-              "b. environmental",
-              "c. political",
-              "d. social"
-            ],
-            correct: "b. environmental"
-          },
-          {
-            question: "Land is unique because:",
-            options: [
-              "a. no two parcels have the same soil composition",
-              "b. no two parcels can occupy the same space on the face of the earth",
-              "c. no two parcels have the same owner",
-              "d. no two same parcels have the same tax levies"
-            ],
-            correct: "b. no two parcels can occupy the same space on the face of the earth"
-          },
-          {
-            question: "The value of real estate is determined in the market mainly by its:",
-            options: [
-              "a. price",
-              "b. productivity",
-              "c. mortgage",
-              "d. size"
-            ],
-            correct: "b. productivity"
-          },
-          {
-            question: "To estimate market value, an appraiser follows the:",
-            options: [
-              "a. appraisal report",
-              "b. valuation process",
-              "c. evaluation methodology",
-              "d. appraisal guidelines"
-            ],
-            correct: "b. valuation process"
-          },
-          {
-            question: "In preparing an appraisal, definition of assignment identifies all of the following, except:",
-            options: [
-              "a. the real estate being appraised",
-              "b. the highest and best use for the property",
-              "c. the real property right",
-              "d. the date of the value estimate"
-            ],
-            correct: "b. the highest and best use for the property"
-          },
-          {
-            question: "The highest and best use of a site is its:",
-            options: [
-              "a. existing use",
-              "b. most probable use that is legally and physically possible and provides the highest financial returns",
-              "c. immediate next use",
-              "d. ordinary and necessary use"
-            ],
-            correct: "b. most probable use that is legally and physically possible and provides the highest financial returns"
-          },
-          {
-            question: "A sale between relatives is suspected to be:",
-            options: [
-              "a. a bona fide sale",
-              "b. a sale made at a distorted price",
-              "c. an arm's length sale",
-              "d. a seller-financed sale"
-            ],
-            correct: "b. a sale made at a distorted price"
-          },
-          {
-            question: "When one or two parcels are consolidated so that its increment in value as whole is much more than the total sum of the value of each parcel of land separately owned is called:",
-            options: [
-              "a. cost value",
-              "b. market value",
-              "c. economic value",
-              "d. plottage value"
-            ],
-            correct: "d. plottage value"
-          },
-          {
-            question: "The estimated period over which it is anticipated that a property may profitably be utilized is called:",
-            options: [
-              "a. useful life",
-              "b. remaining economic life",
-              "c. economic life",
-              "d. cycle"
-            ],
-            correct: "c. economic life"
-          },
-          {
-            question: "is the amount that has been asked, offered or paid for the item.",
-            options: [
-              "a. cost",
-              "b. value",
-              "c. price",
-              "d. market value"
-            ],
-            correct: "c. price"
-          },
-          {
-            question: "The principle of substitution implies that the value of a/an property tends to be indicated by the value of an equally desirable property.",
-            options: [
-              "a. appraised",
-              "b. repairable",
-              "c. comparable",
-              "d. replaceable"
-            ],
-            correct: "a. appraised"
-          },
-          {
-            question: "Which of the following is not an economic characteristic of real estate?",
-            options: [
-              "a. indestructibility",
-              "b. permanence of improvements",
-              "c. area preference",
-              "d. scarcity"
-            ],
-            correct: "a. indestructibility"
-          },
-          {
-            question: "Real property can be converted into personal property through:",
-            options: [
-              "a. severance",
-              "b. accession",
-              "c. annexation",
-              "d. inference"
-            ],
-            correct: "a. severance"
-          },
-          {
-            question: "The term non-homogeneity refers to:",
-            options: [
-              "a. scarcity",
-              "b. immobility",
-              "c. uniqueness",
-              "d. indestructibility"
-            ],
-            correct: "c. uniqueness"
-          },
-          {
-            question: "Which of the following is not an example of special purpose real estate?",
-            options: [
-              "a. a private school",
-              "b. a public library",
-              "c. a shopping center",
-              "d. a house and lot"
-            ],
-            correct: "d. a house and lot"
-          },
-          {
-            question: "A personal property can be converted into real property through what process?",
-            options: [
-              "a. severance",
-              "b. accession",
-              "c. conversion",
-              "d. annexation"
-            ],
-            correct: "d. annexation"
-          },
-          {
-            question: "Which of the following represents the economic characteristics of real estate?",
-            options: [
-              "a. scarcity, improvements, permanence of investment and area preference",
-              "b. land is immobile, indestructible, and is unique",
-              "c. land is scarce and limited, land is unique and immobile",
-              "d. scarcity, availability of land, uniqueness of land"
-            ],
-            correct: "a. scarcity, improvements, permanence of investment and area preference"
-          },
-          {
-            question: "The four (4) property types for appraisal or valuation are the following:",
-            options: [
-              "a. residential, commercial, industrial and agricultural",
-              "b. real property, personal property, businesses and financial interests",
-              "c. land, buildings, machineries and businesses",
-              "d. mineral, timberland, real estate and real property"
-            ],
-            correct: "b. real property, personal property, businesses and financial interests"
-          },
-          {
-            question: "It indicates the value of the property traded in the market which is referred to as market value:",
-            options: [
-              "a. appraised value",
-              "b. valuation",
-              "c. value in use",
-              "d. value in exchange"
-            ],
-            correct: "d. value in exchange"
-          },
-          {
-            question: "The highest amount in terms of money that a property should bring given reasonable time exposure in the open and competitive market:",
-            options: [
-              "a. market value",
-              "b. fair market value",
-              "c. salvage value",
-              "d. zonal value"
-            ],
-            correct: "b. fair market value"
-          },
-          {
-            question: "The element of value includes which of the following:",
-            options: [
-              "a. scarcity",
-              "b. anticipation",
-              "c. balance",
-              "d. competition"
-            ],
-            correct: "a. scarcity"
-          },
-          {
-            question: "The Philippine Valuation Standards was adopted after the:",
-            options: [
-              "a. IAAO",
-              "b. IVSC",
-              "c. AVA",
-              "d. USPAP"
-            ],
-            correct: "b. IVSC"
-          },
-          {
-            question: "It is one of the major factors of production which is supplied by nature without the aid of man and anything that is attached to earth's surface, including all natural resources in their original state, such as mineral deposits, wildlife and timber.",
-            options: [
-              "a. property",
-              "b. estate",
-              "c. land",
-              "d. asset"
-            ],
-            correct: "c. land"
-          },
-          {
-            question: "The value of a business as a whole is referred to as:",
-            options: [
-              "a. value in use",
-              "b. going concern value",
-              "c. investment value",
-              "d. mortgage lending value"
-            ],
-            correct: "b. going concern value"
-          },
-          {
-            question: "Since each value approach has its own strengths and weaknesses, an appraiser should:",
-            options: [
-              "a. choose the approach that is the most popular with lenders",
-              "b. choose the approach that is the most popular with buyers",
-              "c. weigh the strengths and weaknesses of each approach and decide which is the most reliable for the subject matter",
-              "d. weigh each approach equally"
-            ],
-            correct: "c. weigh the strengths and weaknesses of each approach and decide which is the most reliable for the subject matter"
-          },
-          {
-            question: "This principle affirms that value is created by the anticipation of future benefits.",
-            options: [
-              "a. abstraction method",
-              "b. allocation",
-              "c. anticipation",
-              "d. capitalization"
-            ],
-            correct: "c. anticipation"
-          },
-          {
-            question: "The date as of which the conclusion or opinion rendered in an appraisal is applicable and valid. It identifies the market conditions that existed when the appraisal was made.",
-            options: [
-              "a. Inspection date",
-              "b. Date of report",
-              "c. Appraisal date",
-              "d. Date of Assignment"
-            ],
-            correct: "c. Appraisal date"
-          },
-          {
-            question: "A transaction freely arrived at in the open market, unaffected by abnormal pressure or by the absence of normal competitive negotiation as might be true in the case of a transaction between related parties.",
-            options: [
-              "a. arm's length transaction",
-              "b. actual sale",
-              "c. market forces",
-              "d. flipping"
-            ],
-            correct: "a. arm's length transaction"
-          },
-          {
-            question: "Holds that the value is created and maintained in proportion to the equilibrium attained in the amount and location of the essential uses of real estate. The degree of value of a property is governed by the balance or appointment of the four factors in production.",
-            options: [
-              "a. Anticipation",
-              "b. Balance",
-              "c. Contribution",
-              "d. Decreasing Returns"
-            ],
-            correct: "b. Balance"
-          },
-          {
-            question: "It is the process of converting into present value (or obtaining the present worth of) a series of anticipated future periodic installment of net income. In real estate appraisal, it usually takes the form of discounting.",
-            options: [
-              "a. Capitalization",
-              "b. Anticipation",
-              "c. Abstraction",
-              "d. Allocation"
-            ],
-            correct: "a. Capitalization"
-          },
-          {
-            question: "A statement that appraisers, in their professional capacity, personally conducted the appraisal in an objective manner. Such a statement permits appraisers to state their precise position, thus protecting their integrity and the validity of their appraisals.",
-            options: [
-              "a. valuation statement",
-              "b. appraisal statement",
-              "c. certification of value",
-              "d. appraisal certificate"
-            ],
-            correct: "c. certification of value"
-          },
-          {
-            question: "Principle which holds that economic, physical, governmental, and social forces are constantly at work and because changes brought about by these forces affect real property, the appraiser view real property and its environment as in transition, observing evidence of trends which may affect the property in the future.",
-            options: [
-              "a. Change",
-              "b. Competition",
-              "c. Conformity",
-              "d. Contribution"
-            ],
-            correct: "a. Change"
-          },
-          {
-            question: "Principle which holds that the maximum value is realized when a reasonable degree of homogeneity is present. Thus, conformity in use is usually a highly desirable adjunct of real property, since it creates and/or maintains value.",
-            options: [
-              "a. Change",
-              "b. Competition",
-              "c. Conformity",
-              "d. Contribution"
-            ],
-            correct: "c. Conformity"
-          },
-          {
-            question: "Principle which states that the value of an agent of production or of a component part of a property depends upon how much it contributes to the value of the whole; or how much its absence detracts from the value of the whole. This principle is sometimes known as the Principle of Marginal Productivity.",
-            options: [
-              "a. Change",
-              "b. Competition",
-              "c. Conformity",
-              "d. Contribution"
-            ],
-            correct: "d. Contribution"
-          },
-          {
-            question: "An interest or right on real property which may diminish the value of the fee, but does not prevent conveyance of the fee by the owner. Mortgages, taxes, judgments, restrictions, easements and reservations are examples.",
-            options: [
-              "a. Estate",
-              "b. Lis Pendens",
-              "c. Adverse Claim",
-              "d. Encumbrance"
-            ],
-            correct: "d. Encumbrance"
-          },
-          {
-            question: "An absolute fee, without any instruments to any particular class of heirs or restrictions, but subject to the limitation of eminent domain, escheat, police power, and taxation and is an inheritable estate.",
-            options: [
-              "a. Fee simple",
-              "b. Lease fee",
-              "c. Leasehold Estate",
-              "d. Lease interest"
-            ],
-            correct: "a. Fee simple"
-          },
-          {
-            question: "This principle states that when successive increments of one or more factors of production are added to fixed amounts of the other factors there is a resulting enhancement of income, initially at an increasing rate to a point of maximum return and then decreasing until eventually the increment to value becomes increasingly less than the value of the added factors.",
-            options: [
-              "a. Increasing and decreasing return",
-              "b. Contribution",
-              "c. Balance",
-              "d. Supply and Demand"
-            ],
-            correct: "a. Increasing and decreasing return"
-          },
-          {
-            question: "The fundamental valuation principle underlying the sales comparison process is:",
-            options: [
-              "a. Contribution",
-              "b. Substitution",
-              "c. Conformity",
-              "d. Change"
-            ],
-            correct: "b. Substitution"
-          },
-          {
-            question: "is a levy on real property determined on the basis of a fixed proportion of the value of the property.",
-            options: [
-              "a. capital gains tax",
-              "b. real property tax",
-              "c. ad valorem tax",
-              "d. fixed property tax",
-              "e. none of the above"
-            ],
-            correct: "c. ad valorem tax"
-          },
-          {
-            question: "shall refer to the purpose for which the property is principally or predominantly utilized by the persons in possession of the property.",
-            options: [
-              "a. predominant use",
-              "b. principal use",
-              "c. real use",
-              "d. none of the above - actual use"
-            ],
-            correct: "d. none of the above - actual use"
-          },
-          {
-            question: "is the percentage applied to the market value to determine the taxable or assessed value of the property.",
-            options: [
-              "a. assessed value",
-              "b. assessment level",
-              "c. depreciated value",
-              "d. reproduction, cost new",
-              "e. none of the above"
-            ],
-            correct: "b. assessment level"
-          },
-          {
-            question: "defined as 'the highest price estimated in terms of money which the property will buy if exposed for sale in the open market allowing a reasonable time to find a purchaser who buys with knowledge of all the uses to which it is adapted and for which it is capable of being used.'",
-            options: [
-              "a. Zonal value",
-              "b. Highest and best use value",
-              "c. Selling Price",
-              "d. Seller's Market",
-              "e. None of the above - Market Value"
-            ],
-            correct: "e. None of the above - Market Value"
-          },
-          {
-            question: "refers to the period of time (years) from the date of appraisal to the date when the machinery becomes valueless.",
-            options: [
-              "a. Remaining economic life",
-              "b. Economic life",
-              "c. Replacement, cost new",
-              "d. Remaining value",
-              "e. Original cost"
-            ],
-            correct: "a. Remaining economic life"
-          },
-          {
-            question: "refers to the value corresponding to the remaining useful life of the machinery.",
-            options: [
-              "a. Remaining economic life",
-              "b. Economic life",
-              "c. Replacement, cost new",
-              "d. Remaining value",
-              "e. Original cost"
-            ],
-            correct: "d. Remaining value"
-          },
-          {
-            question: "Under the Local Government Code, it shall also be the duty of any person, or his authorized representative, acquiring at any time real property in any municipality or city or making any improvement on real property, to prepare, or cause to be prepared, and file with the provincial, city or municipal assessor, a sworn statement declaring the true value of subject property, within days after the acquisition of such property or upon completion or occupancy of the improvement, whichever comes earlier.",
-            options: [
-              "a. 15 days",
-              "b. 30 days",
-              "c. 90 days",
-              "d. None of the above - 60 days"
-            ],
-            correct: "d. None of the above - 60 days"
-          },
-          {
-            question: "Under the Local Government Code, any person who shall transfer real property ownership to another shall notify the assessor of the province or city wherein the property is situated within DAYS from the date of such transfer. The notification shall include the particulars of the transfer, description of the property alienated, and the name and address of the transferee.",
-            options: [
-              "a. 15 days",
-              "b. 30 days",
-              "c. 60 days",
-              "d. 90 days",
-              "e. None of the above"
-            ],
-            correct: "c. 60 days"
-          },
-          {
-            question: "Change in the actual use of the property reported to the assessor shall take effect beginning",
-            options: [
-              "a. the last quarter after assessment",
-              "b. the next succeeding year",
-              "c. three (3) years after reassessment",
-              "d. none of the above"
-            ],
-            correct: "d. none of the above - next quarter after assessment"
-          },
-          {
-            question: "The transfer of ownership of real property within the Philippines shall be subject to",
-            options: [
-              "a. documentary stamp tax",
-              "b. transfer tax",
-              "c. capital gains tax",
-              "d. all of the above"
-            ],
-            correct: "d. all of the above"
-          },
-          {
-            question: "The price actually paid in a sale transaction for the property being appraised or the price asked for by the seller. It is an indication of value.",
-            options: [
-              "a. asking price",
-              "b. listed price",
-              "c. market value",
-              "d. selling price"
-            ],
-            correct: "d. selling price"
-          },
-          {
-            question: "is the use to which the property is adapted, suitable, or available and which will produce the highest value. It is the best and most profitable use that is physically possible, legally permissible, financially feasible and maximally productive.",
-            options: [
-              "a. use value",
-              "b. market value",
-              "c. highest and best use",
-              "d. cost value"
-            ],
-            correct: "c. highest and best use"
-          },
-          {
-            question: "A principal, qualified by some limitation, as 'fee simple subject to a condition subsequent,' 'fee simple determinable,' or 'life estate.'",
-            options: [
-              "a. fee simple absolute",
-              "b. fee simple defeasible",
-              "c. fee tail",
-              "d. leasehold estate"
-            ],
-            correct: "b. fee simple defeasible"
-          },
-          {
-            question: "A lease in which the lessee pays fixed rent plus taxes, insurance, and maintenance.",
-            options: [
-              "a. gross lease",
-              "b. net lease",
-              "c. percentage lease",
-              "d. variable lease"
-            ],
-            correct: "b. net lease"
-          },
-          {
-            question: "Lease which provides for the payment of rent as a percentage of the gross sales or profits from the lessee's business.",
-            options: [
-              "a. gross lease",
-              "b. net lease",
-              "c. percentage lease",
-              "d. variable lease"
-            ],
-            correct: "c. percentage lease"
-          },
-          {
-            question: "A method of estimating the value of land and improvements by deducting the accrued depreciation of the improvements from their reproduction or replacement cost new and adding the resulting value to the land value.",
-            options: [
-              "a. sales comparison approach",
-              "b. cost approach",
-              "c. income approach",
-              "d. capitalization"
-            ],
-            correct: "b. cost approach"
-          },
-          {
-            question: "It is the value of property which a particular investor attaches based on individual investment requirements and expectations.",
-            options: [
-              "a. market value",
-              "b. going concern value",
-              "c. investment value",
-              "d. use value"
-            ],
-            correct: "c. investment value"
-          },
-          {
-            question: "A method of valuation used when reliable sales data are unavailable and value is derived by subtracting the depreciated cost of improvements from the total property value.",
-            options: [
-              "a. cost approach",
-              "b. income approach",
-              "c. abstraction method",
-              "d. sales comparison approach"
-            ],
-            correct: "c. abstraction method"
-          },
-          {
-            question: "It is the fundamental valuation principle underlying the income capitalization approach to value.",
-            options: [
-              "a. substitution",
-              "b. anticipation",
-              "c. conformity",
-              "d. balance"
-            ],
-            correct: "b. anticipation"
-          },
-          {
-            question: "An improvement which has reached the end of its economic life but is still physically usable.",
-            options: [
-              "a. functional obsolescence",
-              "b. physical deterioration",
-              "c. economic obsolescence",
-              "d. superadequacy"
-            ],
-            correct: "b. physical deterioration"
-          },
-          {
-            question: "An appraisal method that values property by converting anticipated future benefits into a present value estimate.",
-            options: [
-              "a. cost approach",
-              "b. sales comparison approach",
-              "c. income capitalization approach",
-              "d. abstraction method"
-            ],
-            correct: "c. income capitalization approach"
-          },
-          {
-            question: "A government regulation that restricts the use of land to preserve order, protect property values, or promote public health and safety.",
-            options: [
-              "a. police power",
-              "b. eminent domain",
-              "c. escheat",
-              "d. zoning ordinance"
-            ],
-            correct: "d. zoning ordinance"
-          },
-          {
-            question: "The right of government to take private property for public use with just compensation.",
-            options: [
-              "a. police power",
-              "b. eminent domain",
-              "c. escheat",
-              "d. taxation"
-            ],
-            correct: "b. eminent domain"
-          },
-          {
-            question: "The principle that the value of a property tends to be influenced by the values of surrounding properties.",
-            options: [
-              "a. conformity",
-              "b. change",
-              "c. progression and regression",
-              "d. contribution"
-            ],
-            correct: "c. progression and regression"
-          },
-          {
-            question: "Depreciation caused by factors external to the property such as changes in neighborhood, economic conditions, or governmental regulations.",
-            options: [
-              "a. physical deterioration",
-              "b. functional obsolescence",
-              "c. economic obsolescence",
-              "d. depreciation"
-            ],
-            correct: "c. economic obsolescence"
-          },
-          {
-            question: "The principle which holds that the combined value of a group of properties is greater than the sum of their individual values.",
-            options: [
-              "a. contribution",
-              "b. anticipation",
-              "c. plottage",
-              "d. balance"
-            ],
-            correct: "c. plottage"
-          },
-          {
-            question: "A legal restriction that limits the use of land by private agreement, often found in deeds.",
-            options: [
-              "a. easement",
-              "b. covenant",
-              "c. zoning",
-              "d. lien"
-            ],
-            correct: "b. covenant"
-          },
-          {
-            question: "The value of an asset to the owner for the use and enjoyment, rather than the market value.",
-            options: [
-              "a. market value",
-              "b. use value",
-              "c. investment value",
-              "d. going concern value"
-            ],
-            correct: "b. use value"
-          },
-          {
-            question: "By when must the provincial, city, or municipal assessor submit the assessment roll to the treasurer each year?",
-            options: [
-              "a. December 15",
-              "b. January 31",
-              "c. December 31",
-              "d. November 30"
-            ],
-            correct: "a. December 15"
-          },
-          {
-            question: "How may a property owner pay the basic real property tax and SEF tax without interest?",
-            options: [
-              "a. In full by March 31 only",
-              "b. In four equal installments: March 31, July 30, September 30, and December 31",
-              "c. In four equal installments: March 31, June 30, September 30, and December 31",
-              "d. In monthly installments from January to December"
-            ],
-            correct: "c. In four equal installments: March 31, June 30, September 30, and December 31"
-          },
-          {
-            question: "What is the maximum discount a sanggunian may grant for advance payment of real property tax and SEF tax?",
-            options: [
-              "a. 10%",
-              "b. 15%",
-              "c. 20%",
-              "d. 25%"
-            ],
-            correct: "c. 20%"
-          },
-          {
-            question: "If the real property tax becomes delinquent, what must the local treasurer do?",
-            options: [
-              "a. Issue a court order for garnishment",
-              "b. Post and publish a notice of delinquency in public places and a local newspaper",
-              "c. Notify the Bureau of Internal Revenue",
-              "d. Seal the property pending payment"
-            ],
-            correct: "b. Post and publish a notice of delinquency in public places and a local newspaper"
-          },
-          {
-            question: "What happens when real property remains delinquent?",
-            options: [
-              "a. The LGU files a criminal case",
-              "b. It is seized immediately without notice",
-              "c. It may be sold at public auction, subject to redemption within 1 year",
-              "d. The owner forfeits all rights permanently"
-            ],
-            correct: "c. It may be sold at public auction, subject to redemption within 1 year"
-          },
-          {
-            question: "What is the maximum period during which interest on unpaid real property tax may accrue under the Local Government Code?",
-            options: [
-              "a. 12 months",
-              "b. 24 months",
-              "c. 36 months",
-              "d. No maximum period"
-            ],
-            correct: "c. 36 months"
-          },
-          {
-            question: "A local government unit may sell acquired delinquent property for lack of bidders after how many days' notice?",
-            options: [
-              "a. 15 days",
-              "b. 20 days",
-              "c. 30 days",
-              "d. 60 days"
-            ],
-            correct: "a. 15 days"
-          },
-          {
-            question: "What is the prescriptive period for collecting real property tax under ordinary circumstances?",
-            options: [
-              "a. 3 years",
-              "b. 5 years",
-              "c. 7 years",
-              "d. 10 years"
-            ],
-            correct: "b. 5 years"
-          },
-          {
-            question: "If the taxpayer committed fraud or attempted to evade payment, what is the prescriptive period to collect real property tax?",
-            options: [
-              "a. 5 years from due date",
-              "b. 10 years from due date",
-              "c. 10 years from discovery of fraud or intent",
-              "d. 15 years from due date"
-            ],
-            correct: "c. 10 years from discovery of fraud or intent"
-          },
-          {
-            question: "In the Province of Sarangani, how are the proceeds of the basic real property tax distributed?",
-            options: [
-              "a. Province 40%, Municipality 30%, Barangay 30%",
-              "b. Province 30%, Municipality 40%, Barangay 30%",
-              "c. Province 35%, Municipality 40%, Barangay 25%",
-              "d. Province 25%, Municipality 50%, Barangay 25%"
-            ],
-            correct: "c. Province 35%, Municipality 40%, Barangay 25%"
-          },
-          {
-            question: "In Quezon City, how are the proceeds of the basic real property tax distributed?",
-            options: [
-              "a. 30% to the City; 70% to the Barangays",
-              "b. 70% to the City; 30% to the Barangays",
-              "c. 50% to the Barangay where the property is located; 50% equally among all barangays",
-              "d. 50% to the City; 50% to the Province"
-            ],
-            correct: "b. 70% to the City; 30% to the Barangays"
-          },
-          {
-            question: "The proceeds from the additional 1% real property tax for the Special Education Fund (SEF) shall:",
-            options: [
-              "a. Be deposited in the General Fund of the LGU",
-              "b. Be shared equally among barangays",
-              "c. Be automatically released to the Local School Boards",
-              "d. Be allocated to the Department of Education directly"
-            ],
-            correct: "c. Be automatically released to the Local School Boards"
-          },
-          {
-            question: "It has the power to collect local transfer taxes of any real estate transaction:",
-            options: [
-              "a. Bureau of Internal Revenue",
-              "b. Registry of Deeds",
-              "c. Provincial/City/Municipal Treasurer's Office",
-              "d. Provincial/City/Municipal Assessor's Office",
-              "e. None of the above"
-            ],
-            correct: "c. Provincial/City/Municipal Treasurer's Office"
-          },
-          {
-            question: "The following are exempted from paying real property tax, except:",
-            options: [
-              "a. Machineries and equipment used for pollution control and environmental protection",
-              "b. Non-profit or religious cemeteries or burial grounds",
-              "c. Real Property owned by the Republic of the Philippines or any of its political subdivision which has been granted to taxable persons",
-              "d. All real property owned by duly registered cooperatives as provided for under R.A. No. 6938",
-              "e. All are exemptions"
-            ],
-            correct: "c. Real Property owned by the Republic of the Philippines or any of its political subdivision which has been granted to taxable persons"
-          },
-          {
-            question: "The municipal assessor of San Juan, Batangas was taxing an idle agricultural land consisting of 5 hectares valued at PHP150 per sqm. If the idle land tax imposed by the LGU of San Juan is the maximum rate as set by the Local Government Code, how much will the owner pay for the idle land tax?",
-            options: [
-              "a. PHP375,000.00",
-              "b. PHP200,000.00",
-              "c. PHP350,000.00",
-              "d. PHP275,000.00",
-              "e. None of the above"
-            ],
-            correct: "a. PHP375,000.00"
-          },
-          {
-            question: "In case of a city outside Metro Manila, the basic tax it may charge for real property tax shall be:",
-            options: [
-              "a. Not exceeding 2% of the assessed value",
-              "b. Not exceeding 2% of the fair market value",
-              "c. Not exceeding 1% of the assessed value",
-              "d. Not exceeding 1% of the fair market value",
-              "e. None of the above"
-            ],
-            correct: "c. Not exceeding 1% of the assessed value"
-          },
-          {
-            question: "What will be the total basic real property taxes to be paid by a lot owner in Quezon City if his land consisting of 1000 sqm has a fair market value of the assessor at PHP20,000 per sqm and is classified as residential? The tax rate is the maximum imposable by the city.",
-            options: [
-              "a. PHP100,000.00",
-              "b. PHP80,000.00",
-              "c. PHP65,000.00",
-              "d. PHP40,000.00",
-              "e. None of the above"
-            ],
-            correct: "b. PHP80,000.00"
-          },
-          {
-            question: "Under the Local Government Code, the maximum interest penalty that may be imposed for unpaid real property taxes shall be:",
-            options: [
-              "a. 2 years",
-              "b. 26 months",
-              "c. 5 years",
-              "d. 12 months",
-              "e. None of the above"
-            ],
-            correct: "e. None of the above- 36 months"
-          },
-          {
-            question: "A taxpayer has to redeem his real property which was levied and subsequently forfeited and acquired by the local government for tax delinquency.",
-            options: [
-              "a. 5 years",
-              "b. 2 years",
-              "c. 60 days",
-              "d. 2 years",
-              "e. None of the above"
-            ],
-            correct: "e. None of the above- 1 year"
-          },
-          {
-            question: "Under what classification does a vacant lot fall with an assessed value of 20% of its fair market value?",
-            options: [
-              "a. Agriculture",
-              "b. Residential",
-              "c. Industrial",
-              "d. Commercial",
-              "e. None of the above"
-            ],
-            correct: "b. Residential"
-          },
-          {
-            question: "The provincial, city, or municipal assessor shall undertake a general revision of real property assessments every",
-            options: [
-              "a. 12 months",
-              "b. 18 months",
-              "c. 2 years",
-              "d. 5 years",
-              "e. None of the above"
-            ],
-            correct: "e. None of the above- 3 years"
-          },
-          {
-            question: "Real property declared for the 1st time shall be assessed for taxes for the period during which it would have been liable but not more than how many years from the initial assessment?",
-            options: [
-              "a. 2 years",
-              "b. 5 years",
-              "c. 3 years",
-              "d. 1 year",
-              "e. 10 years"
-            ],
-            correct: "e. 10 years"
-          },
-          {
-            question: "The Chairman of the Local Board of Assessment Appeals in a city is:",
-            options: [
-              "a. City Auditor",
-              "b. City Mayor",
-              "c. Register of Deeds",
-              "d. City Engineer",
-              "e. None of the above"
-            ],
-            correct: "c. Register of Deeds"
-          },
-          {
-            question: "An annual levy on real estate equivalent to 1% of assessed value which shall be in addition to the basic real property tax is:",
-            options: [
-              "a. Special real estate tax",
-              "b. Special Assessment fund tax",
-              "c. Ad valorem tax",
-              "d. Withholding tax",
-              "e. Special Education Fund"
-            ],
-            correct: "e. Special Education Fund"
-          },
-          {
-            question: "What is the rate of real property tax of land owned by University of the East, which is used actually, directly and exclusively for educational purpose?",
-            options: [
-              "a. 1%",
-              "b. 2%",
-              "c. 5%",
-              "d. 20%",
-              "e. Exempt"
-            ],
-            correct: "e. Exempt"
-          },
-          {
-            question: "This involves discovering and listing information about properties and demanding property values for real property taxation purposes.",
-            options: [
-              "a. Real property appraisal",
-              "b. Real property assessment",
-              "c. Real estate taxation",
-              "d. Real property valuation",
-              "e. None of the above"
-            ],
-            correct: "b. Real property assessment"
-          },
-          {
-            question: "In the process of conducting the general revision of real property assessments the existing active tax declarations are used as the main source of information for re-declaring real properties:",
-            options: [
-              "a. if ownership has not changed",
-              "b. if ownership of the property has been changed",
-              "c. if ownership of the property is unknown",
-              "d. if ownership of the property is known",
-              "e. None of the above"
-            ],
-            correct: "a. if ownership has not changed"
-          },
-          {
-            question: "The records at the assessor's office containing the list of all properties whether taxable or exempt is called:",
-            options: [
-              "a. assessment list",
-              "b. assessor's registry",
-              "c. tax registry",
-              "d. assessment roll"
-            ],
-            correct: "d. assessment roll"
-          },
-          {
-            question: "A property record, which is a traditional assessment document maintained by the provincial, city or municipal assessors, showing, among others the market and assessed values of the property as basis for the collection of real property tax is:",
-            options: [
-              "a. assessment roll",
-              "b. tax roll",
-              "c. tax declaration",
-              "d. declaration of real estate"
-            ],
-            correct: "c. tax declaration"
-          },
-          {
-            question: "refers to a sale of property after a period of non-payment of taxes.",
-            options: [
-              "a. auction sale",
-              "b. tax deficiency",
-              "c. tax sale",
-              "d. foreclosure proceeding"
-            ],
-            correct: "c. tax sale"
-          },
-          {
-              question: "The maximum assessment level rate under the Local Government Code for Mineral Lands is:",
-              options: [
-                "a. 20%",
-                "b. 40%",
-                "c. 50%",
-                "d. 60%"
-              ],
-              correct: "c. 50%"
-            },
-            {
-              question: "Compute the real property tax due and SEF due the city government of Calamba for the property (land and improvement). The rpt rate set by Sangguniang Panlalawigan and as adopted by the LGU of Calamba is 0.5%. SEF is set at 0.6%. (Location: Laguna Buenavista Executive Homes, Land Area: 250 sqm, Value: PHP3,000/sqm (SMV 2021), Classification: Residential: 2-storey house, Floor area: 230 sqm per floor, BUCC: PHP14,000/sqm)",
-              options: [
-                "a. PHP37,000.00",
-                "b. PHP30,707.00",
-                "c. PHP73,707.00",
-                "d. PHP37,070.00"
-              ],
-              correct: "d. PHP37,070.00"
-            },
-            {
-              question: "Compute the real property and SEF taxes due including the arrears due the city government of Manila for a commercial property (land and improvement) owned by Hector de Leon for the year 2022. It has been assessed that the RPT and SEF are already due for a month. (Location: De Guia Bldg. M.H. del Pilar St., Ermita, Manila, Land Area: 1,250 sqm, Lot Value: PHP12,500/sqm (SMV 2021), Classification: Commercial: 5-storey, Floor area: 1,200 sqm per floor, BUCC: PHP12,500/sqm)",
-              options: [
-                "a. PHP2,075,062.5",
-                "b. PHP2,728,500.00",
-                "c. PHP2,750,062.5",
-                "d. PHP227,500.00"
-              ],
-              correct: "a. PHP2,075,062.5"
-            },
-            {
-              question: "Which agency is responsible for leading the implementation of the provisions of RPVARA?",
-              options: [
-                "a. Department of Budget and Management (DBM)",
-                "b. Bureau of Local Government Finance (BLGF)",
-                "c. Department of Finance (DOF)",
-                "d. Bureau of Internal Revenue (BIR)"
-              ],
-              correct: "b. Bureau of Local Government Finance (BLGF)"
-            },
-            {
-              question: "How often should the Bureau of Local Government Finance (BLGF), through the RPVS, revise the Philippine Valuation Standards (PVS)?",
-              options: [
-                "a. Every five (5) years",
-                "b. Every two (2) years",
-                "c. Every three (3) years",
-                "d. Every year"
-              ],
-              correct: "c. Every three (3) years"
-            },
-            {
-              question: "What is the mandatory requirement for a local government unit to avail of the Retention Incentive under RPVARA?",
-              options: [
-                "a. Must increase its real property tax collection efficiency by at least 20%",
-                "b. Must conduct general revision of real property assessment at least once every three years",
-                "c. Must conduct a tax amnesty program",
-                "d. Must impose the maximum rate of real property tax"
-              ],
-              correct: "b. Must conduct general revision of real property assessment at least once every three years"
-            },
-            {
-              question: "Under RPVARA, what is the effect if a taxpayer contests the assessed value of real property?",
-              options: [
-                "a. The taxpayer must still pay the assessed tax but can file a protest or appeal",
-                "b. The taxpayer can withhold payment until the appeal is decided",
-                "c. The assessed value is automatically reduced by 10%",
-                "d. The local government cannot collect any tax until resolution"
-              ],
-              correct: "a. The taxpayer must still pay the assessed tax but can file a protest or appeal"
-            },
-            {
-              question: "What is the primary purpose of the Real Property Valuation Reform Act (RPVARA)?",
-              options: [
-                "a. To increase local government revenues",
-                "b. To standardize and professionalize the appraisal and assessment of real property nationwide",
-                "c. To impose higher taxes on real property",
-                "d. To exempt agricultural lands from taxation"
-              ],
-              correct: "b. To standardize and professionalize the appraisal and assessment of real property nationwide"
-            },
-            {
-              question: "Under RPVARA, who has the authority to accredit private appraisers and assessors?",
-              options: [
-                "a. Local government units",
-                "b. Department of Finance",
-                "c. Bureau of Local Government Finance",
-                "d. Department of Interior and Local Government"
-              ],
-              correct: "c. Bureau of Local Government Finance"
-            },
-            {
-              question: "The formula to compute the basic real property tax is:",
-              options: [
-                "a. Market value × Assessment level × Tax rate",
-                "b. Assessed value × Tax rate",
-                "c. Market value × Tax rate",
-                "d. Market value × Tax rate × SEF"
-              ],
-              correct: "a. Market value × Assessment level × Tax rate"
-            },
-            {
-              question: "Which of the following courses would benefit a professional appraiser?",
-              options: [
-                "a. real estate finance, land use planning, real estate law",
-                "b. urban sociology, demographics, information systems",
-                "c. All of the above",
-                "d. One of the above"
-              ],
-              correct: "c. All of the above"
-            },
-            {
-              question: "An appraisal may include a(n):",
-              options: [
-                "a. property description",
-                "b. estimate of market value",
-                "c. opinion of value",
-                "d. all of the above"
-              ],
-              correct: "d. all of the above"
-            },
-            {
-              question: "The reliability of an appraisal depends on the:",
-              options: [
-                "a. knowledge and judgment of the appraiser",
-                "b. accuracy of the data used",
-                "c. Both a and b",
-                "d. Neither a nor b"
-              ],
-              correct: "c. Both a and b"
-            },
-            {
-              question: "An appraisal of current market value is considered to be accurate for:",
-              options: [
-                "a. 90 days",
-                "b. until the property is sold",
-                "c. one year",
-                "d. date of appraisal"
-              ],
-              correct: "d. date of appraisal"
-            },
-            {
-              question: "Appraisals are always used:",
-              options: [
-                "a. To make residential mortgages",
-                "b. To settle divorces",
-                "c. to settle lawsuit",
-                "d. to solve problems that involve real estate values"
-              ],
-              correct: "d. to solve problems that involve real estate values"
-            },
-            {
-              question: "What term is used to describe a study of the cost-benefit relationship of an economic endeavor?",
-              options: [
-                "a. Investment analysis",
-                "b. Cash flow analysis",
-                "c. Feasibility analysis",
-                "d. Market analysis"
-              ],
-              correct: "c. Feasibility analysis"
-            },
-            {
-              question: "The mayor of a small town recently hired you to estimate the value of a new one-story, three-bay fire station. The fire station was built last year at a cost of P2.5 million (land and buildings). Similar-sized, one-year-old commercial buildings in comparable locations are selling for P2 million. If you appraise this building for approximately P2.5 million, you probably have conveyed:",
-              options: [
-                "a. Market value",
-                "b. Investment value",
-                "c. Actual use",
-                "d. Value in transition"
-              ],
-              correct: "b. Investment value"
-            },
-            {
-              question: "You were recently asked to appraise the Midnight Blue Hostel. The bank asked you to value the property for loan purposes. The comparable sales you used in this analysis were all sales of the entire operation. The income used in your calculation was based on the rental rate of each sleeping room and the sales at the restaurant and the bar. You are most likely appraising:",
-              options: [
-                "a. Market value of the fee simple interest",
-                "b. Market value of the leased fee interest",
-                "c. Going-concern value",
-                "d. Value in use"
-              ],
-              correct: "c. Going-concern value"
-            },
-            {
-              question: "Investment value is best measured by:",
-              options: [
-                "a. Market price to a specific investor",
-                "b. Market value to a specific investor",
-                "c. The cost of acquiring a competitive substitute property with the same utility to a typical purchaser",
-                "d. The present worth of anticipated future benefits to a specific investor"
-              ],
-              correct: "d. The present worth of anticipated future benefits to a specific investor"
-            },
-            {
-              question: "Estimating market value requires identification of the desires and priorities of:",
-              options: [
-                "a. Well-informed buyers and sellers",
-                "b. A fully informed seller",
-                "c. A typically informed purchaser",
-                "d. A typically informed seller"
-              ],
-              correct: "c. A typically informed purchaser"
-            }
+      {
+        "question": "A technique for extracting adjustments based on the contribution of a feature is called",
+        "options": [
+          "a) Grid analysis",
+          "b) Paired sales analysis",
+          "c) Cost analysis",
+          "d) Income analysis"
         ],
+        "correct": "b) Paired sales analysis"
       },
       {
+        "question": "Adjustments for real property rights conveyed reflect",
+        "options": [
+          "a) The differences in the subject and the comparables",
+          "b) The differences in the rights in realty transferred between the subject and comparables",
+          "c) The differences in the market or the effective date and the comparables",
+          "d) The differences in the motivations of the sellers and buyers on the date of sale"
+        ],
+        "correct": "b) The differences in the rights in realty transferred between the subject and comparables"
+      },
+      {
+        "question": "Financing terms adjustments reflect",
+        "options": [
+          "a) The differences in the market on the effective date and the comparables",
+          "b) The differences in the motivations of the sellers and buyers on the date of sale",
+          "c) The differences in sale prices of properties that sold for cash and the ones that sold with financing",
+          "d) The differences in sale prices of properties that sold for cash or market rate financing and the ones that sold with special financing that favors the buyer"
+        ],
+        "correct": "d) The differences in sale prices of properties that sold for cash or market rate financing and the ones that sold with special financing that favors the buyer"
+      },
+      {
+        "question": "A conditions of sale adjustment reflects",
+        "options": [
+          "a) The differences in the market on the effective date of the appraisal and the sale of comparables",
+          "b) The differences between the motivations of the seller and buyers on the date of sale of comparable and the typical motivations of buyers and sellers as described in the definition of value",
+          "c) The differences in sale prices of properties that sold for cash and the ones that sold with financing",
+          "d) The differences in sale prices of properties that sold from non-related parties"
+        ],
+        "correct": "b) The differences between the motivations of the seller and buyers on the date of sale of comparable and the typical motivations of buyers and sellers as described in the definition of value"
+      },
+      {
+        "question": "Graphic analysis is an example of",
+        "options": [
+          "a) Quantitative adjustment",
+          "b) Qualitative analysis",
+          "c) Computer valuation using a graphics card",
+          "d) A technique used in land valuation only"
+        ],
+        "correct": "a) Quantitative adjustment"
+      },
+      {
+        "question": "Expenditures made immediately after purchase:",
+        "options": [
+          "a) Reflect anything paid by the buyer during the warranty period.",
+          "b) Reflect anything that the buyer knew they would have to correct and probably factored the cost of into the price paid.",
+          "c) Reflect the cost of replacing the decorating to bring the home up to the buyer’s standards.",
+          "d) Reflect the cost to update the property up to the new home market standards."
+        ],
+        "correct": "b) Reflect anything that the buyer knew they would have to correct and probably factored the cost of into the price paid."
+      },
+      {
+        "question": "Comparative analysis is",
+        "options": [
+          "a) A generic term used to describe the process where qualitative or quantitative techniques are used to derive a value opinion in the sales comparison",
+          "b) The tool used in the cost approach to estimate depreciation to the buildings",
+          "c) A tool used to convert income to value in the income approach",
+          "d) A term used to describe levels that support construction cost"
+        ],
+        "correct": "a) A generic term used to describe the process where qualitative or quantitative techniques are used to derive a value opinion in the sales comparison"
+      },
+      {
+        "question": "The sales comparison approach requires how many comparisons?",
+        "options": [
+          "a) 3",
+          "b) 4",
+          "c) 5",
+          "d) No set minimum number"
+        ],
+        "correct": "a) 3"
+      },
+      {
+        "question": "Which appraisal approach is most appropriate for valuing a newly built residential house in a subdivision? (should be b for newly built)",
+        "options": [
+          "a. Income Approach",
+          "b. Cost Approach",
+          "c. Sales Comparison Approach",
+          "d. Reconciliation Approach"
+        ],
+        "correct": "c. Sales Comparison Approach"
+      },
+      {
+        "question": "Which of the following appraisal approaches relies on estimating replacement or reproduction cost and deducting depreciation?",
+        "options": [
+          "a. Sales Comparison Approach",
+          "b. Income Approach",
+          "c. Cost Approach",
+          "d. Gross Rent Multiplier Approach"
+        ],
+        "correct": "c. Cost Approach"
+      },
+      {
+        "question": "The principle of ______ is the basis of the income capitalization approach.",
+        "options": [
+          "a) Change",
+          "b) Substitution",
+          "c) Modification",
+          "d) Anticipation"
+        ],
+        "correct": "d) Anticipation"
+      },
+      {
+        "question": "Value can be estimated in the income capitalization approach by",
+        "options": [
+          "a) Dividing the overall capitalization rate by the net operating income",
+          "b) Multiplying the net operating income by the overall capitalization rate",
+          "c) Dividing the net operating income by the overall capitalization rate",
+          "d) Dividing the base by the multiplier"
+        ],
+        "correct": "c) Dividing the net operating income by the overall capitalization rate"
+      },
+      {
+        "question": "Suppose a lease contract calls for rent of Php 10 per square foot. However, similar space in the market rents for Php 15 per square foot. The amount specified in the lease is known as the _______________ rent.",
+        "options": [
+          "a) Contract rent",
+          "b) Market rent",
+          "c) Economic rent",
+          "d) Overage rent"
+        ],
+        "correct": "a) Contract rent"
+      },
+      {
+        "question": "In a gross lease, who pays the utility costs?",
+        "options": [
+          "a) The landlord",
+          "b) The tenant",
+          "c) A subtenant, if there is one",
+          "d) Either the tenant or the landlord"
+        ],
+        "correct": "a) The landlord"
+      },
+      {
+        "question": "Market rent is",
+        "options": [
+          "a) The amount of rental income a property would command in the open market",
+          "b) The amount of rental income stipulated in the lease",
+          "c) The amount of rental income that reflects the contract rent adjusted for concessions",
+          "d) The amount of rental income that is in excess of the market rate"
+        ],
+        "correct": "a) The amount of rental income a property would command in the open market"
+      },
+      {
+        "question": "A property has a net operating income (NOI) of ₱36,000 per year. The operating expense ratio is 36%, and the vacancy and collection loss is estimated to be 4%. What is the effective gross income (EGI)?",
+        "options": [
+          "a) ₱48,000",
+          "b) ₱56,250",
+          "c) ₱48,960",
+          "d) ₱60,000"
+        ],
+        "correct": "b) ₱56,250"
+      },
+      {
+        "question": "A local investor recently purchased a small strip center for ₱1,215,000. She obtained a 50% mortgage at 7% interest with a 25-year amortization. The monthly payments are ₱6,546.54. The buyer expects the first year’s net operating income (NOI) to be ₱96,000. What is the equity dividend rate (RE)?",
+        "options": [
+          "a) 0.0287",
+          "b) 0.0386",
+          "c) 0.0475",
+          "d) 0.0636"
+        ],
+        "correct": "a) 0.0287"
+      },
+      {
+        "question": "A tenant has a lease that states the base rent is Php 5,000 per month plus 3% of the sales above Php 50,000 in gross sales per month. The tenant’s total sales last year were Php 850,000. How much rent was paid last year?",
+        "options": [
+          "a) Php 25,500",
+          "b) Php 60,000",
+          "c) Php 67,500",
+          "d) Php 75,000"
+        ],
+        "correct": "c) Php 67,500"
+      },
+      {
+        "question": "In a soft market, a landlord accepted a new tenant with a 60-month lease at Php 5,000 per month but gave the tenant six months free rent. Using the average rent method, what is the effective monthly rent?",
+        "options": [
+          "a) Php 3,000",
+          "b) Php 4,500",
+          "c) Php 5,000",
+          "d) Php 5,555"
+        ],
+        "correct": "b) Php 4,500"
+      },
+      {
+        "question": "The subject property has an annual net income expectancy of Php 75,000. Recent comparable sales have the following characteristics: Sale 1: Sold for Php 1,000,000 with an annual net income of Php 98,000; Sale 2: Sold for Php 750,000 with an annual net income of Php 75,000; Sale 3: Sold for Php 650,000 with an annual net income of Php 62,500; Sale 4: Sold for Php 500,000 with an annual net income of Php 49,500. Based on this data and using the direct capitalization approach, what is the indicated value of the subject property?",
+        "options": [
+          "a) Php 750,000",
+          "b) Php 762,651",
+          "c) Php 780,000",
+          "d) Php 862,010"
+        ],
+        "correct": "b) Php 762,651"
+      },
+      {
+        "question": "What is the market value of the subject property (round to the nearest Php 50,000)?",
+        "options": [
+          "a) Php 800,000",
+          "b) Php 750,000",
+          "c) Php 700,000",
+          "d) Php 650,000"
+        ],
+        "correct": "b) Php 750,000"
+      },
+      {
+        "question": "What is the expected annual income of a property that recently sold for Php 100,000 where the buyers indicated that they used an overall capitalization rate (RO) of 9.25%?",
+        "options": [
+          "a) Php 925 per year",
+          "b) Php 9,250 per year",
+          "c) Php 92,500 per year",
+          "d) Cannot be determined with this data"
+        ],
+        "correct": "b) Php 9,250 per year"
+      },
+      {
+        "question": "The subject property has: Potential Gross Income (PGI) = Php 100,000; Vacancy & Collection Losses (V&C) = 7% of PGI; Fixed Expenses = Php 35,000; Variable Expenses = Php 25,000; Reserves for Replacement = Php 7,000. Recent sales of similar properties suggest a cap rate of 12% based on NOI without reserves. What is the market value of the subject property?",
+        "options": [
+          "a) Php 300,000",
+          "b) Php 275,000",
+          "c) Php 250,000",
+          "d) Php 225,000"
+        ],
+        "correct": "b) Php 275,000"
+      },
+      {
+        "question": "What is the value of a property with effective gross income (EGI) of Php 423,000, an operating expense ratio (OER) of 32%, and an overall capitalization rate (RO) of 0.117?",
+        "options": [
+          "a) Php 2,250,000",
+          "b) Php 2,500,000",
+          "c) Php 3,850,000",
+          "d) Php 4,230,000"
+        ],
+        "correct": "b) Php 2,500,000"
+      },
+      {
+        "question": "The subject property has a level income Php 30,000. In the mortgage market for this type of property, the best rate available is 9.0% per year with monthly payments, a 25-year amortization, and a maximum 75% loan-to-value. The equity dividend rate is 15%. What is the market value? (Use the band-of-investment technique and round your answer to the nearest Php 1,000).",
+        "options": [
+          "a) Php 325,000",
+          "b) Php 300,000",
+          "c) Php 275,000",
+          "d) Php 265,000"
+        ],
+        "correct": "d) Php 265,000"
+      },
+      {
+        "question": "What is the market value of a property with the following characteristics? Net Operating Income (NOI): Php 75,000; Annual Debt Service: Php 60,000; Loan-to-Value (LTV) Ratio: 75%; Mortgage Constant: 0.1281 (Use the debt coverage formula and round your answer to the nearest Php 1,000)",
+        "options": [
+          "a) Php 600,000",
+          "b) Php 625,000",
+          "c) Php 650,000",
+          "d) Php 675,000"
+        ],
+        "correct": "b) Php 625,000"
+      },
+      {
+        "question": "Which of the following is the primary purpose of Republic Act No. 9646 (Real Estate Service Act of 2009)?",
+        "options": [
+          "a) To regulate land use planning and zoning in urban areas",
+          "b) To establish the Real Estate Investment Trust (REIT) system in the Philippines",
+          "c) To professionalize and regulate the practice of real estate service in the Philippines",
+          "d) To oversee the construction and sale of condominium units"
+        ],
+        "correct": "c) To professionalize and regulate the practice of real estate service in the Philippines"
+      },
+      {
+        "question": "What is the indicated property value of a property that has NOI of Php 150,000 per year. The value of the land (VL) is Php 550,000. The land capitalization rate (RL) is 9.75% and the building capitalization rate (RB) is 12.25%. What is the property value (to the nearest Php 100,000)?",
+        "options": [
+          "a) Php 1,300,000",
+          "b) Php 1,400,000",
+          "c) Php 1,500,000",
+          "d) Php 1,600,000"
+        ],
+        "correct": "a) Php 1,300,000"
+      },
+      {
+        "question": "The sales comparison approach is primarily based on:",
+        "options": [
+          "A. Depreciated replacement cost",
+          "B. Net operating income",
+          "C. Recent sales of similar properties",
+          "D. Zoning classifications"
+        ],
+        "correct": "C. Recent sales of similar properties"
+      },
+      {
+        "question": "The highest and best use is:",
+        "options": [
+          "A. The use that brings the highest income",
+          "B. The current use of the property",
+          "C. The legally permissible, physically possible, financially feasible, and maximally productive use",
+          "D. The planned future use"
+        ],
+        "correct": "C. The legally permissible, physically possible, financially feasible, and maximally productive use"
+      },
+      {
+        "question": "The value-in-use of a property is best described as:",
+        "options": [
+          "A. The market value under forced sale",
+          "B. Value to a particular user",
+          "C. Value after depreciation",
+          "D. The price paid under normal market conditions"
+        ],
+        "correct": "B. Value to a particular user"
+      },
+      {
+        "question": "Which of the following is not a type of depreciation?",
+        "options": [
+          "A. Physical deterioration",
+          "B. Functional obsolescence",
+          "C. Capitalized interest",
+          "D. External obsolescence"
+        ],
+        "correct": "C. Capitalized interest"
+      },
+      {
+        "question": "An example of functional obsolescence is:",
+        "options": [
+          "A. A house with outdated plumbing",
+          "B. A factory beside a landfill",
+          "C. Cracked walls",
+          "D. A building with no elevator but several floors"
+        ],
+        "correct": "D. A building with no elevator but several floors"
+      },
+      {
+        "question": "A church building is best appraised using the:",
+        "options": [
+          "A. Income approach",
+          "B. Cost approach",
+          "C. Market comparison",
+          "D. Residual method"
+        ],
+        "correct": "B. Cost approach"
+      },
+      {
+        "question": "According to PRC Resolution No. 1060 s. 2023, how many CPD units are required for Real Estate Appraisers for renewal?",
+        "options": [
+          "A. 45 units",
+          "B. 15 units",
+          "C. 30 units",
+          "D. 20 units"
+        ],
+        "correct": "B. 15 units"
+      },
+      {
+        "question": "Under RA 9646 (RESA Law), who is allowed to practice real estate appraisal?",
+        "options": [
+          "A. Any licensed real estate broker",
+          "B. Licensed appraiser with a valid PRC ID and PTR",
+          "C. Any person with appraisal training",
+          "D. Government assessor"
+        ],
+        "correct": "B. Licensed appraiser with a valid PRC ID and PTR"
+      },
+      {
+        "question": "Under RA 9646, a registered appraiser may also engage in real estate brokerage if:",
+        "options": [
+          "A. They are over 35 years old",
+          "B. They hold both licenses and meet PRC requirements",
+          "C. They passed the brokerage exam only",
+          "D. They work for a bank"
+        ],
+        "correct": "B. They hold both licenses and meet PRC requirements"
+      },
+      {
+        "question": "Who appoints the Chairperson of the PRC Board of Real Estate Service?",
+        "options": [
+          "A. PRC Chairperson",
+          "B. President of the Philippines",
+          "C. PRBRES members",
+          "D. Department of Finance Secretary"
+        ],
+        "correct": "B. President of the Philippines"
+      },
+      {
+        "question": "PRBRES stands for:",
+        "options": [
+          "A. Professional Regulation Board of Real Estate Services",
+          "B. Philippine Real Brokers Regulatory Board",
+          "C. Professional Real Estate Services Board",
+          "D. None of the above"
+        ],
+        "correct": "D. None of the above"
+      },
+      {
+        "question": "The process by which the appraiser evaluates, chooses, and selects a final value opinion is known as",
+        "options": [
+          "a) Review",
+          "b) Reconciliation",
+          "c) Recalculation",
+          "d) Data manipulation"
+        ],
+        "correct": "b) Reconciliation"
+      },
+      {
+        "question": "The value most commonly sought in real estate appraisals is",
+        "options": [
+          "a) Investment value",
+          "b) Value in use",
+          "c) Insurable value",
+          "d) Market value"
+        ],
+        "correct": "d) Market value"
+      },
+      {
+        "question": "Giving a client a range of values rather than a single value opinion",
+        "options": [
+          "a) Is not allowed by USPAP rules",
+          "b) Implies that you are pliable",
+          "c) Allows for a greater probability of correctness",
+          "d) Implies that you do not know what you are doing"
+        ],
+        "correct": "c) Allows for a greater probability of correctness"
+      },
+      {
+        "question": "If the three approaches to value provide three different value indications, the appraiser should",
+        "options": [
+          "a) Average three numbers",
+          "b) Choose the highest number to bring in more business",
+          "c) Choose the lowest number to limit liability",
+          "d) Choose a value opinion that best represents the market for the subject based on all data available as of the date of the appraisal"
+        ],
+        "correct": "d) Choose a value opinion that best represents the market for the subject based on all data available as of the date of the appraisal"
+      },
+      {
+        "question": "How significant is the reported open market sale price of the subject if the sale has not closed yet? (can be c)",
+        "options": [
+          "a) Insignificant",
+          "b) Insignificant because it is only pending",
+          "c) Significant because after the deal closes, it will be a comparable",
+          "d) Significant because the buyers have made a statement with their check book"
+        ],
+        "correct": "d) Significant because the buyers have made a statement with their check book"
+      },
+      {
+        "question": "A residence has been listed for sale in the MLS for the last six months at a price of Php 124,900, and it has not sold. In this market, the average marketing period is 45 days for this type of property.",
+        "options": [
+          "a) The subject property's market value could be higher or lower than the list price",
+          "b) The subject property's market value could be higher than the list price",
+          "c) The subject property's market value could be lower than the list price",
+          "d) The subject property's market value is less than the list price"
+        ],
+        "correct": "d) The subject property's market value is less than the list price"
+      },
+      {
+        "question": "If the subject is a special-purpose property and the value indication by the cost approach is much higher than by the sales comparison approach, what is the typical problem?",
+        "options": [
+          "a) The cost approach needs to be adjusted (or adjusted more) for the loss in value due to functional obsolescence",
+          "b) The cost approach needs to be adjusted for external obsolescence",
+          "c) The sales comparison approach needs to be adjusted down to make it the same",
+          "d) The income capitalization approach should be developed to average them out"
+        ],
+        "correct": "b) The cost approach needs to be adjusted for external obsolescence"
+      },
+      {
+        "question": "The three types of appraisal report options are: (can be letter b)",
+        "options": [
+          "a) Limited, complete, and summary",
+          "b) Summary, self-contained, and form reports",
+          "c) Self-contained, summary, and restricted use",
+          "d) Limited, self-contained, and complete"
+        ],
+        "correct": "c) Self-contained, summary, and restricted use"
+      },
+      {
+        "question": "A restricted use report is",
+        "options": [
+          "a) The most detailed report option available",
+          "b) The least detailed report option available",
+          "c) The most detailed appraisal option",
+          "d) The least detailed appraisal reporting option"
+        ],
+        "correct": "b) The least detailed report option available"
+      },
+      {
+        "question": "The type of appraisal report:",
+        "options": [
+          "a) Has no influence on the appraisal process",
+          "b) Is always the same, regardless of the problem",
+          "c) Is determined by the amount of the fee",
+          "d) Is determined by the intended use of the appraisal"
+        ],
+        "correct": "d) Is determined by the intended use of the appraisal"
+      },
+      {
+        "question": "A property has 25 apartment units: 15 two-bedroom units renting for Php 3,000.00 per month each; 10 one-bedroom units renting for Php 2,000.00 per month each. What is the potential gross income (PGI) for the year?",
+        "options": [
+          "a) Php 1,100,000.00",
+          "b) Php 1,200,000.00",
+          "c) Php 1,140,000.00",
+          "d) Php 1,150,000.00",
+          "e) None of the above"
+        ],
+        "correct": "e) None of the above"
+      },
+      {
+        "question": "The principle that prevents an appraiser from appraising a lot for its commercial potential and the improvements thereon for residential value is the:",
+        "options": [
+          "a) Principle of increasing and decreasing return",
+          "b) Principle of consistent use",
+          "c) Principle of highest and best use",
+          "d) Principle of anticipation",
+          "e) None of the above"
+        ],
+        "correct": "b) Principle of consistent use"
+      },
+      {
+        "question": "Which of the following would not be considered in the market data approach to appraisal?",
+        "options": [
+          "a) Sale price of comparable properties",
+          "b) Terms of sale of comparable properties",
+          "c) Location of each comparable property",
+          "d) Acquisition cost to present owner of the subject"
+        ],
+        "correct": "d) Acquisition cost to present owner of the subject"
+      },
+      {
+        "question": "The added value inherent in the combine common ownership of the two or more contiguous lots.",
+        "options": [
+          "a) Corner influence",
+          "b) Plottage value",
+          "c) Cooperative interest",
+          "d) Joint venture",
+          "e) None of the above"
+        ],
+        "correct": "b) Plottage value"
+      },
+      {
+        "question": "The following are economic indicators, except:",
+        "options": [
+          "a) Investment and savings",
+          "b) Population, employment and unemployment",
+          "c) Gross domestic product",
+          "d) Volume of traffic",
+          "e) None of the above"
+        ],
+        "correct": "d) Volume of traffic"
+      },
+      {
+        "question": "In considering the highest and best use of a parcel of land to be improved with an office building, the appraiser determines the optimal land/building ratio for the parcel. Which of the following economic principles illustrate this?",
+        "options": [
+          "a) Anticipation",
+          "b) Balance",
+          "c) Contribution",
+          "d) Substitution",
+          "e) None of the above"
+        ],
+        "correct": "b) Balance"
+      },
+      {
+        "question": "The age indicated by the condition and utility of a structure:",
+        "options": [
+          "a) Actual age",
+          "b) Economic life",
+          "c) Useful life",
+          "d) Effective age",
+          "e) None of the above"
+        ],
+        "correct": "d) Effective age"
+      },
+      {
+        "question": "This method may indicate whether or not the structure is an over or under improvement and whether or not it has come into being with some aspects of built-in depreciation",
+        "options": [
+          "b) Reproduction cost new",
+          "c) Property residual technique",
+          "d) Building residual technique",
+          "e) None of the above"
+        ],
+        "correct": "d) Building residual technique"
+      },
+      {
+        "question": "To be considered comparable to the subject property, a comparable must have been sold:",
+        "options": [
+          "a) In an arm's-length transaction",
+          "b) With a conventional mortgage",
+          "c) Without any form of secondary financing",
+          "d) For all cash",
+          "e) None of the above"
+        ],
+        "correct": "a) In an arm's-length transaction"
+      },
+      {
+        "question": "A home costing P400,000.00 is surrounded by homes priced substantially higher. Which principle would be most applicable to the P400,000 home in a current appraisal.",
+        "options": [
+          "a) Substitution",
+          "b) Contribution",
+          "c) Regression",
+          "d) Progression",
+          "e) None of the above"
+        ],
+        "correct": "d) Progression"
+      },
+      {
+        "question": "Construct an overall capitalization rate for a recently sold commercial property: Selling price: Php 435,000; Site value: Php 125,000; Economic life: 25 years; NOI: Php 57,000",
+        "options": [
+          "a) 12.5%",
+          "b) 13%",
+          "c) 13.5%",
+          "d) 14.25%"
+        ],
+        "correct": "b) 13%"
+      },
+      {
+        "question": "Under what classification does machinery and equipment fall with an assessed value of P40,000 or 50% of its market value? (confusing looks industrial)",
+        "options": [
+          "a) Agriculture",
+          "b) Commercial",
+          "c) Residential",
+          "d) Industrial"
+        ],
+        "correct": "c) Residential"
+      },
+      {
+        "question": "Which of the following features represent physical data that must be considered by the appraiser?",
+        "options": [
+          "a) Easements",
+          "b) Plottage",
+          "c) Public restriction",
+          "d) Utility connection",
+          "e) None of the above"
+        ],
+        "correct": "d) Utility connection"
+      },
+      {
+        "question": "An appraisal for the price that a property would sell for based on a quick sale would be estimating what type of value?",
+        "options": [
+          "a) Market value",
+          "b) Use value",
+          "c) Going-concern value",
+          "d) Liquidation value",
+          "e) None of the above"
+        ],
+        "correct": "d) Liquidation value"
+      },
+      {
+        "question": "Legally speaking, a condominium can be which of the following types of property?",
+        "options": [
+          "a) Residential",
+          "b) Commercial",
+          "c) Industrial",
+          "d) All of the above",
+          "e) None of the above"
+        ],
+        "correct": "d) All of the above"
+      },
+      {
+        "question": "The legal right of the state to acquire property of a decedent who died without a will and without heirs is referred to as what?",
+        "options": [
+          "a) Eminent domain",
+          "b) Escheat",
+          "c) Dedication",
+          "d) Devise",
+          "e) None of the above"
+        ],
+        "correct": "b) Escheat"
+      },
+      {
+        "question": "Why is the gross multiplier normally not subject to adjustment by the appraisers?",
+        "options": [
+          "a) It is impossible to make adjustment when using income data",
+          "b) Relative desirability is presumed to be reflected in the gross income generated in the market price",
+          "c) Any differences between properties would be insignificant",
+          "d) The income approach never allows for adjustment of any kind",
+          "e) None of the above"
+        ],
+        "correct": "b) Relative desirability is presumed to be reflected in the gross income generated in the market price"
+      },
+      {
+        "question": "If houses in your area have increased in value 8% during the past year and the average price of houses sold last year was P95,000. What is the average price of houses sold today?",
+        "options": [
+          "a) P101,000",
+          "b) P101,500",
+          "c) P102,600",
+          "d) P103,000"
+        ],
+        "correct": "c) P102,600"
+      },
+      {
+        "question": "Effective gross income (EGI) is the anticipated income from operation of a project after adjustment for",
+        "options": [
+          "a) Operating expenses",
+          "b) Realty tax and insurance",
+          "c) Vacancy and credit",
+          "d) All of the above",
+          "e) None of the above"
+        ],
+        "correct": "c) Vacancy and credit"
+      },
+      {
+        "question": "The form of deed used to return title to real estate to its owner when the debt secured by a deed of trust is paid in full is the",
+        "options": [
+          "a) Warranty deed",
+          "b) Reconveyance deed",
+          "c) Quitclaim deed",
+          "d) Tax deed",
+          "e) None of the above"
+        ],
+        "correct": "b) Reconveyance deed"
+      },
+      {
+        "question": "When choosing comparable sales for the sales comparison approach, property characteristics that should be identical or very similar to those of the subject property include",
+        "options": [
+          "a) Size of lot and building",
+          "b) Age of building and type of construction",
+          "c) Number and type of rooms",
+          "d) All of the above",
+          "e) None of the above"
+        ],
+        "correct": "d) All of the above"
+      },
+      {
+        "question": "It is designed to reflect the recapture of the original investment over the economic life of the improvement, to give the investor an acceptable rate of return (yield) on the original investment, and to provide for the return of borrowed capital.",
+        "options": [
+          "a) Discount rate",
+          "b) Rate of return",
+          "c) Capitalization rate",
+          "d) Yield rate"
+        ],
+        "correct": "c) Capitalization rate"
+      },
+      {
+        "question": "The appropriate adjustment for time is determined to be 9% per year. The time adjustment for a comparable property that was sold a year ago for P90,000 per square meter is",
+        "options": [
+          "a) Less P9,000 per square meter",
+          "b) Plus P6,750 per square meter",
+          "c) Plus P8,100 per square meter",
+          "d) Plus P10,000 per square meter"
+        ],
+        "correct": "c) Plus P8,100 per square meter"
+      },
+      {
+        "question": "The house flooring area has an area of 30 square meters. How many vinyl tiles are needed if the tile size is 12 inches by 12 inches?",
+        "options": [
+          "a) 300",
+          "b) 353",
+          "c) 380",
+          "d) 323"
+        ],
+        "correct": "d) 323"
+      },
+      {
+        "question": "The lease under which the tenant pays a fixed rental and the landlord pays all expenses of ownership is the",
+        "options": [
+          "a) Gross lease",
+          "b) Triple net lease",
+          "c) Escalator clause",
+          "d) Expense-stop clause"
+        ],
+        "correct": "a) Gross lease"
+      },
+      {
+        "question": "The financial device used to maximize cash flow using other people's money is commonly referred to",
+        "options": [
+          "a) Liquidity",
+          "b) Equity",
+          "c) Leverage",
+          "d) Tax shelter"
+        ],
+        "correct": "c) Leverage"
+      },
+      {
+        "question": "An appraisal is to be made of a three-bedroom house. One comparable with two bedrooms sold for P50,000, the appraiser makes an adjustment of P1,000 to the comparable. The adjusted sales price of the comparable is",
+        "options": [
+          "a) P49,000",
+          "b) P51,000",
+          "c) P52,000",
+          "d) P53,000"
+        ],
+        "correct": "b) P51,000"
+      },
+      {
+        "question": "Which of the following estimates would result in a capitalization rate of 4 percent?",
+        "options": [
+          "a) Potential gross income P200,000; value P5,000,000",
+          "b) Effective gross income P200,000; value P5,000,000",
+          "c) Net operating income P200,000; value P5,000,000",
+          "d) None of the above"
+        ],
+        "correct": "c) Net operating income P200,000; value P5,000,000"
+      },
+      {
+        "question": "As regards zoning, which of the following statements is correct?",
+        "options": [
+          "a) Zoning ordinances are always more restrictive than deed restrictions",
+          "b) A nonconforming use and variance refer to the same thing",
+          "c) Zoning normally establishes land-use districts and provides for different restrictions within each district",
+          "d) Exclusive zoning and spot zoning refer to the same thing",
+          "e) None of the above"
+        ],
+        "correct": "c) Zoning normally establishes land-use districts and provides for different restrictions within each district"
+      },
+      {
+        "question": "A comparable site sold for ₱25,000 per square meter one month ago. The comparable's location is 15% superior, and its shape/topography is 10% inferior relative to the subject property. The time adjustment is 12% per year. What is the adjusted unit value of the comparable property?",
+        "options": [
+          "a) ₱18,250",
+          "b) ₱24,250",
+          "c) ₱25,750",
+          "d) None of the above"
+        ],
+        "correct": "d) None of the above"
+      },
+      {
+        "question": "A property in Bel Air, Makati of 800 sqm was sold for P20,000,000. Building-to-land ratio is 3:2. What is the value of the building?",
+        "options": [
+          "a) P10,000,000",
+          "b) P11,000,000",
+          "c) P12,000,000",
+          "d) None of the above"
+        ],
+        "correct": "c) P12,000,000"
+      },
+      {
+        "question": "Simpson's residence was constructed in 1990 at a cost of ₱39,000. The cost index in 1990 was 158.2, and the current cost index is 318.0. What is the estimated reproduction cost new of the residence today?",
+        "options": [
+          "a) ₱125,000",
+          "b) ₱130,000",
+          "c) ₱131,000",
+          "d) ₱78,394"
+        ],
+        "correct": "d) ₱78,394"
+      },
+      {
+        "question": "A vacant lot is currently being rented for ₱24,000 per month. If the capitalization rate is 8% annually, what is the estimated market value of the property?",
+        "options": [
+          "a) ₱2,400,000",
+          "b) ₱2,600,000",
+          "c) ₱2,800,000",
+          "d) ₱3,600,000"
+        ],
+        "correct": "d) ₱3,600,000"
+      },
+      {
+        "question": "The index method of estimating construction cost is based on:",
+        "options": [
+          "a) The original cost of improvement",
+          "b) The cost of new improvement at current prices",
+          "c) Book value",
+          "d) The national cost average of all components",
+          "e) None of the above"
+        ],
+        "correct": "b) The cost of new improvement at current prices"
+      },
+      {
+        "question": "It is the most detailed way to estimate the cost of construction, estimating the cost of every component. It is used even less than the unit-in-place method due to time and cost.",
+        "options": [
+          "A. Replacement/Reproduction Cost",
+          "B. Comparative-Unit Method",
+          "C. Unit-in-Place Method",
+          "D. Quantity Survey Method"
+        ],
+        "correct": "D. Quantity Survey Method"
+      },
+      {
+        "question": "The boundaries of a neighborhood might be determined by:",
+        "options": [
+          "a) An economic change in use",
+          "b) Physical features like lakes, rivers, freeways",
+          "c) Zoning or city limits",
+          "d) Two of the above",
+          "e) All of the above"
+        ],
+        "correct": "e) All of the above"
+      },
+      {
+        "question": "Net income before recapture is calculated as the Effective Gross Income (EGI) minus:",
+        "options": [
+          "a) All expenses including depreciation",
+          "b) All expenses excluding depreciation",
+          "c) Only real estate taxes",
+          "d) All building expenses excluding maintenance and repair"
+        ],
+        "correct": "b) All expenses excluding depreciation"
+      },
+      {
+        "question": "A property is financed using: 75% mortgage at 8.5% interest with a mortgage constant of 0.092, and 25% equity requiring a 12% equity yield (equity dividend rate). What is the overall capitalization rate (Ro) using the band of investment method?",
+        "options": [
+          "a) 9.0%",
+          "b) 9.9%",
+          "c) 10.0%",
+          "d) 10.5%"
+        ],
+        "correct": "b) 9.9%"
+      },
+      {
+        "question": "Private deed restrictions are enforced through:",
+        "options": [
+          "a) Zoning variance",
+          "b) Zoning board",
+          "c) Homeowner's association",
+          "d) Housing cooperative"
+        ],
+        "correct": "c) Homeowner's association"
+      },
+      {
+        "question": "The tenant pays a fixed amount and gets to use the property for a specific time. At the end of the lease, the property reverts back to the landlord.",
+        "options": [
+          "A. Flat Rental Lease",
+          "B. Variable Rate Lease",
+          "C. Step-Up/Down Lease",
+          "D. Revaluation Lease"
+        ],
+        "correct": "A. Flat Rental Lease"
+      },
+      {
+        "question": "The tenant will pay one amount now and usually a higher amount later. This is a common condition in long-term leases where increases are scheduled.",
+        "options": [
+          "A. Flat Rental Lease",
+          "B. Variable Rate Lease",
+          "C. Step-Up/Down Lease",
+          "D. Revaluation Lease"
+        ],
+        "correct": "C. Step-Up/Down Lease"
+      },
+      {
+        "question": "Use of comparable listings: (bonus question)",
+        "options": [
+          "a) Offers to buy set the upper limit of value",
+          "b) Listings to sell set the upper limit of value",
+          "c) Both A and B",
+          "d) None of the above",
+          "e) Any of the above"
+        ],
+        "correct": "b) Listings to sell set the upper limit of value"
+      },
+      {
+        "question": "As supply of land decreases and demand rises, land value will:",
+        "options": [
+          "a) Stay the same",
+          "b) Rise",
+          "c) Fall",
+          "d) Demand has no effect",
+          "e) None of the above"
+        ],
+        "correct": "b) Rise"
+      },
+      {
+        "question": "Rent schedules are used in:",
+        "options": [
+          "a) Cost approach",
+          "b) Market approach",
+          "c) Income approach",
+          "d) All of the above",
+          "e) None of the above"
+        ],
+        "correct": "c) Income approach"
+      },
+      {
+        "question": "Estimate based on transactions with unpredictable factors:",
+        "options": [
+          "a) Cost value",
+          "b) Asking value",
+          "c) Caprice value",
+          "d) Market value",
+          "e) None of the above"
+        ],
+        "correct": "c) Caprice value"
+      },
+      {
+        "question": "An objective kind of value for market-exchange items is:",
+        "options": [
+          "a) Value in use",
+          "b) Value in exchange",
+          "c) Economic value",
+          "d) Potential value",
+          "e) None of the above"
+        ],
+        "correct": "b) Value in exchange"
+      },
+      {
+        "question": "Rent savings is the difference between:",
+        "options": [
+          "a) Market rent and economic rent",
+          "b) Market rent and contract rent",
+          "c) Flat rent and step-up rent",
+          "d) Sublease rent and lessee’s rent",
+          "e) None of the above"
+        ],
+        "correct": "b) Market rent and contract rent"
+      },
+      {
+        "question": "Appraisal is:",
+        "options": [
+          "A. The report conveyed to the client",
+          "B. A lucrative profession",
+          "C. The act or process of developing an opinion of value",
+          "D. The act or process of telling the client the market value"
+        ],
+        "correct": "C. The act or process of developing an opinion of value"
+      },
+      {
+        "question": "All of the following would be considered real estate except:",
+        "options": [
+          "A. Growing trees",
+          "B. Farm equipment",
+          "C. Buildings",
+          "D. Land"
+        ],
+        "correct": "B. Farm equipment"
+      },
+      {
+        "question": "What is plottage value?",
+        "options": [
+          "a) Land between properties",
+          "b) Bonus from combining lots",
+          "c) Land price per lot",
+          "d) Depth ÷ frontage",
+          "e) None of the above"
+        ],
+        "correct": "b) Bonus from combining lots"
+      },
+      {
+        "question": "Which of the following is an example of special purpose real estate?",
+        "options": [
+          "A. A private school",
+          "B. A public library",
+          "C. A shopping center",
+          "D. A house and lot"
+        ],
+        "correct": "B. A public library"
+      },
+      {
+        "question": "Can personal property be converted into real property?",
+        "options": [
+          "A. Yes, through accession",
+          "B. Yes, through severance",
+          "C. No, they are mutually exclusive",
+          "D. Only through inheritance"
+        ],
+        "correct": "A. Yes, through accession"
+      },
+      {
+        "question": "The basic formula for property valuation via income capitalization is:",
+        "options": [
+          "a) V = IR",
+          "b) V = I/R",
+          "c) V = R/I",
+          "d) V = SP/GR",
+          "e) V = I/F"
+        ],
+        "correct": "b) V = I/R"
+      },
+      {
+        "question": "Accrued depreciation is classified into three types or categories. Which of the following should not be included?",
+        "options": [
+          "a) Functional obsolescence",
+          "b) Economic obsolescence",
+          "c) Detrimental obsolescence",
+          "d) Physical obsolescence"
+        ],
+        "correct": "c) Detrimental obsolescence"
+      },
+      {
+        "question": "Which of the following land valuation approaches considers the depreciated value of the improvements:",
+        "options": [
+          "a) The comparative approach",
+          "b) The abstractive approach",
+          "c) The land development approach",
+          "d) None of the above"
+        ],
+        "correct": "b) The abstractive approach"
+      },
+      {
+        "question": "Recapture of the investment capital in real estate finance is that portion of the loan payment that is earmarked for:",
+        "options": [
+          "a) Interest on money due",
+          "b) Payoff of principal",
+          "c) Interest and principal payment",
+          "d) None of the above"
+        ],
+        "correct": "b) Payoff of principal"
+      },
+      {
+        "question": "In determining an estimated fair return on invested capital, an appraiser considers:",
+        "options": [
+          "a) A 'safe' rate on investment",
+          "b) A 'risk' rate on investment",
+          "c) I only",
+          "d) II only",
+          "e) Both of I and II"
+        ],
+        "correct": "e) Both of I and II"
+      },
+      {
+        "question": "What is the classification of properties according to use?",
+        "options": [
+          "A. Residential, industrial, commercial, agricultural, special",
+          "B. Public domain and private ownership",
+          "C. Present property and future property",
+          "D. Agricultural, forest/timberland, mineral, and parks"
+        ],
+        "correct": "A. Residential, industrial, commercial, agricultural, special"
+      },
+      {
+        "question": "The three criteria that, in part, define the 'highest and best use' are:",
+        "options": [
+          "a) The use must be physically possible, legally acceptable, and generate a higher present land value than any other use.",
+          "b) The use must legally acceptable, politically possible, and socially advantageous",
+          "c) The use must be physically possible, comparable to other uses in the neighborhood, and legally acceptable",
+          "d) The use must be comparable to other uses, physically possible, and generate a higher present and use that other uses"
+        ],
+        "correct": "a) The use must be physically possible, legally acceptable, and generate a higher present land value than any other use."
+      },
+      {
+        "question": "Assuming four different shapes of a 500 square meter house, which would be the most expensive to build, assuming the same materials and quality of construction?",
+        "options": [
+          "a) A rectangle",
+          "b) An L-shape",
+          "c) An H-shape",
+          "d) A U-shape"
+        ],
+        "correct": "c) An H-shape"
+      },
+      {
+        "question": "Of the three approaches to valuing a parcel of real estate, which one values the land separately from the improvement?",
+        "options": [
+          "a) Income approach",
+          "b) Market approach",
+          "c) Comparative approach",
+          "d) Cost approach",
+          "e) None of the above"
+        ],
+        "correct": "d) Cost approach"
+      },
+      {
+        "question": "The lessor's interest in leased property is referred to as the:",
+        "options": [
+          "a) Leasehold",
+          "b) Leased fee",
+          "c) Fee simple",
+          "d) Remainder",
+          "e) None of the above"
+        ],
+        "correct": "b) Leased fee"
+      },
+      {
+        "question": "All of the following consider the time value of money, except:",
+        "options": [
+          "a) Net present value",
+          "b) Discounted cash flow",
+          "c) Internal rate of return",
+          "d) Payback period"
+        ],
+        "correct": "d) Payback period"
+      },
+      {
+        "question": "The simplest and most reliable method of income capitalization is:",
+        "options": [
+          "a) The direct capitalization technique",
+          "b) The building residual technique",
+          "c) The land technique",
+          "d) The equity residual technique"
+        ],
+        "correct": "a) The direct capitalization technique"
+      },
+      {
+        "question": "A statement of limiting conditions is necessary in an appraisal because:",
+        "options": [
+          "a) It notifies the client of items subject to which the appraisal is made",
+          "b) It protects the appraiser against conditions which he or she does not have control",
+          "c) It limits the liability",
+          "d) None of the above"
+        ],
+        "correct": "b) It protects the appraiser against conditions which he or she does not have control"
+      },
+      {
+        "question": "Generally, the most reliable approach in the appraisal of a single-family residential property is the:",
+        "options": [
+          "a) Market approach",
+          "b) Cost approach",
+          "c) Income approach",
+          "d) Summation approach"
+        ],
+        "correct": "a) Market approach"
+      },
+      {
+        "question": "The most important variable of the market approach to land valuation is:",
+        "options": [
+          "a) Sufficient number of recent sales",
+          "b) Proper tax records",
+          "c) Land and improvements assessment on the same basis",
+          "d) Proper tax assessment"
+        ],
+        "correct": "a) Sufficient number of recent sales"
+      },
+      {
+        "question": "Which of the following is not a restriction or limitation of ownership imposed by law?",
+        "options": [
+          "A. Police Power",
+          "B. Escheat",
+          "C. Taxation",
+          "D. Lease"
+        ],
+        "correct": "D. Lease"
+      },
+      {
+        "question": "The appraiser's conclusion of value should be based on:",
+        "options": [
+          "a) An average of the time conclusions indicated by the three approaches to value",
+          "b) A weighting of the importance of the value indicated by each of the three approaches to value",
+          "c) None of the above",
+          "d) All of the above"
+        ],
+        "correct": "b) A weighting of the importance of the value indicated by each of the three approaches to value"
+      },
+      {
+        "question": "Assuming four different shapes of a 500 square meter house, which would be the least expensive to build, assuming the same materials and quality of construction?",
+        "options": [
+          "a) A rectangle",
+          "b) An L-shape",
+          "c) An H-shape",
+          "d) A U-shape"
+        ],
+        "correct": "a) A rectangle"
+      },
+      {
+        "question": "What is plottage value?",
+        "options": [
+          "a) The value of land between the subject property and another property",
+          "b) The bonus that sometimes may be obtained from combining parcels",
+          "c) The price of land per plot",
+          "d) The depth divided by the frontage",
+          "e) None of the above"
+        ],
+        "correct": "b) The bonus that sometimes may be obtained from combining parcels"
+      },
+      {
+        "question": "The four (4) property types for appraisal or valuation are:",
+        "options": [
+          "A. Residential, Commercial, Industrial, Agricultural",
+          "B. Real property, Personal property, Businesses, Financial Interests",
+          "C. Land, Buildings, Machineries, Businesses",
+          "D. Mineral, Timberland, Real estate, Real property"
+        ],
+        "correct": "B. Real property, Personal property, Businesses, Financial Interests"
+      },
+      {
+        "question": "The process of determining monetary values of property rights at a specific time is: (can be letter b)",
+        "options": [
+          "A. Appraisal",
+          "B. Valuation",
+          "C. Value in Use",
+          "D. Value in Exchange"
+        ],
+        "correct": "A. Appraisal"
+      },
+      {
+        "question": "The value of a property traded in the market is referred to as:",
+        "options": [
+          "A. Market Value",
+          "B. Scrap Value",
+          "C. Salvage Value",
+          "D. Zonal Value"
+        ],
+        "correct": "A. Market Value"
+      },
+      {
+        "question": "The highest price estimated for a real property in the open market under no pressure is:",
+        "options": [
+          "A. Market Value",
+          "B. Fair Market Value",
+          "C. Value in Use",
+          "D. Value in Exchange"
+        ],
+        "correct": "B. Fair Market Value"
+      },
+      {
+        "question": "Which one of the following would probably be used for estimating the value loss from deferred maintenance?",
+        "options": [
+          "a) The sales data or market method",
+          "b) The straight-line or age-life method",
+          "c) The cost-to-cure or observed condition method",
+          "d) The capitalized income or rental method",
+          "e) None of the above"
+        ],
+        "correct": "c) The cost-to-cure or observed condition method"
+      },
+      {
+        "question": "In market value appraisal, which of the following items should be excluded from the expense statement?",
+        "options": [
+          "a) Loan interest payments",
+          "b) Necessary current expenses",
+          "c) Project expenses",
+          "d) None of the above",
+          "e) All of the above"
+        ],
+        "correct": "a) Loan interest payments"
+      },
+      {
+        "question": "A leasehold interest may be created only if the contract rent is:",
+        "options": [
+          "A. Greater than market rent",
+          "B. Equal to market rent",
+          "C. Less than market rent",
+          "D. Less than the value of the property"
+        ],
+        "correct": "C. Less than market rent"
+      },
+      {
+        "question": "Which of the following is not included in estimating replacement cost?",
+        "options": [
+          "A. Cost of labor",
+          "B. Judgment as to attractiveness and utility",
+          "C. Components of the original building",
+          "D. None of the above"
+        ],
+        "correct": "B. Judgment as to attractiveness and utility"
+      },
+      {
+        "question": "In utilizing the income approach, the appraiser considers the remaining economic life of: I. The building and other improvements within the building site; II. The building only",
+        "options": [
+          "a) I only",
+          "b) II only",
+          "c) Both I and II",
+          "d) Neither I nor II"
+        ],
+        "correct": "a) I only"
+      },
+      {
+        "question": "Ideally, the appraiser of a residential property will collect data on comparable property sales that occurred earlier than: (cen be letter e)",
+        "options": [
+          "a) Six months prior to the date of appraisal",
+          "b) One year prior to the date of appraisal",
+          "c) 18 months prior to the date of appraisal",
+          "d) Two years prior to the date of appraisal",
+          "e) None of the above"
+        ],
+        "correct": "a) Six months prior to the date of appraisal"
+      },
+      {
+        "question": "Capitalization is the process whereby:",
+        "options": [
+          "a) Income is converted to an indication of value",
+          "b) Syndicates are formed",
+          "c) Income approach for income properties",
+          "d) Income approach for residential properties",
+          "e) None of the above"
+        ],
+        "correct": "a) Income is converted to an indication of value"
+      },
+      {
+        "question": "The most common type of partial-interest appraisal involves:",
+        "options": [
+          "a) A leased property",
+          "b) A time-shared residence",
+          "c) A row-house",
+          "d) None of the above"
+        ],
+        "correct": "a) A leased property"
+      },
+      {
+        "question": "Rent saving is the difference between:",
+        "options": [
+          "a) Market rent and economic rent",
+          "b) Market rent and contract rent",
+          "c) Fat contract rent and step-up contract rent",
+          "d) Sublease rent and lessee's rent",
+          "e) None of the above"
+        ],
+        "correct": "b) Market rent and contract rent"
+      },
+      {
+        "question": "Which of the following is an advantage of a two-storey house over a single-storey house? (bonus question)",
+        "options": [
+          "a) Stairs",
+          "b) Lower construction cost per square meter",
+          "c) Easier to paint and maintain",
+          "d) Less danger in case of fire"
+        ],
+        "correct": "b) Lower construction cost per square meter"
+      },
+      {
+        "question": "The difference between the cost of a new structure and the current value, considering all forms of loss in value.",
+        "options": [
+          "A. Depreciation",
+          "B. Obsolescence",
+          "C. Deterioration",
+          "D. Replacement Cost"
+        ],
+        "correct": "A. Depreciation"
+      },
+      {
+        "question": "The age indicated by the condition and utility of a structure and is based on an appraiser’s judgment and interpretation of market perceptions.",
+        "options": [
+          "A. Effective Age",
+          "B. Useful Life",
+          "C. Actual Age",
+          "D. Remaining Economic Life"
+        ],
+        "correct": "A. Effective Age"
+      },
+      {
+        "question": "This is the economic period over which existing improvements are expected to continue to contribute to property value.",
+        "options": [
+          "A. Effective Age",
+          "B. Useful Life",
+          "C. Actual Age",
+          "D. Remaining Economic Life"
+        ],
+        "correct": "D. Remaining Economic Life"
+      },
+      {
+        "question": "The three traditional cost-estimating methods, except one, are:",
+        "options": [
+          "A. Replacement/Reproduction Cost",
+          "B. Comparative-Unit Method",
+          "C. Unit-in-Place Method",
+          "D. Quantity Survey Method"
+        ],
+        "correct": "B. Comparative-Unit Method"
+      },
+      {
+        "question": "It is the most commonly used method of estimating the cost of construction used to derive a cost estimate in terms of cost per unit area.",
+        "options": [
+          "A. Replacement/Reproduction Cost",
+          "B. Comparative-Unit Method",
+          "C. Unit-in-Place Method",
+          "D. Quantity Survey Method"
+        ],
+        "correct": "C. Unit-in-Place Method"
+      },
+      {
+        "question": "The total anticipated revenue from income property operations after vacancy and collection losses are deducted is:",
+        "options": [
+          "a) Net operating income",
+          "b) Before-tax cash flow",
+          "c) Effective gross income",
+          "d) Potential gross income",
+          "e) Property residual income"
+        ],
+        "correct": "c) Effective gross income"
+      },
+      {
+        "question": "The amount paid in a lease contract that exceeds the market rent. A large deficit may prompt the landlord to renegotiate or terminate.",
+        "options": [
+          "A. Market Rent",
+          "B. Contract Rent",
+          "C. Effective Rent",
+          "D. Percentage Rent"
+        ],
+        "correct": "B. Contract Rent"
+      },
+      {
+        "question": "The rental income tied to the level of sales. This type of income is less reliable because it varies with the economy.",
+        "options": [
+          "A. Market Rent",
+          "B. Contract Rent",
+          "C. Effective Rent",
+          "D. Percentage Rent"
+        ],
+        "correct": "D. Percentage Rent"
+      },
+      {
+        "question": "The rent paid for the percentage rent over the base rent; it represents the additional rent from a percentage of sales.",
+        "options": [
+          "A. Overage Rent",
+          "B. Contract Rent",
+          "C. Effective Rent",
+          "D. Percentage Rent"
+        ],
+        "correct": "A. Overage Rent"
+      },
+      {
+        "question": "The starting point in income analysis, it is the amount a property would generate if fully occupied all year.",
+        "options": [
+          "A. Potential Gross Income",
+          "B. Effective Gross Income",
+          "C. Net Operating Income",
+          "D. Gross Income"
+        ],
+        "correct": "A. Potential Gross Income"
+      },
+      {
+        "question": "Accrued depreciation can be defined in appraisal terms as:",
+        "options": [
+          "a) Deduction from value",
+          "b) Total loss in value from all causes",
+          "c) Diminished utility",
+          "d) Both parts (b) and (c) are correct"
+        ],
+        "correct": "d) Both parts (b) and (c) are correct"
+      },
+      {
+        "question": "There is a theory that all structures have a total useful life that can be predicted. The method of estimating accrued depreciation based on this theory is:",
+        "options": [
+          "a) Capitalization income or rental method",
+          "b) Sales data or market method (abstraction method)",
+          "c) Straight-line or age-life method",
+          "d) Cost-to-cure or observed condition method"
+        ],
+        "correct": "c) Straight-line or age-life method"
+      },
+      {
+        "question": "The principle that prevents an appraiser from appraising a lot for its commercial potential and the improvement thereon for residential value is the:",
+        "options": [
+          "a) Principle of increasing and decreasing return",
+          "b) Principle of consistent use",
+          "c) Principle of highest and best use",
+          "d) Principle of anticipation"
+        ],
+        "correct": "b) Principle of consistent use"
+      },
+      {
+        "question": "This is the relationship between one year’s net operating income and the value or sale price.",
+        "options": [
+          "A. Overall Capitalization Rate",
+          "B. Discount Rate",
+          "C. Yield Rate",
+          "D. Internal Rate of Return"
+        ],
+        "correct": "A. Overall Capitalization Rate"
+      },
+      {
+        "question": "It is in this principle that property values are affected by influences and events originating outside the property itself.",
+        "options": [
+          "a) Principle of conformity",
+          "b) Principle of balance",
+          "c) Principle of change",
+          "d) Principle of externalities",
+          "e) None of the above"
+        ],
+        "correct": "d) Principle of externalities"
+      },
+      {
+        "question": "A parameter used to describe a population which is the sum of all the variants refers to as:",
+        "options": [
+          "a) Mode",
+          "b) Standard deviation",
+          "c) Average deviation",
+          "d) Aggregate",
+          "e) None of the above"
+        ],
+        "correct": "d) Aggregate"
+      }
+    ]
+  },
+      {
         id: "part3",
-        title: "Assessment on Family Code",
+        title: "Appraisal Stat, Math, IVS, PVS, Ethics",
         questions: [
           {
-            question: "Under PD 957, offering a subdivision lot through promotional materials such as brochures is considered:",
-            options: [
-              "A. A fraudulent misrepresentation",
-              "B. Merely an advertisement without intent to sell",
-              "C. A preliminary attempt to initiate a sale transaction",
-              "D. A form of charitable donation"
+            "question": "One hectare is equivalent to",
+            "options": [
+              "a. 1,000 sqm",
+              "b. 100,000 sqm",
+              "c. 10,000 sqm",
+              "d. 100 sqm"
             ],
-            correct: "C. A preliminary attempt to initiate a sale transaction"
+            "correct": "c. 10,000 sqm"
           },
           {
-            question: "Under PD 957, the term 'subdivision lot' can encompass which of the following categories?",
-            options: [
-              "A. Lots intended for recreational or leisure purposes",
-              "B. Lots zoned for industrial development",
-              "C. Land designated for commercial establishments",
-              "D. All of the above"
+            "question": "The mean value of five lots with prices of P200,000, P150,000, P325,000, P150,000, P350,000 is",
+            "options": [
+              "a. P350,000",
+              "b. P150,000",
+              "c. P 235,000",
+              "d. P 200,000"
             ],
-            correct: "D. All of the above"
+            "correct": "c. P 235,000"
           },
           {
-            question: "Which of the following types of spaces would be classified as a 'condominium unit' under PD 957?",
-            options: [
-              "A. Public hallways and shared spaces",
-              "B. Basements reserved for storage",
-              "C. Independently owned individual rooms or spaces",
-              "D. Entire floors within a building"
+            "question": "The median value of five lots with prices of P200,000, P150,000, P325,000, P150,000, P350,000 is",
+            "options": [
+              "a. P5,350,000",
+              "bP. 150,000",
+              "c. P 172,000",
+              "d. P 200,000"
             ],
-            correct: "C. Independently owned individual rooms or spaces"
+            "correct": "d. P 200,000"
           },
           {
-            question: "Which entity holds exclusive authority over the regulation and supervision of the real estate business in the Philippines?",
-            options: [
-              "A. Bureau of Lands",
-              "B. Department of Justice",
-              "C. Department of Human Settlements and Urban Development",
-              "D. Securities and Exchange Commission"
+            "question": "The mode value of five lots with prices of P200,000, P150,000, P325,000, P150,000, P350,000 is",
+            "options": [
+              "a. P350,000",
+              "b. P150,000",
+              "c. P 172,000",
+              "d. P 200,000"
             ],
-            correct: "C. Department of Human Settlements and Urban Development"
+            "correct": "b. P150,000"
           },
           {
-            question: "What official document verifies that a subdivision or condominium project is duly registered under PD 957?",
-            options: [
-              "A. Building permit",
-              "B. Certificate of Registration",
-              "C. Business license",
-              "D. Environmental clearance permit"
+            "question": "The range value of five lots with prices of P200,000, P150,000, P325,000, P150,000, P350,000 is",
+            "options": [
+              "a. P350,000",
+              "b. P150,000",
+              "c. P172,000",
+              "d. P200,000"
             ],
-            correct: "B. Certificate of Registration"
+            "correct": "d. P200,000"
           },
           {
-            question: "Under PD 957, which of the following serves as a guarantee for the completion of construction and development within a subdivision or condominium project?",
-            options: [
-              "A. Business license",
-              "B. Environmental management plan",
-              "C. Performance bond",
-              "D. Master deed of the project"
+            "question": "Calculate the resulting fraction when 2/9 is subtracted from 2/3",
+            "options": [
+              "a. 10/27",
+              "b. 11/27",
+              "c. 4/9",
+              "d. 5/9"
             ],
-            correct: "C. Performance bond"
+            "correct": "c. 4/9"
           },
           {
-            question: "Under PD 957, when is a license to sell and performance bond not required?",
-            options: [
-              "A. When selling subdivision properties to overseas buyers",
-              "B. In the marketing of memorial or burial lots",
-              "C. If the subdivision lot is being sold by a co-owner after partition",
-              "D. For advertising condominium units in local media"
+            "question": "Twelve inches is equal to:",
+            "options": [
+              "a. One foot",
+              "b. One yard",
+              "c. One mile",
+              "d. One meter"
             ],
-            correct: "C. If the subdivision lot is being sold by a co-owner after partition"
+            "correct": "a. One foot"
           },
           {
-            question: "Under PD 957, what the developer promises in ads are considered:",
-            options: [
-              "A. Suggestions",
-              "B. Optional",
-              "C. Sales warranties",
-              "D. Recommendations"
+            "question": "What is the formula for determining the area of a square or rectangle?",
+            "options": [
+              "a. Sum of parallel lines / 2",
+              "b. Length x width",
+              "c. Length $x$ width $x$ height",
+              "d. Base $x$ height"
             ],
-            correct: "C. Sales warranties"
+            "correct": "b. Length x width"
           },
           {
-            question: "Currently, with which agency must Homeowners' Associations register to ensure legal recognition and regulatory compliance?",
-            options: [
-              "A. Securities and Exchange Commission",
-              "B. Department of Human Settlements and Urban Development",
-              "C. Home Guaranty Corporation",
-              "D. Philippine Homeowners' Association Authority"
+            "question": "What is the formula to determine the area of a triangle",
+            "options": [
+              "a. Sum of parallel lines / 2",
+              "b. (base x height) / 2",
+              "c. Length x width $x$ height",
+              "d. (width x height) / 2"
             ],
-            correct: "B. Department of Human Settlements and Urban Development"
+            "correct": "b. (base $ x height) / 2"
           },
           {
-            question: "Which of the following is not considered an attached agency under the Department of Human Settlements and Urban Development?",
-            options: [
-              "A. Subdivision and Housing Developers Association",
-              "B. National Home Mortgage Finance Corporation",
-              "C. Pag-IBIG Fund",
-              "D. National Housing Authority"
+            "question": "What is the formula to get the circumference of a circle?",
+            "options": [
+              "a. Pi multiply by radius square divide by 2",
+              "b. Pi multiply by radius",
+              "c. Pi multiply by radius square",
+              "d. Pi multiply by radius multiply by 2"
             ],
-            correct: "A. Subdivision and Housing Developers Association"
+            "correct": "d. Pi multiply by radius multiply by 2"
           },
           {
-            question: "In the current housing policy structure, which agency serves as the highest policy-making body for shelter and housing in the Philippines?",
-            options: [
-              "A. National Home Mortgage Finance Corporation",
-              "B. Pag-IBIG Fund",
-              "C. Department of Human Settlements and Urban Development",
-              "D. National Housing Authority"
+            "question": "One meter is equal to",
+            "options": [
+              "a. 3.38 feet",
+              "b. 3 feet",
+              "c. 3.28 feet",
+              "d. 2.38 feet"
             ],
-            correct: "C. Department of Human Settlements and Urban Development"
+            "correct": "c. 3.28 feet"
           },
           {
-            question: "Before a corporation may legally commence the development of a subdivision, what initial approval must it obtain from the DHSUD?",
-            options: [
-              "A. Certificate of Development",
-              "B. Certificate of Registration",
-              "C. License to Sell",
-              "D. Development Permit"
+            "question": "One square meter is equal to square foot.",
+            "options": [
+              "a. 10.76",
+              "b. 12.45",
+              "c. 16.11",
+              "d. 24.54"
             ],
-            correct: "D. Development Permit"
+            "correct": "a. 10.76"
           },
           {
-            question: "Rodrigo purchased a lot through installment terms payable over 10 years. After 6 years, he defaulted on payments. His rights are now governed by which law?",
-            options: [
-              "A. Subdivision and Condominium Buyers' Protective Decree",
-              "B. Maceda Law",
-              "C. Realty Financing Act",
-              "D. Contract to Sell"
+            "question": "A circle with a diameter of 10 cms has an area of:",
+            "options": [
+              "a. 31.41",
+              "b. 78.55",
+              "c. 15.70",
+              "d. 21.61"
             ],
-            correct: "B. Maceda Law"
+            "correct": "b. 78.55"
           },
           {
-            question: "Which term describes land primarily intended for residential use and divided into individual saleable lots, with or without improvements, under PD 957?",
-            options: [
-              "A. Simple Subdivision",
-              "B. Residential Subdivision",
-              "C. Subdivision Project",
-              "D. Complex Subdivision Plan"
+            "question": "The area of a right triangle with a height of 10ft and a base of 4 ft is",
+            "options": [
+              "a. 40 sq. ft.",
+              "b. 25 sq. ft.",
+              "c. 1.85 sqm",
+              "d. 3.72 sqm"
             ],
-            correct: "C. Subdivision Project"
+            "correct": "c. 1.85 sqm"
           },
           {
-            question: "What term is used for a subdivision plan that includes delineated streets, open spaces, and passageways in a registered land parcel?",
-            options: [
-              "A. Subdivision Open Spaces Plan",
-              "B. Complex Subdivision Plan",
-              "C. Simple Subdivision Plan",
-              "D. Approved Subdivision Plan"
+            "question": "A rectangular site measures 12.5 meters (frontage) by 25.6 meters (depth), of which 2.6 meters is in the public right-of-way. What is the gross and net site area?",
+            "options": [
+              "a. 0.66 ha gross & 0.75 ha net",
+              "b. 386.56 sq. m. gross & 320 sq. m. net",
+              "c. 320 sq. m. gross & 287.5 sq. m. net",
+              "d. 351 sq. m. gross & 320 sq. m. net"
             ],
-            correct: "B. Complex Subdivision Plan"
+            "correct": "c. 320 sq. m. gross & 287.5 sq. m. net"
           },
           {
-            question: "Which of the following best describes housing projects involving government or private initiatives designed for underprivileged and homeless citizens, including site development?",
-            options: [
-              "A. Economic Housing",
-              "B. Socialized Housing",
-              "C. Low-Cost Housing",
-              "D. Homeless Assistance Project"
+            "question": "A rectangular parcel of land measures $1.5$ (frontage) by 27.5.5 (depth), assuming the setback at the front is $5.5$ and 2.5 easement at the sides and rear portion. What is the maximum building footprint?",
+            "options": [
+              "a. 412.5",
+              "b. 200",
+              "c. 100",
+              "d. 275.5"
             ],
-            correct: "B. Socialized Housing"
+            "correct": "b. 200"
           },
           {
-            question: "A real estate developer may publish project advertisements prior to securing a license to sell only if:",
-            options: [
-              "A. The project is fully registered with DHSUD",
-              "B. Land development has commenced",
-              "C. It is solely for announcement purposes",
-              "D. It involves pre-selling activities"
+            "question": "In a residential area, a square lot with an area of 900.5qm is priced at $9.0000.000$. If one side of the square is increased by 10. meters and the other side of square is decreased by 10m, determine the price of the resized residential lot.",
+            "options": [
+              "a. 7,680,000",
+              "b. 5,120,000",
+              "c. 11,520,000",
+              "d. 8,000,000"
             ],
-            correct: "C. It is solely for announcement purposes"
+            "correct": "d. 8,000,000"
           },
           {
-            question: "PD 1216 mandates that developers allocate open spaces (e.g., parks, roads, alleys, sidewalks) equivalent to what percentage of the subdivision's total area?",
-            options: [
-              "A. 25%",
-              "B. 30%",
-              "C. 35%",
-              "D. 20%"
+            "question": "A commercial building has the following measurements: Ground floor is 30 meters by 25 meters? The lot alone is valued at P1,760,000. What percentage of the value of the property is attributed to the house?",
+            "options": [
+              "a. 7,502.52",
+              "b. 2,569.25",
+              "c. 4,332.22",
+              "d. 2,596.25"
             ],
-            correct: "B. 30%"
+            "correct": "d. 2,596.25"
           },
           {
-            question: "Who among the following is legally permitted to sell subdivision lots or condominium units, provided they are duly registered or accredited?",
-            options: [
-              "A. Real estate brokers and real estate appraisers",
-              "B. Licensed real estate consultants",
-              "C. Real estate salespersons only",
-              "D. Licensed real estate brokers and accredited salespersons"
+            "question": "A house and lot was purchased for P12,000,000. The house alone was valued at P7,000,000. What is the ratio of the price of lot to the house?",
+            "options": [
+              "a. 160.00%",
+              "b. 266.67%",
+              "c. 37.50%",
+              "d. 62.50%"
             ],
-            correct: "D. Licensed real estate brokers and accredited salespersons"
+            "correct": "c. 37.50%"
           },
           {
-            question: "Under PD 957, who is defined as a person principally engaged in the business of selling or exchanging real estate, whether on a full-time or part-time basis?",
-            options: [
-              "A. Real Estate Developer",
-              "B. Real Estate Broker",
-              "C. Real Estate Dealer",
-              "D. Real Estate Businessman"
+            "question": "An industrial complex has 12 and nine-fenths linear meter of a parking lot on the front of the complex and eight and three-fifths linear meter of parking lot at the back of the complex. Compute the total cost if cost is P3,000 per linear meter to construct the parking lot",
+            "options": [
+              "a. 665,000",
+              "b. 544,000",
+              "c. 564,000",
+              "d. 645,000"
             ],
-            correct: "C. Real Estate Dealer"
+            "correct": "c. $564,000"
           },
           {
-            question: "CCA Realty was authorized to develop land consistent with a city's approved land use ordinance. This authorization is formally referred to as:",
-            options: [
-              "A. Locational Clearance",
-              "B. Development Permit",
-              "C. Authority to Develop",
-              "D. Certificate of Registration"
+            "question": "Maria owns a house valued at P5,000,000. What is the percentage loss of Maria if she sells her house for P3,500,000 to cover another debt?",
+            "options": [
+              "a. 50 %",
+              "b. 30 %",
+              "c. 40 %",
+              "d. 20 %"
             ],
-            correct: "A. Locational Clearance"
+            "correct": "b. 30 %"
           },
           {
-            question: "If a developer wants to pursue a socialized housing project consisting of house-and-lot packages, the maximum price ceiling allowed is:",
-            options: [
-              "A. P 600,000.00",
-              "B. P 650,000.00",
-              "C. P 850,000.00",
-              "D. P 2,500,000.00"
+            "question": "Mr Roxas bought a property consisting of 26 hectares, 98 ares, and 300 centares. What is the total land area in square meter?",
+            "options": [
+              "a. 2,698,300",
+              "b. 26,980,300",
+              "c. 270,100",
+              "d. 2,700,100"
             ],
-            correct: "C. P 850,000.00"
+            "correct": "c. 270,100"
           },
           {
-            question: "Section 18 of R.A. 7279, as amended by Republic Act No. 10884, requires developers of open-market housing to allocate at least what percentage of either the project cost or area for socialized housing?",
-            options: [
-              "A. 15 %",
-              "B. 20 %",
-              "C. 30 %",
-              "D. 10 %"
+            "question": "Compute the area if the square circumscribed by a circle with a diameter of 4 meters.",
+            "options": [
+              "a. 16.00",
+              "b. 4.00",
+              "c. 8.00",
+              "d. 2.25"
             ],
-            correct: "A. 15%"
+            "correct": "c. 8.00"
           },
           {
-            question: "Which of the following must not be included in advertisements for high-end subdivision developments?",
-            options: [
-              "A. Project's total land area and location",
-              "B. Future developments not covered by the license to sell",
-              "C. Planned amenities and facilities",
-              "D. Anticipated project completion date"
+            "question": "In professional practice, which of the following will address the ethical competency obligations of the valuers/Real estate Appraisers?",
+            "options": [
+              "a. Ethical Conduct",
+              "b. Code of Conduct",
+              "c. Professional Conduct",
+              "d. Code of Ethics for Real Estate Service Practitioners"
             ],
-            correct: "B. Future developments not covered by the license to sell"
+            "correct": "b. Code of Conduct"
           },
           {
-            question: "Sally wishes to sell subdivision housing units in a nearby project. What legal step must she take?",
-            options: [
-              "A. Register directly with DHSUD",
-              "B. Obtain a personal license from DHSUD",
-              "C. Operate under a licensed real estate broker and be registered",
-              "D. Get accredited by the real estate developer"
+            "question": "Which of these is not part of the PVS Code of Conduct for the appraisers?",
+            "options": [
+              "a. Confidentiality",
+              "b. Integrity",
+              "c. Conflict of interest",
+              "d. Collaboration"
             ],
-            correct: "C. Operate under a licensed real estate broker and be registered"
+            "correct": "d. Collaboration"
           },
           {
-            question: "Which of the following is exempted from securing a Certificate of Registration and License to Sell from the DHSUD?",
-            options: [
-              "A. Sale of a subdivision lot by the original buyer",
-              "B. Sale of memorial park lots",
-              "C. Sale of residential condominium units",
-              "D. Sale of farm lots by a real estate developer"
+            "question": "The IVS basis for developing national valuation standards in the Philippines?",
+            "options": [
+              "a. 7th edition 2008",
+              "b. 8th edition 2007",
+              "c. 9th edition 2017",
+              "d. 8th edition 2008"
             ],
-            correct: "A. Sale of a subdivision lot by the original buyer"
+            "correct": "b. 8th edition 2007"
           },
           {
-            question: "A valid complaint may be filed with the DHSUD in which situation?",
-            options: [
-              "A. A developer seeking assistance in land acquisition",
-              "B. A buyer raising concerns about non-completion of the project within the promised period",
-              "C. A broker disputing commission with a salesperson",
-              "D. Developer filing for a right-of-way issue"
+            "question": "PARA means:",
+            "options": [
+              "a. Philippine Association of Realty Appraiser",
+              "b. Philippine's Association of Realty Appproisers",
+              "c. Philippine Association of Real Estate Appproisers",
+              "d. Philippine Association of Realty Appproisers"
             ],
-            correct: "B. A buyer raising concerns about non-completion of the project within the promised period"
+            "correct": "d. Philippine Association of Realty Appproisers"
           },
           {
-            question: "Under PD 957, the performance bond posted by a developer must be made payable to:",
-            options: [
-              "A. Department of Human Settlements and Urban Development",
-              "B. Republic of the Philippines",
-              "C. Homeowners' Association",
-              "D. Local Government Unit"
+            "question": "Head Quarters of IVSC:",
+            "options": [
+              "a. Ireland",
+              "b. United Kingdom",
+              "c. Germany",
+              "d. Switzerland"
             ],
-            correct: "B. Republic of the Philippines"
+            "correct": "b. United Kingdom"
           },
           {
-            question: "The DHSUD may suspend a developer's License to Sell motu proprio or upon:",
-            options: [
-              "A. Complaint by a real estate broker",
-              "B. Verified complaint filed by a buyer",
-              "C. Written complaint from an individual buyer",
-              "D. Complaint submitted by a majority of the project's buyers"
+            "question": "Guidance Note 4 of PVS 39. Real Property Valuation",
+            "options": [
+              "a. Valuation of Lease Interests",
+              "b. Valuation of Plant, Machinery and Equipment",
+              "d. Valuation of Intangible Assets"
             ],
-            correct: "B. Verified complaint filed by a buyer"
+            "correct": "d. Valuation of Intangible Assets"
           },
           {
-            question: "The DHSUD may revoke a developer's Certificate of Registration under all circumstances except:",
-            options: [
-              "A. Developer has a reputation for poor business practices",
-              "B. Violation of provisions under PD 957",
-              "C. False information in advertisements or brochures",
-              "D. Developer is involved in another pending HSAC case"
+            "question": "No material links to the client or subject of the assignment, is often preferred for independent valuations.",
+            "options": [
+              "a. Internal Valuer",
+              "b. External Valuer",
+              "c. Inhouse Valuer",
+              "d. Professional Valuer"
             ],
-            correct: "D. Developer is involved in another pending HSAC case"
+            "correct": "b. External Valuer"
           },
           {
-            question: "What is the maximum length for a row house construction?",
-            options: [
-              "A. 100 meters",
-              "B. 120 meters",
-              "C. 150 meters",
-              "D. 200 meters"
+            "question": "A Valuer must not accept an assignment that includes the reporting of predetermined opinions and conclusions.",
+            "options": [
+              "a. Integrity",
+              "b. Conflict of interest",
+              "d. Impartiality",
+              "d. Competence"
             ],
-            correct: "A. 100 meters"
+            "correct": "d. Impartiality"
           },
           {
-            question: "Under PD 957, in general, the minimum distance between two buildings in which the taller building has not more than two (2) storeys shall be:",
-            options: [
-              "A. 4 meters",
-              "B. 3 meters",
-              "C. 5 meters",
-              "D. 6 meters"
+            "question": "A Valuer should make diligent enquiries and investigations to ensure that the data for analysis in the valuation are correct and can be relied upon.",
+            "options": [
+              "a. Integrity",
+              "b. Conflict of interest",
+              "c. Impartiality",
+              "d. Competence"
             ],
-            correct: "A. 4 meters"
+            "correct": "d. Competence"
           },
           {
-            question: "A partnership arrangement in a land subdivision development project in which the landowner contributes undeveloped land as his equity stake, while the developer assumes responsibility for the execution, management, and financial backing of the project's development.",
-            options: [
-              "A. Joint Venture",
-              "B. Build to Own Agreement",
-              "C. Property Development Alliance",
-              "D. Building Partners"
+            "question": "Unt most fidelity, sincerity and honesty shall be observed at all times by those in the realty service practice in their relation with the client, the community and the nation and general.",
+            "options": [
+              "a. Section 1 of M.O. Order No. 39. Series of 1985.",
+              "b. Section 2 of M.O. Order No. 39. Series of 1985.",
+              "c. Section 3 of M.O. Order No. 39. Series of 1985.",
+              "d. Section 4 of M.O. Order No. 39. Series of 1985."
             ],
-            correct: "A. Joint Venture"
+            "correct": "b. Section 2 of M.O. Order No. 39. Series of 1985."
           },
           {
-            question: "Which is the minimum lot frontage in meters for a single detached irregular lot in an economic housing project?",
-            options: [
-              "A. 5",
-              "B. 4",
-              "C. 3.5",
+            "question": "Effectivity of the Approval of the Code of Ethics and Responsibilities for real estate practitioners:",
+            "options": [
+              "a. May 6. 2019",
+              "b. July 29. 2019",
+              "c. August 14. 2019",
+              "d. June 30. 2009"
+            ],
+            "correct": "c. August 14. 2019"
+          },
+          {
+            "question": "Are supsitions taken to be true, affecting the subject or approach to valuation. All assumptions underlying a valuation should be reasonable. What is the correct term?",
+            "options": [
+              "a. Presumpsitions",
+              "b. Assumptions",
+              "c. Propositions",
+              "d. Valuations"
+            ],
+            "correct": "b. Assumptions"
+          },
+          {
+            "question": "The following describes Integrity in the Code of Conduct, except:",
+            "options": [
+              "a. Not contribute to, or participate in, a valuation service that other reasonable Valusers would not regard to be ethical or justified.",
+              "b. Act legally and comply with the laws and regulations of the country in which he or she practices or where an assignment is undertaken.",
+              "c. Not claim, or knowingly let pass, erroneous interpretation of professional qualifications that he or she does not possess.",
+              "d. Not rely upon critical information supplied by a client, or any other party, without appropriate qualification or confirmation (Impartiality)"
+            ],
+            "correct": "d. Not rely upon critical information supplied by a client, or any other party, without appropriate qualification or confirmation (Impartiality)"
+          },
+          {
+            "question": "Valuation report should set out a clear and accurate description of the scope of the assignment and its purpose and intended use:",
+            "options": [
+              "a. Impartiality",
+              "b. Conflict of Interests",
+              "c. Disclosure",
+              "d. Reporting of Values"
+            ],
+            "correct": "c. Disclosure"
+          },
+          {
+            "question": "In the Code of Ethics and Responsibilities for the real estate practitioners, practitioner shall promote the values of the following, except:",
+            "options": [
+              "a. Camaraderie",
+              "b. Unity",
+              "c. Sincerity",
+              "d. Solidarity"
+            ],
+            "correct": "c. Sincerity"
+          },
+          {
+            "question": "According to the Code of Ethics and professional conduct, a real estate practitioner must conduct themselves with professionalism, honesty, and integrity:",
+            "options": [
+              "a. Always",
+              "b. At all times",
+              "c. Sometimes",
+              "d. Mostly"
+            ],
+            "correct": "b. At all times"
+          },
+          {
+            "question": "PVS GN 700 (2018):",
+            "options": [
+              "a. Trade Related Properties",
+              "b. Businesses and Business Interests",
+              "c. Historic Property",
+              "d. Compulsory Property"
+            ],
+            "correct": "a. Trade Related Properties"
+          },
+          {
+            "question": "Valuer must not disclose sensitive factual data obtained from a client, or the results of an assignment prepared for a client.",
+            "options": [
+              "a. Integrity",
+              "b. Disclosure",
+              "c. Confidentiality",
+              "d. Impartiality"
+            ],
+            "correct": "c. Confidentiality"
+          },
+          {
+            "question": "Advertisements should present an accurate picture of the property and include the practitioner's information.",
+            "options": [
+              "a. Relation to The Government",
+              "b. Relation to The General Public",
+              "c. Relation to The Client",
+              "d. Relation to Fellow Practitioners"
+            ],
+            "correct": "b. Relation to The General Public"
+          },
+          {
+            "question": "Which of the following is the responsibility of the Real Estate Practitioner's Professional Rules of Ethics and Responsibilities as to Fellow Practitioners?",
+            "options": [
+              "a. The Practitioner shall always set a good example as a responsible law-abiding citizen.",
+              "b. The Practitionet shall respect the dignity, reputation, and privacy of fellow practitioners.",
+              "c. The practitioner shall always maintain transparency in all dealings with the Client.",
+              "d. The Practitioner shall strictly observe client-practitioner confidentially."
+            ],
+            "correct": "b. The Practitionet shall respect the dignity, reputation, and privacy of fellow practitioners."
+          },
+          {
+            "question": "What shall govern the professional and ethical conduct of the real estate service practitioners?",
+            "options": [
+              "a. The Golden Rule",
+              "b. Continuing Professional Development",
+              "c. The Real Estate Service Laws",
+              "d. Code of Ethics and Responsibilities"
+            ],
+            "correct": "d. Code of Ethics and Responsibilities"
+          },
+          {
+            "question": "In matters of impartiality, a Real Estate Appraiser/ Valuer must",
+            "options": [
+              "a. At all times deal with client 's affair with proper discretion and confidentiality",
+              "b. Not act in a manner that is misleading or fraudulent",
+              "c. At all times maintain a high standard of honesty and integrity and conduct their activities in a manner not detrimental to to their clients",
+              "d. Perform an assignment with the strictest independence, objectivity, and impartiality and without accommodation of personal interest"
+            ],
+            "correct": "d. Perform an assignment with the strictest independence, objectivity, and impartiality and without accommodation of personal interest"
+          },
+          {
+            "question": "In what year was the the International Assets Valuation Standards Committee (TIAVSC) renamed to the International Valuation Standards Committee (IVSC?)",
+            "options": [
+              "a. 1981",
+              "b. 1994",
+              "c. 1999"
+            ],
+            "correct": "b. 1994"
+          },
+          {
+            "question": "USPAP means:",
+            "options": [
+              "a. Uniform Standards of Professional Appraisal Practice",
+              "b. United Standards of Professional Appraisal Practice",
+              "c. Uniform Standard of Professional Appraisal Practices",
+              "d. Uniform Standards of Professional Appraisal Practices"
+            ],
+            "correct": "a. Uniform Standards of Professional Appraisal Practice"
+          },
+          {
+            "question": "Used to standardize valuation methods across asset classes and jurisdictions",
+            "options": [
+              "a. International Valuation Standards",
+              "b. International Valations Standards",
+              "c. USPAP",
+              "d. International Standard Valuation Guidelines"
+            ],
+            "correct": "a. International Valuation Standards"
+          },
+          {
+            "question": "This is a very useful Guidance Note which distinguishes between administrative (Compliance) desk, field, technical and valuation reviews.",
+            "options": [
+              "a. Valuation of Trade-related properties",
+              "b. Reviewing Valuations",
+              "c. Business Valuation",
+              "d. Real Property Valuation"
+            ],
+            "correct": "b. Reviewing Valuations"
+          },
+          {
+            "question": "The Public Sector, and particularly Assessors and their staff, must not:",
+            "options": [
+              "a. Promote and preserve public trust inherent in in the assessment service;",
+              "b. Maintain a high standard of honesty and integrity and conduct their activities in a manner not detrimental to the government, the public and their profession;",
+              "c. Priorize revenue generation over fairness and transparency in assessments to meet government budget targets;",
+              "d. Ensure that all of their staff. persons or subordinates adhere to this Code of Conduct."
+            ],
+            "correct": "c. Priorize revenue generation over fairness and transparency in assessments to meet government budget targets;"
+          },
+          {
+            "question": "Find the median. 93115788",
+            "options": [
+              "A. 41",
+              "B. 8",
+              "C. 7",
+              "D. 5.85"
+            ],
+            "correct": "C. 7"
+          },
+          {
+            "question": "Ms. Buaya owns a 240 square meters rectangular lot with a 12-meter frontage. She wanted to enclose it with a fence made of hollow blocks, 1.7 meters high above the ground with 0.3 meters below the ground. The fence cost P850.00 per square meter. How much will the fencing cost if a 4 meter wide steel gate costing P20,000.00 is installed?",
+            "options": [
+              "A. P1.15,000.00",
+              "B. P1.16,000.00",
+              "C. P1.20,000.00",
+              "D. P1.22,000.00"
+            ],
+            "correct": "D. P1.22,000.00"
+          },
+          {
+            "question": "A square site measures has a street frontage of 15 meters. Its depth is affected by 2-meter road widening. What is the original area of the lot before expropriation?",
+            "options": [
+              "A. 30 sqm",
+              "B. 60 sqm",
+              "C. 195 sqm",
+              "D. 225 sqm"
+            ],
+            "correct": "D. 225 sqm"
+          },
+          {
+            "question": "Refer to previous question, what is now the new area of the lot after expropriation?",
+            "options": [
+              "A. 28 sqm",
+              "B. 169 sqm",
+              "C. 195 sqm",
+              "D. 225 sqm"
+            ],
+            "correct": "C. 195 sqm"
+          },
+          {
+            "question": "Mr. Roxas bought a property consisting of 26 hectares, 98 ares, and 300 centares. What is the total land area in square meter?",
+            "options": [
+              "A. 2,998,300",
+              "B. 26,980,300",
+              "C. 270,100",
+              "D. 2,700,100"
+            ],
+            "correct": "C. 270,100"
+          },
+          {
+            "question": "What is the total land area of a triangular lot which has a frontage of 20 meters and a depth of 30 meters?",
+            "options": [
+              "A. 600 sq. m.",
+              "C. 60 sq. m.",
+              "B. 300 sq. m.",
+              "D. 30 sq. m."
+            ],
+            "correct": "B. 300 sq. m."
+          },
+          {
+            "question": "The area of a right triangle with a height of 10 ft and a base of 4 ft is",
+            "options": [
+              "A. 40 sq. ft.",
+              "C. 1.85 sqm",
+              "B. 25 sq. ft.",
+              "D. 3.72 sqm"
+            ],
+            "correct": "C. 1.85 sqm"
+          },
+          {
+            "question": "What does the mean of a data set represent?",
+            "options": [
+              "A. The biggest number",
+              "B. The smallest number",
+              "C. The average",
+              "D. The middle value"
+            ],
+            "correct": "C. The average"
+          },
+          {
+            "question": "What is the mode of the numbers 2, 4, 4, 6, 8?",
+            "options": [
+              "A. 2",
+              "B. 6",
+              "C. 4",
+              "D. 8"
+            ],
+            "correct": "C. 4"
+          },
+          {
+            "question": "What does the median represent?",
+            "options": [
+              "A. The average",
+              "B. The middle value",
+              "C. The total of the numbers",
+              "D. The most frequent number"
+            ],
+            "correct": "B. The middle value"
+          },
+          {
+            "question": "Which of these is NOT a measure of central tendency?",
+            "options": [
+              "A. Mean",
+              "B. Mode",
+              "C. Range",
+              "D. Median"
+            ],
+            "correct": "C. Range"
+          },
+          {
+            "question": "What is the range of the numbers 3, 7, 10, 12?",
+            "options": [
+              "A. 7",
+              "B. 10",
+              "C. 9 (12 - 3 = 9)",
               "D. 3"
             ],
-            correct: "B. 4"
+            "correct": "C. 9 (12 - 3 = 9)"
           },
           {
-            question: "Which of the following would be considered an offer in a real estate transaction?",
-            options: [
-              "A. Condition",
-              "B. Covenant",
-              "C. Performance",
-              "D. Tender"
+            "question": "Which number is the highest in this set: 8, 13, 5, 21, 17?",
+            "options": [
+              "A. 17",
+              "B. 21",
+              "C. 13",
+              "D. 8"
             ],
-            correct: "D. Tender"
+            "correct": "B. 21"
           },
           {
-            question: "The minimum lot frontage for row house of a subdivision project for socialized housing project under BP 220?",
-            options: [
-              "A. 3 meters",
-              "B. 3.5 meters",
-              "C. 4 meters",
-              "D. 6 meters"
+            "question": "If all numbers in a data set are the same, what is the standard deviation?",
+            "options": [
+              "A. 1",
+              "B. 100",
+              "C. 0",
+              "D. Cannot be determined"
             ],
-            correct: "B. 3.5 meters"
+            "correct": "C. 0"
           },
           {
-            question: "The following are the basic needs in any Human Settlement areas as specified in BP 220, except:",
-            options: [
-              "A. Power",
-              "B. Water",
-              "C. Parks & Playground",
-              "D. Telephone & Internet Access"
+            "question": "In a survey, what is a sample?",
+            "options": [
+              "A. Every person in the world",
+              "B. A single number",
+              "C. A small group from the population",
+              "D. A chart"
             ],
-            correct: "D. Telephone & Internet Access"
+            "correct": "C. A small group from the population"
           },
           {
-            question: "A parcel of land bounded on the sides by streets or alleys or pathways or other natural or manmade features, and occupied by or intended for buildings",
-            options: [
-              "A. Cluster",
-              "B. Block",
-              "C. Open Space",
-              "D. Amenities"
+            "question": "What is the commission on a home sold for P2,000,000 with a 5% commission rate?",
+            "options": [
+              "A. PHP50,000",
+              "B. PHP1,000,000",
+              "C. PHP100,000",
+              "D. PHP200,000"
             ],
-            correct: "B. Block"
+            "correct": "C. PHP100,000"
           },
           {
-            question: "What is the maximum length of a subdivision block under BP 220?",
-            options: [
-              "A. 250 meters",
-              "B. 300 meters",
-              "C. 400 meters",
-              "D. 500 meters",
-              "E. None of the above"
+            "question": "A property is 1,500 square feet and sold for PHP3,000,000. What is the price per square foot?",
+            "options": [
+              "A. PHP20,000",
+              "B. PHP200",
+              "C. PHP1,750",
+              "D. PHP2,000"
             ],
-            correct: "C. 400 meters"
+            "correct": "D. PHP2,000"
           },
           {
-            question: "When is the appropriate time to start marketing and selling subdivided lots?",
-            options: [
-              "A. The subdivision has already have a Development Permit",
-              "B. The License to Sell has already been issued by the DHSUD",
-              "C. The main road and entrance gate of the subdivision is already completed",
-              "D. The developer has already conducted a Grand Open House"
+            "question": "If a client makes a 20% down payment on a PHP2,500,000 home, how much is the down payment?",
+            "options": [
+              "A. PHP500,000",
+              "B. PHP250,000",
+              "C. PHP50,000",
+              "D. PHP1,000,000"
             ],
-            correct: "B. The License to Sell has already been issued by the DHSUD"
+            "correct": "A. PHP500,000"
           },
           {
-            question: "What is the minimum size of a secondary road as provided for in BP 220?",
-            options: [
-              "A. 5 meters",
-              "B. 6 meters",
-              "C. 6.5 meters",
-              "D. 8 meters"
+            "question": "How many acres are in a property that is 87,120 square feet?",
+            "options": [
+              "A. 0.5 acres",
+              "B. 1.5 acres",
+              "C. 2 acres",
+              "D. 1 acre"
             ],
-            correct: "C. 6.5 meters"
+            "correct": "C. 2 acres"
           },
           {
-            question: "What is the minimum major road which for socialized housing project under BP 220?",
-            options: [
-              "A. 8 meters",
-              "B. 10 meters",
-              "C. 12 meters",
-              "D. 15 meters"
+            "question": "How many square meters are in 1 hectare?",
+            "options": [
+              "A. 1,000",
+              "B. 5,000",
+              "C. 10,000",
+              "D. 100,000"
             ],
-            correct: "A. 8 meters"
+            "correct": "C. 10,000"
           },
           {
-            question: "The minimum floor area requirement for single-family dwelling for socialized housing project under BP 220?",
-            options: [
-              "A. 36 square meters",
-              "B. 30 square meters",
-              "C. 24 square meters",
-              "D. 18 square meters"
+            "question": "How many square feet are in one square meter?",
+            "options": [
+              "A. 3.0",
+              "B. 10.76",
+              "C. 12",
+              "D. 39.37"
             ],
-            correct: "D. 18 square meters"
+            "correct": "B. 10.76"
           },
           {
-            question: "Under BP 220 IRR, minimum floor line to ceiling:",
-            options: [
-              "A. 2 meters",
-              "B. 1.5 meters",
-              "C. 3 meters",
-              "D. 3.5 meters"
+            "question": "A plot of land is 2 hectares. How many square meters is that?",
+            "options": [
+              "A. 1,000",
+              "B. 5,000",
+              "C. 20,000",
+              "D. 100,000"
             ],
-            correct: "A. 2 meters"
+            "correct": "C. 20,000"
           },
           {
-            question: "On a 100,000 square meter gross area of socialized housing project and a density of 140 dwelling units per hectare, how many square meters should be allocated to parks and playgrounds?",
-            options: [
-              "A. 3500",
-              "B. 2000",
-              "C. 1000",
-              "D. 5000"
+            "question": "A property is 1.500 square meters. How many square feet is that (rounded)",
+            "options": [
+              "A. 10,000 sq ft",
+              "B. 16,140 sq ft",
+              "C. 20,000 sq ft",
+              "D. 5,000 sq ft"
             ],
-            correct: "A. 3500"
+            "correct": "B. 16,140 sq ft"
           },
           {
-            question: "Which of the following are requirements for registration of subdivision and condominium projects? i. DHSUD Form 001/ 003 ii. Certified True Copy of Transfer Certificate of Title or Original Certificate of Title iii. A copy of any circular, prospectus, brochure, advertisement, or communication used/to be used for public offering of subject project iv. Zoning Certificate from HLURB Regional Office v. Permit to operate a deep well and subsequent submission of confirmed water resistivity test from the National Water Resources Board (NWRB)",
-            options: [
-              "A. I, IV, V",
-              "B. II, III, IV",
-              "C. I, II, III, V",
-              "D. I, II, III, IV, V"
+            "question": "A developer wants to divide a 1 hectare lot into equal lots of 12 square meters. How many lots can be created?",
+            "options": [
+              "A. 20",
+              "B. 30",
+              "C. 40",
+              "D. 50"
             ],
-            correct: "D. I, II, III, IV, V"
-          },
-          {
-            question: "It is the term used to determine the value of the unit or the interest in absolute of a condominium unit owner when the building is demolished.",
-            options: [
-              "A. Percentage Holding Value",
-              "B. Break Out Value",
-              "C. Market Value",
-              "D. Absolute Unit Value"
-            ],
-            correct: "B. Break Out Value"
-          },
-          {
-            question: "A document which provides the guidelines, rules and regulations regarding the rights of subdivision housing unit owners, use, occupation, ownership and disposition of units - all of which constitutes a lien upon the project and each unit",
-            options: [
-              "A. Tax Declaration",
-              "B. Declaration of Restrictions",
-              "C. House Rules and Regulations",
-              "D. Black Book"
-            ],
-            correct: "B. Declaration of Restrictions"
-          },
-          {
-            question: "What mandatory provision is required for duplex and single-attached unit?",
-            options: [
-              "A. Partition Wall",
-              "B. Garage",
-              "C. Firewall",
-              "D. Sidewalk",
-              "E. None of the above"
-            ],
-            correct: "C. Firewall"
-          },
-          {
-            question: "Condario intends to suspend payment on his monthly amortizations for a studio-type condominium unit due to the developer's failure to complete the project. Under the law, he may validly assert this right only if:",
-            options: [
-              "A. He updates all missed monthly payments in advance",
-              "B. He submits a formal notice to DHSUD",
-              "C. He has paid a minimum of 24 monthly installments",
-              "D. He issues a written notice to the developer regarding his intent"
-            ],
-            correct: "D. He issues a written notice to the developer regarding his intent"
-          },
-          {
-            question: "OGC Properties intends to secure financing from a bank for project development. Under PD 957, this action may only proceed with the prior approval of:",
-            options: [
-              "A. All the lot buyers",
-              "B. Department of Human Settlements and Urban Development",
-              "C. Home Guaranty Corporation",
-              "D. All lot owners who are fully paid"
-            ],
-            correct: "B. Department of Human Settlements and Urban Development"
-          },
-          {
-            question: "When a person is found to be about to engage in an act or practice that would constitute a violation of PD 957, the DHSUD, after due notice and hearing, may issue a:",
-            options: [
-              "A. Cease and Desist Order",
-              "B. Temporary Restraining Order",
-              "C. Revocation Order",
-              "D. Cancellation of Performance Bond"
-            ],
-            correct: "A. Cease and Desist Order"
-          },
-          {
-            question: "If a developer mortgages the project without securing DHSUD approval, and a buyer files a complaint, the mortgage shall be considered:",
-            options: [
-              "A. Void as to the lot of the complaining buyer",
-              "B. Valid but subject to administrative fine from DHSUD",
-              "C. Void as to the whole mortgage",
-              "D. Voidable at the instance of the DHSUD"
-            ],
-            correct: "C. Void as to the whole mortgage"
-          },
-          {
-            question: "When a buyer defaults on installment payments for reasons not related to the failure of the developer to fulfill its development obligations, their rights shall be governed by the:",
-            options: [
-              "A. PD 957",
-              "B. DHSUD Rules and Regulations",
-              "C. Realty Installment Buyers' Protection Act (Maceda Law)",
-              "D. Installment Financing Act"
-            ],
-            correct: "C. Realty Installment Buyers' Protection Act (Maceda Law)"
-          },
-          {
-            question: "Under PD 957, the owner or developer must deliver the title of the lot or unit to the buyer upon:",
-            options: [
-              "A. Full payment of the lot or unit",
-              "B. Turnover of the lot or unit",
-              "C. Occupancy of the lot or unit",
-              "D. Payment of the registration fees"
-            ],
-            correct: "A. Full payment of the lot or unit"
-          },
-          {
-            question: "Joan purchased a house and lot in a subdivision. The real estate tax and assessments on the property shall continue to be the responsibility of the developer:",
-            options: [
-              "A. Until the buyer occupies the house",
-              "B. Until the title has been transferred to the buyer",
-              "C. Until the property is formally turned over",
-              "D. Until 50% of the purchase price is paid"
-            ],
-            correct: "B. Until the title has been transferred to the buyer"
-          },
-          {
-            question: "To promote the mutual interest of buyers in a subdivision, the developer is required to initiate the formation of a:",
-            options: [
-              "A. Homeowners' Association",
-              "B. Condominium Corporation",
-              "C. Management Committee",
-              "D. Property Management Committee"
-            ],
-            correct: "A. Homeowners' Association"
-          },
-          {
-            question: "Under PD 957, if the developer intends to donate roads and open spaces within the subdivision to the local government, they must provide the LGU with a:",
-            options: [
-              "A. Certificate of Occupancy",
-              "B. Certificate of Completion",
-              "C. Development Permit",
-              "D. Consent from the majority of lot buyers"
-            ],
-            correct: "B. Certificate of Completion"
-          },
-          {
-            question: "A developer may divide the development and sale of a subdivision into phases, provided that each phase shall not be less than:",
-            options: [
-              "A. 5 hectares",
-              "B. 10 hectares",
-              "C. 12 hectares",
-              "D. 15 hectares"
-            ],
-            correct: "B. 10 hectares"
-          },
-          {
-            question: "For administrative violations of PD 957, the DHSUD may impose fines not exceeding:",
-            options: [
-              "A. P 5,000.00 per lot",
-              "B. P 10,000.00 per lot",
-              "C. P 20,000.00 per lot",
-              "D. P 50,000.00 per lot"
-            ],
-            correct: "B. P 10,000.00 per lot"
-          },
-          {
-            question: "Any person who violates provisions of PD 957, upon conviction, may be subject to the following penalty:",
-            options: [
-              "A. Fine not exceeding P 50,000.00",
-              "B. Imprisonment of not more than 5 years",
-              "C. Fine not exceeding P 20,000.00",
-              "D. Fine not exceeding P 10,000.00"
-            ],
-            correct: "C. Fine not exceeding P 20,000.00"
-          },
-          {
-            question: "Upon conviction for a violation of PD 957, the penalty of imprisonment may be imposed for a period of:",
-            options: [
-              "A. Not more than 5 years",
-              "B. Not more than 6 years",
-              "C. Not more than 10 years",
-              "D. Not more than 20 years"
-            ],
-            correct: "C. Not more than 10 years"
-          },
-          {
-            question: "What is the minimum legal age at which both parties may lawfully contract marriage, provided all legal requirements are met?",
-            options: [
-              "A. 14 for females and 16 for males",
-              "B. 16 years old with parental consent",
-              "C. 18 years old for both parties",
-              "D. 21 years old for males and 18 years old for females"
-            ],
-            correct: "C. 18 years old for both parties"
-          },
-          {
-            question: "Ruben Dolor and Trisha Dolor, who contracted marriage in 1999, are governed by the regime of absolute community of property. If Ruben intends to donate a parcel of land-classified as community property-to his cousin, which of the following statements accurately reflects the legal requirement under the Family Code?",
-            options: [
-              "A Yes, he may dispose of community property by donation at his sole discretion.",
-              "B No, such donation requires the prior consent of his spouse to be valid.",
-              "C No, the donation of community property to a third party is strictly prohibited by law.",
-              "D None of the above."
-            ],
-            correct: "B No, such donation requires the prior consent of his spouse to be valid."
-          },
-          {
-            question: "In a marital union governed either by the regime of absolute community or conjugal partnership of gains, if one spouse unilaterally assumes exclusive authority over the administration of shared property and proceeds to alienate or sell such property without the consent of the other spouse, how is the validity of such transaction affected under the Family Code of the Philippines?",
-            options: [
-              "A Valid",
-              "B Void",
-              "C Unenforceable",
-              "D Rescissible",
-              "E None of the above"
-            ],
-            correct: "B Void"
-          },
-          {
-            question: "Mr. Alexander Reyes has been absent from his marital domicile for over five months, with his current whereabouts remaining unknown. During his absence, his wife has been independently managing their shared properties, and now seeks to sell one of their agricultural parcels. Under the Family Code, is the wife legally authorized to proceed with the sale of the said land?",
-            options: [
-              "A No. A single spouse lacks the unilateral authority to alienate community property; this restriction is absolute.",
-              "B No. The potential sale, if executed, would be voidable by the absent spouse upon return.",
-              "C Yes. The wife may sell the property, but only upon securing judicial authorization for such a transaction.",
-              "D Yes. The wife may proceed with the sale if she has made substantial efforts to compel her husband's consent or has communicated an explicit threat.",
-              "E None of the above."
-            ],
-            correct: "C Yes. The wife may sell the property, but only upon securing judicial authorization for such a transaction."
-          },
-          {
-            question: "Ms. Isabella Navarro, a widow for seven months, has yet to initiate the formal liquidation of her late husband's estate and their community property. Now, she intends to sell one of the properties that forms part of their shared estate. Does she possess the legal capacity to complete this sale?",
-            options: [
-              "A No. The sale will be voidable, as the liquidation process has not been undertaken.",
-              "B Yes. The law does not impose any restrictions on her ability to conduct the sale.",
-              "C No. The sale will be considered void due to the lack of liquidation and settlement of estate.",
-              "D Yes. As a co-owner of the property, she is entitled to sell the entire asset even without liquidation and settlement of estate."
-            ],
-            correct: "C No. The sale will be considered void due to the lack of liquidation and settlement of estate."
-          },
-          {
-            question: "It consists of all the property owned by the spouses at the time of the celebration of the marriage or acquired thereafter.",
-            options: [
-              "A Capital property",
-              "B Paraphernal property",
-              "C Absolute community of property",
-              "D Conjugal partnership of gains",
-              "E None of the above"
-            ],
-            correct: "C Absolute community of property"
-          },
-          {
-            question: "Under this regime, the husband and wife place in a common fund the proceeds, products fruits and income from their separate properties and those acquired by either or both spouses through their efforts or by chance.",
-            options: [
-              "A Capital property",
-              "B Paraphernal property",
-              "C Absolute community of property",
-              "D Conjugal partnership of gains",
-              "E None of the above"
-            ],
-            correct: "D Conjugal partnership of gains"
-          },
-          {
-            question: "Under the regime of separation of property, is it necessary for one spouse to secure the consent of the other before selling their separate property?",
-            options: [
-              "A Yes, both spouses must agree before either can sell their separate property.",
-              "B No, each spouse has full autonomy to sell their separate estate without the consent of the other.",
-              "C Yes, but only if the separate property is being sold for a substantial amount.",
-              "D No, but the other spouse must be informed about the sale."
-            ],
-            correct: "B No, each spouse has full autonomy to sell their separate estate without the consent of the other."
-          },
-          {
-            question: "In the case of an unemancipated common child, who shall jointly exercise legal guardianship over the child's property through court appointment?",
-            options: [
-              "A Both the father and the mother, unless otherwise directed by the court.",
-              "B Only the mother",
-              "C Only the father, as the primary legal guardian.",
-              "D Neither parent, as a guardian ad litem will be appointed by the court."
-            ],
-            correct: "A Both the father and the mother, unless otherwise directed by the court."
-          },
-          {
-            question: "Mr. Rafael Santos and Ms. Claudia Reyes were married in 2000. After five years of marriage, Mr. Santos filed a petition for the declaration of nullity, which the court granted. Their properties were divided, and the judgment was duly recorded in the local civil registrar and the register of deeds. Now, Mr. Santos wishes to sell his condominium unit, which he acquired in 2005. Can he legally proceed with the sale of the property without the consent of Ms. Reyes?",
-            options: [
-              "A Yes, since the marriage is declared void, he is free to dispose of the property independently.",
-              "B No, despite the declaration of nullity, the division of the property is irrelevant, and his wife's consent is still required.",
-              "C Yes, provided that the property was already part of his separate estate as recognized by the court's decision.",
-              "D No, because the property was acquired during the marriage, and the court's division has not affected his wife's share."
-            ],
-            correct: "C Yes, provided that the property was already part of his separate estate as recognized by the court's decision."
-          },
-          {
-            question: "Mr. Alan Cruz and Ms. Beatrice Reyes married in 2010. They have one child, Emma. In 2012, Mr. Cruz wanted to purchase a condominium unit. Can he proceed with the purchase even without Ms. Reyes's consent and signature?",
-            options: [
-              "A Yes, as this is still a valid sale",
-              "B No, the consent of both spouses is required for purchase transactions.",
-              "C This is outside the scope of the board examination",
-              "D Yes, as long as the property is considered his separate property."
-            ],
-            correct: "A Yes, as this is still a valid sale"
-          },
-          {
-            question: "In the scenario above, assuming Mr. Cruz bought the condominium unit without obtaining the consent and signature of Ms. Reyes, to whom does the property belong?",
-            options: [
-              "A Mr. Alan Cruz only",
-              "B Ms. Beatrice Reyes only",
-              "C Both Mr. Cruz and Ms. Reyes forming part of the community property",
-              "D Both Mr. Cruz and Ms. Reyes forming part of the conjugal property",
-              "E None of the above"
-            ],
-            correct: "C Both Mr. Cruz and Ms. Reyes forming part of the community property"
-          },
-          {
-            question: "Let's assume again that Mr. Cruz stated in the Reservation Agreement, Contract to Sell, and Deed of Sale that he was single, and the condominium title was issued solely in his name. Who owns the condominium unit?",
-            options: [
-              "A Mr. Alan Cruz only",
-              "B Ms. Beatrice Reyes only",
-              "C Both Mr. Cruz and Ms. Reyes",
-              "D Emma Cruz",
-              "E None of the above"
-            ],
-            correct: "C Both Mr. Cruz and Ms. Reyes"
-          },
-          {
-            question: "Assuming Ms. Reyes acknowledged that the condominium unit belongs exclusively to Mr. Cruz, can Mr. Cruz legally sell the unit to Ms. Reyes?",
-            options: [
-              "A Yes, since they mutually agreed.",
-              "B No, because the sale would require formalities and specific legal processes.",
-              "C Yes, but the Deed of Sale would be subject to the approval of the court.",
-              "D No, the sale is void as they are governed by absolute community property regime"
-            ],
-            correct: "D No, the sale is void as they are governed by absolute community property regime"
-          },
-          {
-            question: "In continuation of the above problem, five years into their marriage, the parents of Mr. Cruz passed away, and he inherited a 10-hectare farm. Mr. Cruz was able to process the title for the land, and it is named 'Mr. Alan Cruz married to Ms. Beatrice Reyes.' The farm is considered:",
-            options: [
-              "A Part of the absolute community of property",
-              "B Part of the conjugal partnership of gains",
-              "C Mr. Cruz's paraphemal property",
-              "D A capital property under the family code",
-              "E None of the above"
-            ],
-            correct: "D A capital property under the family code"
-          },
-          {
-            question: "In what year did the Subdivision and Condominium Buyers' Protective Decree (PD 957) officially take effect, setting the foundation for real estate buyer protection in the Philippines?",
-            options: [
-              "A 1972",
-              "B 1976",
-              "C 1981",
-              "D 1986"
-            ],
-            correct: "B 1976"
-          },
-          {
-            question: "According to the Implementing Rules and Regulations (IRR) of PD 957, what is the maximum allowable length of a block within a subdivision development?",
-            options: [
-              "A 300 meters",
-              "B 400 meters",
-              "C 500 meters",
-              "D 1,000 meters"
-            ],
-            correct: "B 400 meters"
-          },
-          {
-            question: "Which development plan approval authority has been decentralized from the DHSUD to local government units (LGUs)?",
-            options: [
-              "A Approval of condominium plans",
-              "B Approval of subdivision plans",
-              "C Approval of residential condominium projects",
-              "D Approval of memorial parks"
-            ],
-            correct: "B Approval of subdivision plans"
-          },
-          {
-            question: "Under PD 957's IRR, what is the minimum lot area requirement for single-detached units in open market housing projects?",
-            options: [
-              "A 80 sq. meters",
-              "B 120 sq. meters",
-              "C 60 sq. meters",
-              "D 50 sq. meters"
-            ],
-            correct: "B 120 sq. meters"
-          },
-          {
-            question: "What is the mandated minimum frontage for a rowhouse unit under PD 957?",
-            options: [
-              "A 3 meters",
-              "B 3.5 meters",
-              "C 4 meters",
-              "D 5 meters"
-            ],
-            correct: "C 4 meters"
-          },
-          {
-            question: "As prescribed in PD 957's IRR, what is the maximum number of rowhouses allowed in a single cluster or block?",
-            options: [
-              "A 20 units",
-              "B 30 units",
-              "C 40 units",
-              "D 10 units"
-            ],
-            correct: "a) 20 units"
-          },
-          {
-            question: "Under PD 957, what is the minimum daily water supply provision required per person in a subdivision?",
-            options: [
-              "A 100 liters",
-              "B 150 liters",
-              "C 200 liters",
-              "D 250 liters"
-            ],
-            correct: "b) 150 liters"
-          },
-          {
-            question: "What term refers to a parcel of land enclosed by streets, paths, or natural/man-made boundaries and is designated for building development?",
-            options: [
-              "A Open space",
-              "B Block",
-              "C Alleys",
-              "D Playground"
-            ],
-            correct: "B Block"
-          },
-          {
-            question: "In subdivision developments, how is a structure that serves as a place of residence generally defined?",
-            options: [
-              "A House",
-              "B Dwelling",
-              "C Living quarters",
-              "D Rowhouse"
-            ],
-            correct: "b) Dwelling"
-          },
-          {
-            question: "Under PD 957, what term describes a dwelling unit fully surrounded by open space or yards?",
-            options: [
-              "A Open space",
-              "B Single-detached",
-              "C Single-attached",
-              "D Rowhouse"
-            ],
-            correct: "B Duplex"
-          },
-          {
-            question: "What is the appropriate term for a residential structure consisting of two separate living units, divided by a firewall and each having independent access?",
-            options: [
-              "A Single-attached units",
-              "B Rowhouse",
-              "C Duplex",
-              "D Compound"
-            ],
-            correct: "C Duplex"
-          },
-          {
-            question: "What type of wall extends from the foundation up to or beyond the roof to prevent fire from spreading between units?",
-            options: [
-              "A Building partition",
-              "B Firewall",
-              "C Party wall",
-              "D Boundary wall"
-            ],
-            correct: "B Firewall"
-          },
-          {
-            question: "What do you call a lot that is located at the intersection of two or more streets?",
-            options: [
-              "A Corner lot",
-              "B Through lot",
-              "C Intersection lot",
-              "D Crossing lot"
-            ],
-            correct: "A Corner lot"
-          },
-          {
-            question: "According to PD 957, how is a lot described if it does not conform to a rectangular or square shape?",
-            options: [
-              "A Irregular lot",
-              "B Non-conforming lot",
-              "C Non-regular lot",
-              "D Corner lot"
-            ],
-            correct: "A Irregular lot"
-          },
-          {
-            question: "Under BP 220's IRR, what is the minimum lot area required for a single-detached unit in a socialized housing development?",
-            options: [
-              "A 72 sq. meters",
-              "B 64 sq. meters",
-              "C 48 sq. meters",
-              "D 28 sq. meters"
-            ],
-            correct: "B 64 sq. meters"
-          },
-          {
-            question: "For rowhouse units under BP 220, what is the required minimum frontage of a lot?",
-            options: [
-              "A 3 meters",
-              "B 4 meters",
-              "C 5 meters",
-              "D 3.5 meters"
-            ],
-            correct: "D 3.5 meters"
-          },
-          {
-            question: "What is the term for a public passage at least 2 meters wide, cutting through a block and allowing access for both pedestrians and emergency vehicles?",
-            options: [
-              "A Pedestrian lane",
-              "B Alley",
-              "C Walkway",
-              "D Pathway"
-            ],
-            correct: "b) Alley"
-          },
-          {
-            question: "The HSAC's power to adjudicate buyer complaints against developers is considered what type of function?",
-            options: [
-              "A Judicial",
-              "B Quasi-judicial",
-              "C Administrative",
-              "D Regulatory"
-            ],
-            correct: "B Quasi-judicial"
-          },
-          {
-            question: "What housing type refers to single-family detached units grouped in compact arrangements containing three or more separate living units?",
-            options: [
-              "A Cluster housing",
-              "B Compound",
-              "C Rowhouses",
-              "D Single-attached units"
-            ],
-            correct: "A Cluster housing"
-          },
-          {
-            question: "What is a residential unit that satisfies core housing standards and includes essential components such as walls, flooring, plumbing, and electrical wiring?",
-            options: [
-              "A Socialized housing",
-              "B Shell house",
-              "C Core house",
-              "D Bare house"
-            ],
-            correct: "C Core house"
-          },
-          {
-            question: "Under BP 220's IRR, what is a shell house with added features like windows, doors, and interior partitions called?",
-            options: [
-              "A Livable house",
-              "B Basic house",
-              "C Complete house",
-              "D Minimum basic house"
-            ],
-            correct: "C Complete house"
-          },
-          {
-            question: "What is the required minimum width for a public pedestrian access path (also known as a pathwalk)?",
-            options: [
-              "A 3 meters",
-              "B 3.5 meters",
-              "C 4 meters",
-              "D 2 meters"
-            ],
-            correct: "A 3 meters"
-          },
-          {
-            question: "Which of the following best describes the primary purpose of Batas Pambansa Big. 220 (BP 220)?",
-            options: [
-              "A To regulate high-end residential developments in urban areas",
-              "B To establish planning standards for industrial parks and commercial centers",
-              "C To provide development and design standards for economic and socialized housing projects",
-              "D To control the sale of condominium units and subdivisions to foreign nationals"
-            ],
-            correct: "C To provide development and design standards for economic and socialized housing projects"
-          },
-    ],
-  },
+            "correct": "A. 20"
+          }
+        ]
+      },
 ];
